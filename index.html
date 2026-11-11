@@ -1,0 +1,305 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NEED Wiki</title>
+<style>
+  :root { --bg:#eef2f5; --panel:#fff; --ink:#17232f; --mute:#5d6c7a; --line:#d3dbe3; --accent:#2e5e8c; --gold:#b5832a; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#141b22; --panel:#1b242d; --ink:#e3e9ee; --mute:#93a2b0; --line:#2f3b46; --accent:#7fb0de; --gold:#d9a84a; }
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; }
+  body { display: grid; grid-template-rows: auto 1fr; background: var(--bg); color: var(--ink);
+         font: 15px/1.55 system-ui, "Segoe UI", sans-serif; }
+  header { display: flex; gap: .6rem; align-items: center; padding: .6rem 1rem; background: var(--panel);
+           border-bottom: 1px solid var(--line); }
+  header h1 { font-size: 1.05rem; margin: 0 auto 0 0; }
+  input, select, button { font: inherit; color: inherit; background: var(--panel); border: 1px solid var(--line);
+                          border-radius: 6px; padding: .35rem .6rem; }
+  button { cursor: pointer; }
+  button:hover { border-color: var(--accent); }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+  main { display: grid; grid-template-columns: 18rem 1fr; min-height: 0; }
+  nav { overflow: auto; padding: .8rem; border-right: 1px solid var(--line); background: var(--panel); }
+  nav input { width: 100%; margin-bottom: .6rem; }
+  nav h2 { font-size: .8rem; color: var(--gold); margin: 1rem 0 .25rem; text-transform: uppercase; letter-spacing: .04em; }
+  nav a { display: block; padding: .25rem .4rem; border-radius: 4px; color: var(--ink); text-decoration: none; }
+  nav a:hover, nav a.on { background: var(--bg); color: var(--accent); }
+  article { overflow: auto; padding: 1.5rem clamp(1rem, 4vw, 3.5rem); }
+  .doc { max-width: 48rem; }
+  .doc h1 { font-size: 1.9rem; line-height: 1.2; margin: 0 0 .3rem; }
+  .doc h3 { margin: 1.6rem 0 .3rem; }
+  .doc img { max-width: 100%; border-radius: 4px; margin: .5rem 0; }
+  .meta { color: var(--mute); font-size: .85rem; margin-bottom: 1.2rem; }
+  .doc a { color: var(--accent); }
+  .scroll { overflow-x: auto; }
+  table { border-collapse: collapse; margin: .8rem 0; font-size: .92rem; }
+  td, th { border: 1px solid var(--line); padding: .3rem .6rem; text-align: left; vertical-align: top; }
+  th { background: var(--panel); }
+  details { border: 1px solid var(--line); border-radius: 6px; padding: .3rem .8rem; margin: .5rem 0; background: var(--panel); }
+  summary { cursor: pointer; font-weight: 600; }
+  mark { background: var(--gold); color: #fff; border-radius: 3px; padding: 0 .3em; font-size: .75rem; }
+  .err { border-left: 3px solid var(--gold); padding-left: .8rem; }
+  pre { white-space: pre-wrap; word-break: break-word; background: var(--panel); border: 1px solid var(--line);
+        padding: .8rem; border-radius: 6px; font-size: .8rem; }
+  @media (max-width: 760px) {
+    main { grid-template-columns: 1fr; grid-template-rows: 13rem 1fr; }
+    nav { border-right: 0; border-bottom: 1px solid var(--line); }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>NEED Wiki</h1>
+  <select id="lang" aria-label="Language">
+    <option value="en">English</option>
+    <option value="kr">Korean</option>
+  </select>
+  <button id="raw" title="Show the raw data for this article">Raw</button>
+</header>
+<main>
+  <nav>
+    <input id="q" type="search" placeholder="Search articles" aria-label="Search articles">
+    <div id="list"></div>
+  </nav>
+  <article>
+    <div id="out" class="doc"><p>Loading…</p></div>
+  </article>
+</main>
+
+<script>
+// ---- Configuration -------------------------------------------------------
+// Where the wiki data comes from. Set this to your proxy (see worker.js and README.md).
+// It must end with a slash.
+const DATA = "https://YOUR-PROXY.example.workers.dev/wiki/";
+
+// ---- State ---------------------------------------------------------------
+let lang = localStorage.getItem("wikiLang") || "en";
+let items = [];
+let cats = {};
+let current = null;
+let currentData = null;
+let currentUrl = "";
+let showRaw = false;
+
+// ---- Helpers -------------------------------------------------------------
+const $ = (s) => document.querySelector(s);
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const IMG = /\.(png|jpe?g|gif|webp|svg)$/i;
+
+function list(x) {
+  if (Array.isArray(x)) return x;
+  for (const k of ["articles", "items", "data", "list"]) if (Array.isArray(x?.[k])) return x[k];
+  return Object.entries(x || {}).map(([k, v]) => (v && typeof v === "object" ? { id: k, ...v } : { id: k, title: v }));
+}
+const idOf = (o) => String(o.id ?? o.article_id ?? o.key ?? o.slug ?? o.name ?? "");
+
+function titleOf(o) {
+  for (const k of ["title_" + lang, "title", "name", "identifiedDisplayName"]) {
+    const v = o?.[k];
+    if (typeof v === "string" && v) return v;
+    if (v && typeof v === "object") {
+      const s = v[lang] ?? v.en ?? v.kr;
+      if (typeof s === "string") return s;
+    }
+  }
+  return idOf(o);
+}
+
+function catOf(o) {
+  const c = o.category ?? o.category_id ?? o.cat ?? o.group;
+  if (c == null) return "Other";
+  if (typeof c === "object") return titleOf(c);
+  return cats[c] || String(c);
+}
+
+// Inline markup used in article text: colour codes, links, items, badges.
+function fmt(text) {
+  let s = esc(text);
+  s = s.replace(/\^[0-9a-fA-F]{6}/g, "");                                         // NEED colour codes
+  s = s.replace(/\[COLOR:(#[0-9a-fA-F]{3,8}|[a-z]+)\]([\s\S]*?)\[\/COLOR\]/gi, '<span style="color:$1">$2</span>');
+  s = s.replace(/\[LINK:([^|\]]+)\|([^\]]*)\]/g, (_, id, label) =>
+    `<a href="#${encodeURIComponent(id)}" data-id="${id}">${label}</a>`);
+  s = s.replace(/\[ITEM:([^|\]]+)(?:\|([^\]]*))?\]/g, (_, id, label) => `<b>${label || id}</b>`);
+  s = s.replace(/\[BADGE:([^\]]*)\]/g, "<mark>$1</mark>");
+  return s;
+}
+
+function img(src) {
+  const url = /^https?:/.test(src) ? src : DATA + (src.startsWith("images/") ? src : "images/" + src);
+  return `<img src="${esc(url)}" alt="" loading="lazy">`;
+}
+
+function table(head, rows = []) {
+  if (!head && rows[0] && !Array.isArray(rows[0])) head = Object.keys(rows[0]);
+  const cell = (c) => (c && typeof c === "object" ? block(c) : fmt(c ?? ""));
+  const row = (r) => "<tr>" + (Array.isArray(r) ? r : head.map((k) => r[k])).map((c) => `<td>${cell(c)}</td>`).join("") + "</tr>";
+  const headRow = head ? "<tr>" + head.map((h) => `<th>${fmt(typeof h === "object" ? titleOf(h) : h)}</th>`).join("") + "</tr>" : "";
+  return `<div class="scroll"><table>${headRow}${rows.map(row).join("")}</table></div>`;
+}
+
+// Turns one block of article content into HTML. Unknown blocks are shown as raw data, not hidden.
+function block(n) {
+  if (n == null) return "";
+  if (typeof n === "string") return IMG.test(n) && !/\s/.test(n) ? img(n) : `<p>${fmt(n).replace(/\n/g, "<br>")}</p>`;
+  if (typeof n !== "object") return `<p>${fmt(n)}</p>`;
+  if (Array.isArray(n)) {
+    if (n.length > 1 && n.every((r) => r && typeof r === "object" && !Array.isArray(r)) &&
+        n.every((r) => Object.keys(r).join() === Object.keys(n[0]).join()) && Object.keys(n[0]).length < 9) {
+      return table(null, n);
+    }
+    return n.map(block).join("");
+  }
+
+  const type = String(n.type || n.block || n.kind || "").toLowerCase();
+  const text = n.text ?? n.content ?? n.value ?? n.body;
+  const kids = n.blocks ?? n.children ?? n.sections;
+
+  if (/^h[1-6]$|heading|title/.test(type)) return `<h3>${fmt(text ?? n.title ?? "")}</h3>`;
+  if (/list|^[uo]l$/.test(type)) {
+    return "<ul>" + (n.items || n.children || []).map((i) => `<li>${typeof i === "string" ? fmt(i) : block(i)}</li>`).join("") + "</ul>";
+  }
+  if (type === "table") return table(n.headers || n.columns, n.rows || n.data);
+  if (/image|img/.test(type)) {
+    return img(String(n.src ?? n.path ?? n.url ?? n.image ?? "")) + (n.caption ? `<div class="meta">${fmt(n.caption)}</div>` : "");
+  }
+  if (/divider|^hr$/.test(type)) return "<hr>";
+  if (/tab/.test(type) && Array.isArray(n.tabs || n.items)) {
+    return (n.tabs || n.items).map((t) => `<details open><summary>${fmt(titleOf(t))}</summary>${block(t.blocks ?? t.content ?? t.children)}</details>`).join("");
+  }
+  if (type && !kids && typeof text !== "string") {
+    return `<details><summary>Unsupported block: ${esc(type)}</summary><pre>${esc(JSON.stringify(n, null, 2))}</pre></details>`;
+  }
+  if (kids || typeof text === "string" || type) {
+    return (typeof text === "string" ? block(text) : "") + (kids ? block(kids) : "");
+  }
+  return "<dl>" + Object.entries(n).map(([k, v]) => `<dt>${esc(k)}</dt><dd>${typeof v === "object" ? block(v) : esc(v)}</dd>`).join("") + "</dl>";
+}
+
+// ---- Data loading --------------------------------------------------------
+// English first (en/...), then the base file, which is Korean on the NEED server.
+const variants = (path) => (lang === "en" ? ["en/" + path, path] : [path]);
+
+async function getJson(path) {
+  const res = await fetch(DATA + path);
+  if (!res.ok) throw new Error(`HTTP ${res.status} for ${path}`);
+  return res.json();
+}
+
+async function firstThatLoads(paths) {
+  for (const p of paths) {
+    try { return { data: await getJson(p), path: p }; } catch { /* try the next one */ }
+  }
+  return null;
+}
+
+async function loadIndex() {
+  const idx = await firstThatLoads(variants("articles_index.json"));
+  if (!idx) throw new Error("Could not load the wiki index. Check the DATA address in index.html.");
+  items = list(idx.data);
+
+  cats = {};
+  const cat = await firstThatLoads(variants("categories.json"));
+  if (cat) list(cat.data).forEach((c) => (cats[idOf(c)] = titleOf(c)));
+  renderNav();
+}
+
+// ---- Navigation ----------------------------------------------------------
+function renderNav() {
+  const q = $("#q").value.trim().toLowerCase();
+  const groups = {};
+  items
+    .filter((o) => (titleOf(o) + " " + idOf(o)).toLowerCase().includes(q))
+    .forEach((o) => (groups[catOf(o)] ??= []).push(o));
+
+  let html = `<a href="#@status" data-id="@status" class="${current === "@status" ? "on" : ""}">Server status</a>`;
+  for (const [cat, list] of Object.entries(groups)) {
+    html += `<h2>${esc(cat)}</h2>`;
+    html += list.map((o) => {
+      const id = idOf(o);
+      return `<a href="#${encodeURIComponent(id)}" data-id="${esc(id)}" class="${id === current ? "on" : ""}">${esc(titleOf(o))}</a>`;
+    }).join("");
+  }
+  $("#list").innerHTML = html;
+}
+
+async function openArticle(id) {
+  current = id;
+  renderNav();
+  if (location.hash.slice(1) !== encodeURIComponent(id)) history.replaceState(null, "", "#" + encodeURIComponent(id));
+  const out = $("#out");
+  out.innerHTML = "<p>Loading…</p>";
+
+  const it = items.find((o) => idOf(o) === id) || { id };
+  const candidates = id === "@status"
+    ? variants("server_status.json")
+    : [it.path, it.file].filter((s) => typeof s === "string").concat(variants(`articles/${id}.json`));
+
+  const hit = await firstThatLoads(candidates);
+  if (!hit) {
+    out.innerHTML = `<h1>${esc(titleOf(it))}</h1><p class="err">This article could not be loaded.</p>`;
+    currentData = null;
+    return;
+  }
+
+  currentData = hit.data;
+  currentUrl = DATA + hit.path;
+  render(titleOf(it), catOf(it));
+}
+
+function render(title, meta) {
+  const out = $("#out");
+  const body = showRaw
+    ? `<pre>${esc(JSON.stringify(currentData, null, 2))}</pre>`
+    : block(currentData);
+  out.innerHTML = `<h1>${esc(title)}</h1><div class="meta">${esc(meta)} · <a href="${esc(currentUrl)}" target="_blank" rel="noopener">source</a></div>${body}`;
+}
+
+// ---- Wiring --------------------------------------------------------------
+document.addEventListener("click", (e) => {
+  const a = e.target.closest("a[data-id]");
+  if (a) {
+    e.preventDefault();
+    openArticle(a.dataset.id);
+  }
+});
+
+window.addEventListener("hashchange", () => {
+  const id = decodeURIComponent(location.hash.slice(1));
+  if (id && id !== current) openArticle(id);
+});
+
+$("#q").addEventListener("input", renderNav);
+
+$("#lang").value = lang;
+$("#lang").addEventListener("change", async (e) => {
+  lang = e.target.value;
+  localStorage.setItem("wikiLang", lang);
+  try {
+    await loadIndex();
+    if (current) await openArticle(current);
+  } catch (err) {
+    $("#out").innerHTML = `<p class="err">${esc(err.message)}</p>`;
+  }
+});
+
+$("#raw").addEventListener("click", () => {
+  showRaw = !showRaw;
+  if (currentData) render($("#out h1")?.textContent || "", $("#out .meta")?.textContent || "");
+});
+
+(async function start() {
+  try {
+    await loadIndex();
+    const start = decodeURIComponent(location.hash.slice(1)) || (items[0] && idOf(items[0]));
+    if (start) await openArticle(start);
+    else $("#out").innerHTML = "<p>The wiki index is empty.</p>";
+  } catch (err) {
+    $("#out").innerHTML = `<p class="err">${esc(err.message)}</p>`;
+  }
+})();
+</script>
+</body>
+</html>
