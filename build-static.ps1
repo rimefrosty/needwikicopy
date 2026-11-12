@@ -71,20 +71,31 @@ foreach ($id in $ids) {
 }
 foreach ($file in $extraFiles) { Save-WikiFile $file | Out-Null }
 
-# 3. Every image the downloaded articles refer to.
+# 3. Every image the downloaded articles refer to. The data uses several forms: image fields,
+#    inline [IMG:...] tags, and names with or without a file extension.
 Write-Host "Finding images..."
 $imageNames = New-Object System.Collections.Generic.HashSet[string]
+$fieldPattern = '"(?:path|src|image|img|icon|file)"\s*:\s*"([^"]+)"'
+$tagPattern = '\[(?:IMG|IMAGE|ICON):([^\]|]+)'
 Get-ChildItem $Out -Recurse -Filter *.json | ForEach-Object {
     $text = Get-Content $_.FullName -Raw -Encoding UTF8
-    foreach ($m in [regex]::Matches($text, '"([^"\\]+\.(?:png|jpe?g|gif|webp|svg))"', 'IgnoreCase')) {
-        $name = $m.Groups[1].Value
-        if ($name -notmatch '^https?:') { [void]$imageNames.Add($name) }
-    }
+    foreach ($m in [regex]::Matches($text, $fieldPattern, 'IgnoreCase')) { [void]$imageNames.Add($m.Groups[1].Value) }
+    foreach ($m in [regex]::Matches($text, $tagPattern, 'IgnoreCase')) { [void]$imageNames.Add($m.Groups[1].Value.Trim()) }
 }
-Write-Host "Downloading $($imageNames.Count) images..."
+
+$imageExtensions = '.png', '.jpg', '.gif', '.webp'
+Write-Host "Downloading images..."
 foreach ($name in $imageNames) {
-    $rel = if ($name -match '/') { $name } else { "images/$name" }
-    Save-WikiFile $rel | Out-Null
+    if ($name -match '^https?:') { continue }
+    $imagePath = if ($name -match '/') { $name } else { "images/$name" }
+    if ([System.IO.Path]::GetExtension($imagePath)) {
+        Save-WikiFile $imagePath | Out-Null
+    } else {
+        # No extension in the data: try the common image types.
+        foreach ($ext in $imageExtensions) {
+            if (Save-WikiFile ($imagePath + $ext)) { break }
+        }
+    }
 }
 
 Write-Host ""
