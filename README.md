@@ -1,37 +1,6 @@
 # NEED Wiki website (static version)
 
-A static copy of the NEED RO wiki that runs entirely in the browser. It needs no proxy, no server and no browser engine.
-
-## Files
-
-- `index.html`: the whole site.
-- `build-static.ps1`: downloads the wiki data from NEED's server into a `data` folder.
-- `data\`: created by the script. This is the wiki itself (articles, index, images).
-- `worker.js`: the old proxy. You don't need it for the static site, so you can ignore it.
-
-## Step 1: Download the data (on your PC)
-
-Open a terminal in this folder and run:
-
-```
-powershell -ExecutionPolicy Bypass -File build-static.ps1
-```
-
-It prints progress and then "Done". It takes a few minutes the first time. Afterwards, the `data` folder holds a complete copy of the wiki.
-
-To refresh the copy later (for example after a NEED update), delete the `data` folder and run the script again.
-
-## Step 2: Publish to Cloudflare Pages
-
-Upload `index.html` and the `data` folder together. Use the dashboard's **Upload assets** option, or the command line:
-
-```
-npx wrangler pages deploy . --project-name need-wiki
-```
-
-Run that from this folder. Your site then appears at `https://need-wiki.pages.dev`.
-
-Upload only `index.html` and `data`. The other files aren't needed on the site.
+A static copy of the NEED RO wiki.
 
 ## Notes
 
