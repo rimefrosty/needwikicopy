@@ -1,0 +1,386 @@
+{
+  "id": "enchant_sarah_earring",
+  "title": "Sarah's Earring",
+  "summary": "An accessory enchant system that uses Fragments of Gigantes to add special enchants to Sarah's Left Earring and Sarah's Right Earring.",
+  "keywords": [
+    "사라의 귀걸이",
+    "사라의 왼쪽 귀걸이",
+    "사라의 오른쪽 귀걸이",
+    "Sarah Earring",
+    "기간테스의 파편",
+    "수석 조교",
+    "사라의 귀걸이 인챈트",
+    "인챈트"
+  ],
+  "tags": [
+    "인챈트",
+    "사라의 귀걸이",
+    "액세서리"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant"
+    },
+    {
+      "text": "Sarah's Earring"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Sarah's Earring"
+    },
+    {
+      "type": "text",
+      "text": "An accessory enchant system that adds up to 2 enchants to the [ITEM:28310|Sarah's Left Earring] and the [ITEM:28311|Sarah's Right Earring]."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Overview",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "How It Works",
+      "target": "#process"
+    },
+    {
+      "type": "link",
+      "text": "Eligible Equipment",
+      "target": "#target"
+    },
+    {
+      "type": "link",
+      "text": "Differences by Equip Slot",
+      "target": "#position"
+    },
+    {
+      "type": "link",
+      "text": "Enchant Categories",
+      "target": "#enchant-type"
+    },
+    {
+      "type": "link",
+      "text": "Option List",
+      "target": "#enchant-list"
+    },
+    {
+      "type": "link",
+      "text": "Reset",
+      "target": "#reset"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "link",
+      "text": "Location",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "References",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "Overview",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "The Assistant Professor adds special enchants to Sarah's Earrings."
+    },
+    {
+      "type": "text",
+      "text": "Each Sarah's Earring can get up to 2 enchants, in the order slot 4 → slot 3."
+    },
+    {
+      "type": "notice",
+      "title": "Requirements",
+      "text": "According to the script, the NPC can only be used after meeting the Sarah and Fenrir progress requirements."
+    },
+    {
+      "type": "heading",
+      "text": "How It Works",
+      "anchor": "process"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "NPC",
+          "Assistant Professor"
+        ],
+        [
+          "Location",
+          "[NAVI:lasa_in01,189,50,Assistant Professor]"
+        ],
+        [
+          "Eligible Equipment",
+          "[ITEM:28310|Sarah's Left Earring], [ITEM:28311|Sarah's Right Earring]"
+        ],
+        [
+          "Enchant Materials",
+          "4 [ITEM:6803|Fragment of Gigantes] per attempt"
+        ],
+        [
+          "Enchant Order",
+          "Slot order 4 → 3"
+        ],
+        [
+          "Max Enchants",
+          "Up to 2 per earring"
+        ],
+        [
+          "On Failure",
+          "Earring destroyed"
+        ],
+        [
+          "Reset Material",
+          "1 [ITEM:6803|Fragment of Gigantes]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Eligible Equipment",
+      "anchor": "target"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Equipment",
+        "Category",
+        "Enchants"
+      ],
+      "rows": [
+        [
+          "[ITEM:28310|Sarah's Left Earring]",
+          "Accessory",
+          "Up to 2"
+        ],
+        [
+          "[ITEM:28311|Sarah's Right Earring]",
+          "Accessory",
+          "Up to 2"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Must Be Equipped",
+      "text": "The Sarah's Earring you want to enchant must be equipped in the left or right accessory slot."
+    },
+    {
+      "type": "heading",
+      "text": "Differences by Equip Slot",
+      "anchor": "position"
+    },
+    {
+      "type": "text",
+      "text": "For Sarah's Earring enchants, the number of candidate options and the destruction rate depend on the equip slot."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Equip Slot",
+        "Candidate Options",
+        "Rate per Option",
+        "Success Rate",
+        "Destroy Rate"
+      ],
+      "rows": [
+        [
+          "Left accessory slot",
+          "4 common candidates",
+          "20% each",
+          "80%",
+          "20%"
+        ],
+        [
+          "Right accessory slot",
+          "4 common candidates + 2 extra candidates",
+          "10% each",
+          "60%",
+          "40%"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Extra Candidates in the Right Slot",
+      "text": "Enchanting in the right accessory slot adds 2 extra candidates per category, but the overall destruction rate rises to 40%."
+    },
+    {
+      "type": "heading",
+      "text": "Enchant Categories",
+      "anchor": "enchant-type"
+    },
+    {
+      "type": "text",
+      "text": "When enchanting, you choose one of the four categories below."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Category",
+        "Option Focus"
+      ],
+      "rows": [
+        [
+          "CRI or Critical",
+          "CRI up, Critical damage up"
+        ],
+        [
+          "Expert Archer or Evasion",
+          "Ranged physical damage up, Perfect Dodge up"
+        ],
+        [
+          "Saving or MATK",
+          "Skill SP cost down, MATK up"
+        ],
+        [
+          "After Attack Delay or After Skill Delay",
+          "After Attack Delay down, After Skill Delay down"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Option List",
+      "anchor": "enchant-list"
+    },
+    {
+      "type": "notice",
+      "title": "About the List",
+      "text": "The left accessory slot gives one of the 4 common candidates; the right accessory slot gives one of 6, including the 2 extra candidates."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Category",
+        "Common Candidates",
+        "Extra Candidates (Right Slot)"
+      ],
+      "rows": [
+        [
+          "CRI or Critical",
+          "Critical Lv 1~2, Fatal Lv 1~2",
+          "Critical Lv 3, Fatal Lv 3"
+        ],
+        [
+          "Expert Archer or Evasion",
+          "Expert Archer Lv 1~2, Evasion Lv 1~2",
+          "Evasion Lv 3, Expert Archer Lv 3"
+        ],
+        [
+          "Saving or MATK",
+          "Saving Lv 1~2, MATK 3~4%",
+          "Saving Lv 3, MATK 5%"
+        ],
+        [
+          "After Attack Delay or After Skill Delay",
+          "After Attack Delay Lv 1~2, After Skill Delay Lv 1~2",
+          "After Skill Delay Lv 3, After Attack Delay Lv 3"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Reset",
+      "anchor": "reset"
+    },
+    {
+      "type": "text",
+      "text": "The Assistant Professor resets the enchants on Sarah's Earrings."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Reset Material",
+          "1 [ITEM:6803|Fragment of Gigantes]"
+        ],
+        [
+          "Reset Target",
+          "The equipped [ITEM:28310|Sarah's Left Earring] or [ITEM:28311|Sarah's Right Earring]"
+        ],
+        [
+          "Reset Scope",
+          "All enchants on it are reset"
+        ],
+        [
+          "Reset Requirement",
+          "Only earrings with at least 1 enchant"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Cannot Be Restored",
+      "text": "Enchant stats removed by a reset cannot be restored."
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "Destruction Risk",
+      "text": "A failed Sarah's Earring enchant destroys the equipment. Always check the destruction risk before enchanting."
+    },
+    {
+      "type": "notice",
+      "title": "Check the Equip Slot",
+      "text": "The candidate options and the destruction rate depend on the equip slot. Do not mix up the left and right accessory slots."
+    },
+    {
+      "type": "notice",
+      "title": "Enchant Limit",
+      "text": "An earring that already has 2 enchants cannot be enchanted any further."
+    },
+    {
+      "type": "heading",
+      "text": "Location",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:lasa_in01,189,50,Assistant Professor]"
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "iRO Wiki - Sarah Earring Enchants",
+          "url": "https://irowiki.org/wiki/Sarah_Earring_Enchants"
+        }
+      ]
+    }
+  ]
+}

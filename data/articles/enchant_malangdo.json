@@ -1,0 +1,155 @@
+{
+  "id": "enchant_malangdo",
+  "title": "⚒ 말랑도 장비",
+  "summary": "바다신의 분노를 사용하여 일부 고급 무기에 추가 능력치를 부여할 수 있는 인챈트 시스템입니다.",
+  "keywords": [
+    "말랑도",
+    "말랑도 인챈트",
+    "바다신의 분노",
+    "4레벨 무기",
+    "무기 인챈트"
+  ],
+  "tags": [
+    "인챈트",
+    "말랑도",
+    "무기"
+  ],
+  "breadcrumb": [
+    {
+      "text": "홈",
+      "target": "home"
+    },
+    {
+      "text": "인챈트"
+    },
+    {
+      "text": "말랑도 장비"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "말랑도 장비"
+    },
+    {
+      "type": "text",
+      "text": "바다신의 분노를 사용하여 일부 고급 무기에 추가 능력치를 부여할 수 있는 인챈트 시스템입니다."
+    },
+    {
+      "type": "heading",
+      "text": "목차"
+    },
+    {
+      "type": "link",
+      "text": "콘텐츠 소개",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "필요 재료",
+      "target": "#material"
+    },
+    {
+      "type": "link",
+      "text": "인챈트 옵션",
+      "target": "#option"
+    },
+    {
+      "type": "link",
+      "text": "대상 장비",
+      "target": "#target"
+    },
+    {
+      "type": "link",
+      "text": "이동",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "참고 자료",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "콘텐츠 소개",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "말랑도의 마요마요 NPC를 통해 일부 고급 무기에 추가 능력치를 부여할 수 있습니다."
+    },
+    {
+      "type": "text",
+      "text": "4레벨 무기를 포함한 다양한 고급 무기에 적용할 수 있으며, 무기 성능을 향상시키는 대표적인 인챈트 시스템입니다."
+    },
+    {
+      "type": "heading",
+      "text": "필요 재료",
+      "anchor": "material"
+    },
+    {
+      "type": "text",
+      "text": "[ITEM:6423|바다신의 분노]"
+    },
+    {
+      "type": "text",
+      "text": "인챈트를 진행할 대상 무기"
+    },
+    {
+      "type": "heading",
+      "text": "인챈트 옵션",
+      "anchor": "option"
+    },
+    {
+      "type": "notice",
+      "title": "추천 인챈트",
+      "text": "NEED 서버에서는 대부분의 경우 A~E급 코인 인챈트보다 바다신의 분노 인챈트를 추천합니다."
+    },
+    {
+      "type": "text",
+      "text": "바다신의 분노 인챈트는 무기 계열에 따라 공격력, ASPD, MATK 등의 유용한 옵션을 획득할 수 있습니다."
+    },
+    {
+      "type": "image",
+      "path": "enchant/malangdo_enchant_options.png",
+      "caption": "말랑도 인챈트 옵션 목록"
+    },
+    {
+      "type": "heading",
+      "text": "대상 장비",
+      "anchor": "target"
+    },
+    {
+      "type": "text",
+      "text": "4레벨 무기를 포함한 일부 고급 무기에 적용할 수 있습니다."
+    },
+    {
+      "type": "notice",
+      "title": "대상 무기",
+      "text": "적용 가능한 무기 목록은 아래 참고 자료에서 확인할 수 있습니다."
+    },
+    {
+      "type": "heading",
+      "text": "이동",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:lasa_in01,161,48,말랑도 인챈트 NPC]"
+    },
+    {
+      "type": "heading",
+      "text": "참고 자료",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "iRO Wiki - Malangdo Enchants",
+          "url": "https://irowiki.org/wiki/Malangdo_Enchants"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": "racing_cap",
+    "title": "장비 - 레이싱 캡",
+    "summary": "레이싱 캡 장비의 특징과 획득 정보를 확인할 수 있습니다.",
+    "keywords": [
+        "레이싱 캡",
+        "Racing Cap",
+        "장비",
+        "모자"
+    ],
+    "tags": [
+        "장비",
+        "투구"
+    ],
+    "breadcrumb": [
+        {
+            "text": "홈",
+            "target": "home"
+        },
+        {
+            "text": "장비 가이드",
+            "target": "equipment_main"
+        },
+        {
+            "text": "레이싱 캡"
+        }
+    ],
+    "blocks": [
+        {
+            "type": "heading",
+            "text": "레이싱 캡"
+        },
+        {
+            "type": "image",
+            "path": "content/racing_cap1.jpg",
+            "compact": true
+        },
+        {
+            "type": "image",
+            "path": "content/racing_cap2.jpg",
+            "compact": true
+        },
+        {
+            "type": "image",
+            "path": "content/racing_cap3.jpg",
+            "compact": true
+        },
+        {
+            "type": "image",
+            "path": "content/racing_cap4.jpg",
+            "compact": true
+        }
+    ]
+}

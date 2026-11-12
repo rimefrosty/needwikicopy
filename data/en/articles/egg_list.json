@@ -1,0 +1,259 @@
+{
+  "id": "egg_list",
+  "title": "Lucky Egg List",
+  "summary": "The Lucky Eggs sold on the NEED server, past and present.",
+  "keywords": [
+    "행운의 알",
+    "행운의 알 목록",
+    "럭키 에그",
+    "판매 목록"
+  ],
+  "tags": [
+    "행운의 알"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Lucky Egg"
+    },
+    {
+      "text": "Lucky Egg List"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Lucky Egg List"
+    },
+    {
+      "type": "text",
+      "text": "Lucky Eggs will be added step by step with server updates."
+    },
+    {
+      "type": "notice",
+      "title": "Note",
+      "text": "Each Lucky Egg's contents and rates are on its own page."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Lucky Egg",
+        "Status"
+      ],
+      "widths": [
+        "50%",
+        "50%"
+      ],
+      "rows": [
+        [
+          "[LINK:egg_2026_06_SPIRIT_SCROLL|Soul Scroll]",
+          "On Sale"
+        ],
+        [
+          "[LINK:egg_2026_06_BALLOON_SCROLL|Balloon Scroll]",
+          "On Sale"
+        ],
+        [
+          "[LINK:egg_2026_06_PORING_SCROLL|Poring Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_AMISTR_SCROLL|Amistr Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SHADOW_SCROLL|Shadow Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_2015_SPECIAL_SCROLL|2015 Special Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_2015_ANGEL_SCROLL|Angel Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_NEW_HAT_SCROLL|Liberty Cap Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_INVISIBLE_SCROLL|Invisible Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_MAD_BUNNY_SCROLL|Mad Bunny Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_PUMP_OF_SPIRIT_SCROLL|Soul Plunger Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_HAPPY_BALLOON_SCROLL|Happy Balloon Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_PIAMETTE_SCROLL|Piamette Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_2015_NEW_YEAR_SCROLL|New Year's Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_SCROLL2|Sealed Seal Scroll II]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_SCROLL3|Sealed Seal Scroll III]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_STATUS_DECREASE_SCROLL|Stats Reduction Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_SCROLL|Sealed Seal Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_GUARANTEE_RELAX_SCROLL|Safe To Refine Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_DRACULA_SCROLL2|Sealed Dracula Scroll II]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_BERZ_SCROLL2|Sealed Beelzebub Scroll II]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_B_YGNIZEM_SCROLL|Sealed General Egnigem Cenia Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_APO_H_SCROLL|Sealed Vesper Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_DRACULA_SCROLL|Sealed Dracula Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_B_SHECIL_SCROLL|Sealed Sniper Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_TURTLEG_SCROLL|Sealed Turtle General Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_BACSOJIN_SCROLL|Sealed Bacsojin Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_PHARAOH_SCROLL|Sealed Pharaoh Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_M_FLOWER_SCROLL|Sealed Moonlight Flower Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_GLOOM_SCROLL|Sealed Gloom Under Night Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_IFRIT_SCROLL|Sealed Ifrit Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_F_BISHOP_SCROLL|Sealed Fallen Bishop Hibram Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_2013_RWC_SCROLL|2013 RWC Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_D_LORD_SCROLL|Sealed Dark Lord Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_KNIGHT_WS_SCROLL|Article Sealed Storm Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_BERZ_SCROLL|Sealed Beelzebub Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_KIEL_SCROLL|Sealed Kiel-D-01 Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_WOLFKING_SCROLL|King Wolf Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_RWC_SCROLL_2012|2012 RWC Egg]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_GOLDENTREASUREBOX|Golden Treasure Box]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2026_06_XMAX_EGG_KR|Christmas Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_LUCKY_EGG_C9|Fortune Egg IX]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_LUCKY_EGG_C10|Safe to 7 Chance Box]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_GRYPHON_EGG_SCROLL|Gryphon Egg Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_DRAGON_EGG_SCROLL|Dragon Egg]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_2011_RWC_SCROLL_KR|2011 RWC Scroll]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_CRU_SCROLL|Crew Egg]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_UNDEAD_EGG|Nucleus of Undead]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_GIRLS_HEART|Heart of Girl]",
+          "Sale Ended"
+        ],
+        [
+          "[LINK:egg_POPE_SCROLL|Pope Scroll]",
+          "Sale Ended"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Lucky Eggs No Longer on Sale",
+      "text": "Lucky Eggs no longer on sale are merged into the [ITEM:12610|Mysterious Egg], from which past Lucky Eggs can be obtained again."
+    }
+  ]
+}

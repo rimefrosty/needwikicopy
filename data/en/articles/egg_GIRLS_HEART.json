@@ -1,0 +1,189 @@
+{
+  "id": "egg_GIRLS_HEART",
+  "title": "Heart of Girl",
+  "summary": "Contents and drop rates of the Heart of Girl",
+  "keywords": [
+    "행운의 알",
+    "캐시",
+    "확률",
+    "의상",
+    "인챈트 스톤"
+  ],
+  "tags": [
+    "행운의알",
+    "캐시",
+    "확률"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Lucky Egg"
+    },
+    {
+      "text": "Heart of Girl"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Heart of Girl"
+    },
+    {
+      "type": "text",
+      "text": "The contents and drop rates of the Heart of Girl."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Sale Information",
+      "target": "#info"
+    },
+    {
+      "type": "link",
+      "text": "Box Contents",
+      "target": "#items"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "heading",
+      "text": "Sale Information",
+      "anchor": "info"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Sales Period",
+          "2026-07-04 ~ 2026-07-18"
+        ],
+        [
+          "Price",
+          "1,000 Cash each"
+        ],
+        [
+          "Item Used",
+          "[ITEM:12835|Heart of Girl]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Box Contents",
+      "anchor": "items"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Item",
+        "Rate"
+      ],
+      "rows": [
+        [
+          "[BADGE:NEW][ITEM:18563|Heart Wings Hairband]",
+          "1.00%"
+        ],
+        [
+          "[ITEM:12693|Garment Card Album]",
+          "1.00%"
+        ],
+        [
+          "[ITEM:5396|Jasper Crest]",
+          "1.00%"
+        ],
+        [
+          "[ITEM:5520|Rabbit Earmuffs]",
+          "1.00%"
+        ],
+        [
+          "[ITEM:19573|Costume Heart Wings Hairband]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:12263|[NotForSale] Battle Manual]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:12264|[NotForSale] Bubble Gum]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:5074|Angel Wing Ears]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:399992|NEED Rebirth Ticket]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:12361|Delicious Shaved Ice]",
+          "4.00%"
+        ],
+        [
+          "[ITEM:12363|Ghost Coffin]",
+          "4.00%"
+        ],
+        [
+          "[ITEM:12928|Sacred Scroll]",
+          "4.00%"
+        ],
+        [
+          "[ITEM:12370|Girl's Naivety]",
+          "4.00%"
+        ],
+        [
+          "[ITEM:616|Old Card Album]",
+          "5.50%"
+        ],
+        [
+          "[ITEM:12680|Siege Blue Potion Box]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:12642|Mastela Fruit Box(100)]",
+          "12.00%"
+        ],
+        [
+          "[ITEM:7444|Treasure Box]",
+          "14.00%"
+        ],
+        [
+          "[ITEM:12350|Angelring Potion]",
+          "14.00%"
+        ],
+        [
+          "[ITEM:12549|White Slim Potion Box(100)]",
+          "15.00%"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "About the Rates",
+      "text": "Rates are shown with decimals and may change with updates."
+    },
+    {
+      "type": "notice",
+      "title": "Badges",
+      "text": "[BADGE:NEW] marks a new item, [BADGE:HOT] a popular item and [BADGE:EVENT] an event-only reward."
+    }
+  ]
+}

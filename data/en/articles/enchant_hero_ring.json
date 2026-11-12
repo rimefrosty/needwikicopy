@@ -1,0 +1,385 @@
+{
+  "id": "enchant_hero_ring",
+  "title": "Heroic Ring",
+  "summary": "An accessory enchant system that adds four slot enchants to the Heroic Ring, one after another.",
+  "keywords": [
+    "용사의 반지",
+    "Hero Ring",
+    "인챈터 번즈",
+    "Expert Enchanter Byrnes",
+    "용사의 반지 인챈트",
+    "영웅의 증표",
+    "인챈트"
+  ],
+  "tags": [
+    "인챈트",
+    "용사의 반지",
+    "액세서리"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant"
+    },
+    {
+      "text": "Heroic Ring"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Heroic Ring"
+    },
+    {
+      "type": "text",
+      "text": "An accessory enchant system that adds up to 4 enchants to the [ITEM:2981|Heroic Ring]."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Overview",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "How It Works",
+      "target": "#process"
+    },
+    {
+      "type": "link",
+      "text": "Enchants by Slot",
+      "target": "#slots"
+    },
+    {
+      "type": "link",
+      "text": "Slot 4",
+      "target": "#slot4"
+    },
+    {
+      "type": "link",
+      "text": "Slot 3",
+      "target": "#slot3"
+    },
+    {
+      "type": "link",
+      "text": "Slot 2",
+      "target": "#slot2"
+    },
+    {
+      "type": "link",
+      "text": "Slot 1",
+      "target": "#slot1"
+    },
+    {
+      "type": "link",
+      "text": "Reset",
+      "target": "#reset"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "link",
+      "text": "Location",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "References",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "Overview",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "Expert Enchanter Byrnes adds special enchants to the [ITEM:2981|Heroic Ring]."
+    },
+    {
+      "type": "text",
+      "text": "For each slot you first choose an enchant category; one of the options in that category is then given, each with equal chance."
+    },
+    {
+      "type": "heading",
+      "text": "How It Works",
+      "anchor": "process"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Eligible Equipment",
+          "[ITEM:2981|Heroic Ring]"
+        ],
+        [
+          "NPC",
+          "Expert Enchanter Byrnes"
+        ],
+        [
+          "Location",
+          "[NAVI:lasa_in01,187,49,Expert Enchanter Byrnes]"
+        ],
+        [
+          "Enchant Cost",
+          "Free"
+        ],
+        [
+          "Enchant Order",
+          "Slot order 4 → 3 → 2 → 1"
+        ],
+        [
+          "How the Option Is Decided",
+          "1 of the 5 options of the chosen category, each with equal chance"
+        ],
+        [
+          "Failure / Destruction",
+          "None"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Equipped Rings Only",
+      "text": "The Heroic Ring can only be enchanted while it is equipped in the left or right accessory slot."
+    },
+    {
+      "type": "heading",
+      "text": "Enchants by Slot",
+      "anchor": "slots"
+    },
+    {
+      "type": "text",
+      "text": "The Heroic Ring is enchanted in order, starting from the rearmost empty slot."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Order",
+        "Slot",
+        "Selectable Categories"
+      ],
+      "rows": [
+        [
+          "1st",
+          "Slot 4",
+          "DEF / MDEF"
+        ],
+        [
+          "2nd",
+          "Slot 3",
+          "Max HP / Max SP"
+        ],
+        [
+          "3rd",
+          "Slot 2",
+          "ATK / MATK"
+        ],
+        [
+          "4th",
+          "Slot 1",
+          "STR / INT / AGI / VIT / DEX / LUK"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Slot 4",
+      "anchor": "slot4"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Category",
+        "Available Options"
+      ],
+      "rows": [
+        [
+          "DEF",
+          "DEF +3, DEF +6, DEF +9, DEF +12, DEF +15"
+        ],
+        [
+          "MDEF",
+          "MDEF +1, MDEF +2, MDEF +3, MDEF +4, MDEF +5"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Slot 3",
+      "anchor": "slot3"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Category",
+        "Available Options"
+      ],
+      "rows": [
+        [
+          "Max HP",
+          "Max HP +1%, Max HP +2%, Max HP +3%, Max HP +4%, Max HP +5%"
+        ],
+        [
+          "Max SP",
+          "Max SP +25, Max SP +50, Max SP +75, Max SP +100, Max SP +150"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Slot 2",
+      "anchor": "slot2"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Category",
+        "Available Options"
+      ],
+      "rows": [
+        [
+          "ATK",
+          "ATK +1%, ATK +2%, ATK +3%, ATK +4%, ATK +5%"
+        ],
+        [
+          "MATK",
+          "MATK +1%, MATK +2%, MATK +3%, MATK +4%, MATK +5%"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Slot 1",
+      "anchor": "slot1"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Category",
+        "Available Options"
+      ],
+      "rows": [
+        [
+          "STR",
+          "STR +1, STR +2, STR +3, STR +4, STR +5"
+        ],
+        [
+          "INT",
+          "INT +1, INT +2, INT +3, INT +4, INT +5"
+        ],
+        [
+          "AGI",
+          "AGI +1, AGI +2, AGI +3, AGI +4, AGI +5"
+        ],
+        [
+          "VIT",
+          "VIT +1, VIT +2, VIT +3, VIT +4, VIT +5"
+        ],
+        [
+          "DEX",
+          "DEX +1, DEX +2, DEX +3, DEX +4, DEX +5"
+        ],
+        [
+          "LUK",
+          "LUK +1, LUK +2, LUK +3, LUK +4, LUK +5"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Reset",
+      "anchor": "reset"
+    },
+    {
+      "type": "text",
+      "text": "Expert Enchanter Byrnes resets the enchants of the [ITEM:2981|Heroic Ring]."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Reset Material",
+          "3 [ITEM:6684|Heroic Token]"
+        ],
+        [
+          "Reset Target",
+          "The equipped [ITEM:2981|Heroic Ring]"
+        ],
+        [
+          "Reset Scope",
+          "All enchant slots are reset"
+        ],
+        [
+          "Caution",
+          "You cannot reset only some slots"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Full Reset",
+      "text": "A reset removes every enchant and returns the ring to a plain [ITEM:2981|Heroic Ring]."
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "Category Chosen, Value Random",
+      "text": "You can choose the category, but the final option value is random among that category's 5 options."
+    },
+    {
+      "type": "notice",
+      "title": "Equal Chance",
+      "text": "According to the script, one entry of the chosen category's option list is given, each with equal chance."
+    },
+    {
+      "type": "notice",
+      "title": "No Further Enchants",
+      "text": "A [ITEM:2981|Heroic Ring] with every slot enchanted cannot be enchanted any further."
+    },
+    {
+      "type": "heading",
+      "text": "Location",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:lasa_in01,187,49,Expert Enchanter Byrnes]"
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "iRO Wiki - Hero Ring Enchants",
+          "url": "https://irowiki.org/wiki/Hero_Ring_Enchants"
+        }
+      ]
+    }
+  ]
+}

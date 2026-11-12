@@ -1,0 +1,217 @@
+{
+  "id": "egg_2026_06_GOLDENTREASUREBOX",
+  "title": "Golden Treasure Box",
+  "summary": "Contents and drop rates of the Golden Treasure Box",
+  "keywords": [
+    "행운의 알",
+    "캐시",
+    "확률",
+    "의상",
+    "인챈트 스톤"
+  ],
+  "tags": [
+    "행운의알",
+    "캐시",
+    "확률"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Lucky Egg"
+    },
+    {
+      "text": "Golden Treasure Box"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Golden Treasure Box"
+    },
+    {
+      "type": "text",
+      "text": "The contents and drop rates of the Golden Treasure Box."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Sale Information",
+      "target": "#info"
+    },
+    {
+      "type": "link",
+      "text": "Box Contents",
+      "target": "#items"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "heading",
+      "text": "Sale Information",
+      "anchor": "info"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Sales Period",
+          "2026-07-18 ~ 2026-08-01"
+        ],
+        [
+          "Price",
+          "1,000 Cash each"
+        ],
+        [
+          "Item Used",
+          "[ITEM:14623|Golden Treasure Box]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Box Contents",
+      "anchor": "items"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Item",
+        "Rate"
+      ],
+      "rows": [
+        [
+          "[BADGE:NEW][ITEM:4047|Ghostring Card]",
+          "0.01%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:4174|Devilring Card]",
+          "0.01%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6238|Safe to 11 Weapon Certificate]",
+          "0.01%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6239|Safe to 11 Armor Certificate]",
+          "0.01%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:4054|Angelring Card]",
+          "0.01%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:2874|Buffalo Horns]",
+          "0.75%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:2936|Ring of Recovery]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:6230|Safe to 7 Weapon Certificate]",
+          "0.90%"
+        ],
+        [
+          "[ITEM:6234|Safe to 7 Armor Certificate]",
+          "0.90%"
+        ],
+        [
+          "[ITEM:2554|Nidhoggur's Shadow Garb]",
+          "1.00%"
+        ],
+        [
+          "[ITEM:2374|Diabolus Robe]",
+          "1.00%"
+        ],
+        [
+          "[ITEM:2729|Diabolus Ring]",
+          "1.00%"
+        ],
+        [
+          "[ITEM:19586|Costume Pink Bunny Band]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:399992|NEED Rebirth Ticket]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:21003|Muramasa]",
+          "3.00%"
+        ],
+        [
+          "[ITEM:1664|Thorny Staff of Darkness]",
+          "3.00%"
+        ],
+        [
+          "[ITEM:12693|Garment Card Album]",
+          "5.00%"
+        ],
+        [
+          "[ITEM:12692|Shield Card Album]",
+          "5.00%"
+        ],
+        [
+          "[ITEM:13088|Keris Naga]",
+          "5.83%"
+        ],
+        [
+          "[ITEM:1659|Light of Recovery]",
+          "8.35%"
+        ],
+        [
+          "[ITEM:7444|Treasure Box]",
+          "9.02%"
+        ],
+        [
+          "[ITEM:604|Dead Branch]",
+          "9.20%"
+        ],
+        [
+          "[ITEM:12265|[NotForSale] Life Insurrance]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:12263|[NotForSale] Battle Manual]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:12264|[NotForSale] Bubble Gum]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:15070|Clothes of Happiness]",
+          "10.00%"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "About the Rates",
+      "text": "Rates are shown with decimals and may change with updates."
+    },
+    {
+      "type": "notice",
+      "title": "Badges",
+      "text": "[BADGE:NEW] marks a new item, [BADGE:HOT] a popular item and [BADGE:EVENT] an event-only reward."
+    }
+  ]
+}

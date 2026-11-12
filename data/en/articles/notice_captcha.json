@@ -1,0 +1,149 @@
+{
+  "id": "notice_captcha",
+  "title": "CAPTCHA Verification System",
+  "summary": "The CAPTCHA check shown while hunting to prevent abnormal play.",
+  "category": "notice",
+  "keywords": [
+    "캡차",
+    "매크로",
+    "오토",
+    "인증",
+    "제재",
+    "미스릴화",
+    "500캐시"
+  ],
+  "tags": [
+    "system",
+    "captcha",
+    "macro",
+    "security"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Must Read",
+      "target": "notice_guide"
+    },
+    {
+      "text": "CAPTCHA Verification System"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "CAPTCHA Verification System",
+      "level": 1
+    },
+    {
+      "type": "text",
+      "text": "The NEED server uses a CAPTCHA verification system to prevent abnormal auto-hunting and macro use."
+    },
+    {
+      "type": "notice",
+      "style": "info",
+      "title": "A check for normal play",
+      "text": "A CAPTCHA can appear even during normal play. Enter the characters shown on the screen within the time limit to pass."
+    },
+    {
+      "type": "heading",
+      "text": "Contents",
+      "level": 2
+    },
+    {
+      "type": "link",
+      "text": "When does a CAPTCHA appear?",
+      "target": "#trigger"
+    },
+    {
+      "type": "link",
+      "text": "How to Verify",
+      "target": "#howto"
+    },
+    {
+      "type": "link",
+      "text": "Reward for Passing",
+      "target": "#reward"
+    },
+    {
+      "type": "link",
+      "text": "If You Fail",
+      "target": "#fail"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "heading",
+      "text": "When does a CAPTCHA appear?",
+      "level": 2,
+      "anchor": "trigger"
+    },
+    {
+      "type": "text",
+      "text": "A CAPTCHA window can appear while hunting under certain conditions. It is not meant to punish any particular player: it checks for long repeated hunting and abnormal automated play."
+    },
+    {
+      "type": "heading",
+      "text": "How to Verify",
+      "level": 2,
+      "anchor": "howto"
+    },
+    {
+      "type": "text",
+      "text": "When the CAPTCHA window appears, enter the characters shown in the image. The answer may be case-sensitive, so type it exactly as shown."
+    },
+    {
+      "type": "notice",
+      "style": "warning",
+      "title": "Time limit",
+      "text": "The CAPTCHA must be entered within the time limit. Going over the limit may count as a failure."
+    },
+    {
+      "type": "heading",
+      "text": "Reward for Passing",
+      "level": 2,
+      "anchor": "reward"
+    },
+    {
+      "type": "text",
+      "text": "Passing the CAPTCHA gives 1 Mythril Coin as a reward for normal play. 1 Mythril Coin can be exchanged for 500 Cash."
+    },
+    {
+      "type": "notice",
+      "style": "success",
+      "title": "Verification reward",
+      "text": "1 Mythril Coin"
+    },
+    {
+      "type": "heading",
+      "text": "If You Fail",
+      "level": 2,
+      "anchor": "fail"
+    },
+    {
+      "type": "text",
+      "text": "Repeated wrong answers or timeouts may flag you as a suspected macro user. To limit the damage from honest mistakes, this currently sends you to jail instead of an immediate permanent ban."
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "level": 2,
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "style": "info",
+      "title": "Please note",
+      "text": "A CAPTCHA can appear even during normal play. When it does, stay calm and enter the characters on the screen. Failing repeatedly may lead to sanctions."
+    },
+    {
+      "type": "text",
+      "text": "The CAPTCHA trigger rate, reward and sanction criteria may be adjusted depending on the server situation."
+    }
+  ]
+}

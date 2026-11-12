@@ -1,0 +1,496 @@
+{
+  "id": "enchant_verus",
+  "title": "Excellion Suit / Wing",
+  "summary": "An equipment enchant system that uses Enchant Blueprints to give the Excellion Suit and the Excellion Wing the design option you choose.",
+  "keywords": [
+    "엑셀리온",
+    "엑셀리온 슈츠",
+    "엑셀리온 윙",
+    "Excelion Suit",
+    "Excelion Wing",
+    "MARS_01",
+    "인챈트 설계도",
+    "리액터",
+    "베루스",
+    "인챈트"
+  ],
+  "tags": [
+    "인챈트",
+    "엑셀리온",
+    "베루스",
+    "장비"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant"
+    },
+    {
+      "text": "Excellion Suit / Wing"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Excellion Suit / Wing"
+    },
+    {
+      "type": "text",
+      "text": "An equipment enchant system that uses Enchant Blueprints to add options to the [ITEM:15128|Excellion Suit] and the [ITEM:20773|Excellion Wing]."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Overview",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "How It Works",
+      "target": "#process"
+    },
+    {
+      "type": "link",
+      "text": "Eligible Equipment",
+      "target": "#target"
+    },
+    {
+      "type": "link",
+      "text": "Blueprint Limits",
+      "target": "#diagram-rule"
+    },
+    {
+      "type": "link",
+      "text": "Excellion Suit Only / Limited Blueprints",
+      "target": "#suit"
+    },
+    {
+      "type": "link",
+      "text": "Excellion Wing Only Blueprints",
+      "target": "#wing"
+    },
+    {
+      "type": "link",
+      "text": "Shared Blueprints",
+      "target": "#common"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "link",
+      "text": "Location",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "References",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "Overview",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "MARS_01 applies Enchant Blueprints to Excellion equipment."
+    },
+    {
+      "type": "text",
+      "text": "Excellion enchants work by choosing a blueprint; the chosen blueprint's option is always given."
+    },
+    {
+      "type": "notice",
+      "title": "Not a Random Enchant",
+      "text": "Neither success nor the option type is random: one blueprint you own is used up and its option is added to the equipment."
+    },
+    {
+      "type": "heading",
+      "text": "How It Works",
+      "anchor": "process"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "NPC",
+          "MARS_01"
+        ],
+        [
+          "Location",
+          "[NAVI:lasa_in01,187,49,MARS_01]"
+        ],
+        [
+          "Eligible Equipment",
+          "[ITEM:15128|Excellion Suit], [ITEM:20773|Excellion Wing]"
+        ],
+        [
+          "Materials Used",
+          "1 chosen Enchant Blueprint"
+        ],
+        [
+          "Enchant Order",
+          "Slot order 4 → 3 → 2"
+        ],
+        [
+          "Max Enchants",
+          "Up to 3 per equipment"
+        ],
+        [
+          "Failure / Destruction",
+          "None"
+        ],
+        [
+          "Reset",
+          "Not possible"
+        ],
+        [
+          "Kept",
+          "Refine level and cards are kept"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "First Activation",
+      "text": "According to the script, activating MARS_01 for the first time requires 1 [ITEM:6962|Old Fuel Tank]."
+    },
+    {
+      "type": "heading",
+      "text": "Eligible Equipment",
+      "anchor": "target"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Equipment",
+        "Category",
+        "Enchants"
+      ],
+      "rows": [
+        [
+          "[ITEM:15128|Excellion Suit]",
+          "Armor",
+          "Up to 3"
+        ],
+        [
+          "[ITEM:20773|Excellion Wing]",
+          "Garment",
+          "Up to 3"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Blueprint Limits",
+      "anchor": "diagram-rule"
+    },
+    {
+      "type": "text",
+      "text": "Each blueprint has its own maximum number of uses on the Excellion Suit and the Excellion Wing."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Limit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "Equipment Limit",
+          "Some blueprints are Suit-only or Wing-only."
+        ],
+        [
+          "Duplicate Limit",
+          "The same blueprint option can be added repeatedly only up to the count allowed for each equipment."
+        ],
+        [
+          "First Slot Only",
+          "Property blueprints can only be used on the first enchant slot."
+        ],
+        [
+          "Slot Order",
+          "The 1st enchant goes to slot 4, the 2nd to slot 3 and the 3rd to slot 2."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Excellion Suit Only / Limited Blueprints",
+      "anchor": "suit"
+    },
+    {
+      "type": "text",
+      "text": "The blueprints below can only be used on the Excellion Suit, or only a set number of times on the Suit."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Blueprint",
+        "Option Added",
+        "Suit Max",
+        "Wing Max",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "[ITEM:6965|Fire Property Reactor]",
+          "[ITEM:4970|Fire Property Reactor]",
+          "1 time",
+          "Not possible",
+          "First enchant slot only"
+        ],
+        [
+          "[ITEM:6966|Water Property Reactor]",
+          "[ITEM:4971|Water Property Reactor]",
+          "1 time",
+          "Not possible",
+          "First enchant slot only"
+        ],
+        [
+          "[ITEM:6967|Earth Property Reactor]",
+          "[ITEM:4972|Earth Property Reactor]",
+          "1 time",
+          "Not possible",
+          "First enchant slot only"
+        ],
+        [
+          "[ITEM:6968|Wind Property Reactor]",
+          "[ITEM:4973|Wind Property Reactor]",
+          "1 time",
+          "Not possible",
+          "First enchant slot only"
+        ],
+        [
+          "[ITEM:6977|Supportive Reactor STR]",
+          "[ITEM:4982|Supportive Reactor STR]",
+          "1 time",
+          "Not possible",
+          "-"
+        ],
+        [
+          "[ITEM:6978|Supportive Reactor INT]",
+          "[ITEM:4983|Supportive Reactor INT]",
+          "1 time",
+          "Not possible",
+          "-"
+        ],
+        [
+          "[ITEM:6985|Supportive Reactor Frozen]",
+          "[ITEM:4990|Supportive Reactor Frozen]",
+          "1 time",
+          "Not possible",
+          "-"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Excellion Wing Only Blueprints",
+      "anchor": "wing"
+    },
+    {
+      "type": "text",
+      "text": "The resistance blueprints below can only be used on the Excellion Wing, and the same option can be added up to 3 times."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Blueprint",
+        "Option Added",
+        "Suit Max",
+        "Wing Max",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "[ITEM:6969|Fire Resistance Reactor]",
+          "[ITEM:4974|Fire Resistance Reactor]",
+          "Not possible",
+          "3 times",
+          "-"
+        ],
+        [
+          "[ITEM:6970|Water Resistance Reactor]",
+          "[ITEM:4975|Water Resistance Reactor]",
+          "Not possible",
+          "3 times",
+          "-"
+        ],
+        [
+          "[ITEM:6971|Earth Resistance Reactor]",
+          "[ITEM:4976|Earth Resistance Reactor]",
+          "Not possible",
+          "3 times",
+          "-"
+        ],
+        [
+          "[ITEM:6972|Wind Resistance Reactor]",
+          "[ITEM:4977|Wind Resistance Reactor]",
+          "Not possible",
+          "3 times",
+          "-"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Shared Blueprints",
+      "anchor": "common"
+    },
+    {
+      "type": "text",
+      "text": "The blueprints below can be used on both the Excellion Suit and the Excellion Wing."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Blueprint",
+        "Option Added",
+        "Suit Max",
+        "Wing Max",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "[ITEM:6973|Recovery Reactor 101]",
+          "[ITEM:4978|Recovery Reactor 101]",
+          "3 times",
+          "3 times",
+          "-"
+        ],
+        [
+          "[ITEM:6974|Recovery Reactor 102]",
+          "[ITEM:4979|Recovery Reactor 102]",
+          "3 times",
+          "3 times",
+          "-"
+        ],
+        [
+          "[ITEM:6975|Recovery Reactor 201]",
+          "[ITEM:4980|Recovery Reactor 201]",
+          "3 times",
+          "3 times",
+          "-"
+        ],
+        [
+          "[ITEM:6976|Recovery Reactor 202]",
+          "[ITEM:4981|Recovery Reactor 202]",
+          "3 times",
+          "3 times",
+          "-"
+        ],
+        [
+          "[ITEM:6979|Supportive Reactor DEF]",
+          "[ITEM:4984|Supportive Reactor DEF]",
+          "3 times",
+          "3 times",
+          "-"
+        ],
+        [
+          "[ITEM:6980|Supportive Reactor Perfect]",
+          "[ITEM:4985|Supportive Reactor Perfect]",
+          "1 time",
+          "1 time",
+          "-"
+        ],
+        [
+          "[ITEM:6981|Supportive Reactor Attack]",
+          "[ITEM:4986|Supportive Reactor Attack]",
+          "3 times",
+          "3 times",
+          "-"
+        ],
+        [
+          "[ITEM:6982|Supportive Reactor Magic]",
+          "[ITEM:4987|Supportive Reactor Magic]",
+          "3 times",
+          "3 times",
+          "-"
+        ],
+        [
+          "[ITEM:6983|Supportive Reactor MaxHP]",
+          "[ITEM:4988|Supportive Reactor MaxHP]",
+          "3 times",
+          "3 times",
+          "-"
+        ],
+        [
+          "[ITEM:6984|Supportive Reactor MaxSP]",
+          "[ITEM:4989|Supportive Reactor MaxSP]",
+          "3 times",
+          "3 times",
+          "-"
+        ],
+        [
+          "[ITEM:6986|Supportive Reactor ASPD]",
+          "[ITEM:4991|Supportive Reactor ASPD]",
+          "1 time",
+          "1 time",
+          "-"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "No Reset",
+      "text": "Excellion enchants cannot be reset by normal means. Choose your combination carefully before applying blueprints."
+    },
+    {
+      "type": "notice",
+      "title": "Equip the Item First",
+      "text": "The Excellion Suit or Excellion Wing you want to enchant must be equipped."
+    },
+    {
+      "type": "notice",
+      "title": "Property Blueprints",
+      "text": "The [ITEM:4970|Fire Property Reactor], [ITEM:4971|Water Property Reactor], [ITEM:4972|Earth Property Reactor] and [ITEM:4973|Wind Property Reactor] options can only be used on the first enchant slot. They cannot be used on equipment that already has another enchant."
+    },
+    {
+      "type": "notice",
+      "title": "Duplicate Limit",
+      "text": "The same enchant can be added repeatedly only up to each blueprint's allowed count."
+    },
+    {
+      "type": "heading",
+      "text": "Location",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:lasa_in01,187,49,MARS_01]"
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "bROWiki - Equipamento Excelion",
+          "url": "https://browiki.org/wiki/Equipamento_Excelion"
+        }
+      ]
+    }
+  ]
+}

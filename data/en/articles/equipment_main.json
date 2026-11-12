@@ -1,0 +1,71 @@
+{
+  "id": "equipment_main",
+  "title": "Equipment Guide",
+  "summary": "Where to get equipment, enchants, and recommended equipment by job.",
+  "keywords": [
+    "장비",
+    "장비 가이드",
+    "인챈트",
+    "직업 장비",
+    "콘텐츠 장비"
+  ],
+  "tags": [
+    "장비",
+    "가이드"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Equipment Guide"
+    }
+  ],
+  "report_enabled": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Equipment Guide"
+    },
+    {
+      "type": "text",
+      "text": "Where to get equipment on the NEED server and how to build it up."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Type",
+        "Description"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "[LINK:equipment_content|Equipment by Content]",
+          "Main equipment and enchants you can get from each type of content."
+        ],
+        [
+          "[LINK:equipment_shadow|Shadow Gear]",
+          "Shadow Gear."
+        ],
+        [
+          "[LINK:equipment_refine|Refining Guide]",
+          "The refining guide."
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Note",
+      "text": "Equipment information may change with server updates."
+    },
+    {
+      "type": "link",
+      "text": "View the Enchant Guide",
+      "target": "enchant_main"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "enchant_rockridge",
+  "title": "🔒 락 릿지",
+  "summary": "향후 업데이트 예정인 인챈트 시스템입니다.",
+  "keywords": [
+    "락 릿지",
+    "인챈트"
+  ],
+  "tags": [
+    "planned",
+    "enchant"
+  ],
+  "breadcrumb": [
+    {
+      "text": "홈",
+      "target": "home"
+    },
+    {
+      "text": "인챈트"
+    },
+    {
+      "text": "락 릿지"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "락 릿지"
+    },
+    {
+      "type": "notice",
+      "title": "업데이트 예정",
+      "text": "향후 에피소드 업데이트와 함께 추가될 예정입니다."
+    }
+  ]
+}

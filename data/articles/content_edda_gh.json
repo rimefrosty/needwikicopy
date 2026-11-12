@@ -1,0 +1,41 @@
+{
+    "id": "content_edda_gh",
+    "title": "메모리얼 던전 - EDDA 글래스트 헤임",
+    "summary": "EDDA 글래스트 헤임 메모리얼 던전 공략 이미지입니다.",
+    "keywords": [
+        "EDDA 글래스트 헤임",
+        "EDDA",
+        "글래스트 헤임",
+        "메모리얼 던전",
+        "공략"
+    ],
+    "tags": [
+        "콘텐츠",
+        "메모리얼 던전",
+        "EDDA"
+    ],
+    "breadcrumb": [
+        {
+            "text": "홈",
+            "target": "home"
+        },
+        {
+            "text": "콘텐츠 가이드",
+            "target": "content_main"
+        },
+        {
+            "text": "EDDA 글래스트 헤임"
+        }
+    ],
+    "blocks": [
+        {
+            "type": "heading",
+            "text": "EDDA 글래스트 헤임"
+        },
+        {
+            "type": "image",
+            "path": "content/edda_gh1.jpg",
+            "compact": true
+        }
+    ]
+}

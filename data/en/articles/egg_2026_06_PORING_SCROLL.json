@@ -1,0 +1,209 @@
+{
+  "id": "egg_2026_06_PORING_SCROLL",
+  "title": "Poring Scroll",
+  "summary": "Contents and drop rates of the Poring Scroll",
+  "keywords": [
+    "행운의 알",
+    "캐시",
+    "확률",
+    "의상",
+    "인챈트 스톤"
+  ],
+  "tags": [
+    "행운의알",
+    "캐시",
+    "확률"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Lucky Egg"
+    },
+    {
+      "text": "Poring Scroll"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Poring Scroll"
+    },
+    {
+      "type": "text",
+      "text": "The contents and drop rates of the Poring Scroll."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Sale Information",
+      "target": "#info"
+    },
+    {
+      "type": "link",
+      "text": "Box Contents",
+      "target": "#items"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "heading",
+      "text": "Sale Information",
+      "anchor": "info"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Sales Period",
+          "2026-10-17 ~ 2026-10-31"
+        ],
+        [
+          "Price",
+          "1,000 Cash each"
+        ],
+        [
+          "Item Used",
+          "[ITEM:23095|Poring Scroll]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Box Contents",
+      "anchor": "items"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Item",
+        "Rate"
+      ],
+      "rows": [
+        [
+          "[BADGE:HOT][ITEM:22915|Safe to 11 Weapon Certificate]",
+          "0.01%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:22930|Safe to 11 Armor Certificate]",
+          "0.01%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:22913|Safe to 9 Weapon Certificate]",
+          "0.05%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:22928|Safe to 9 Armor Certificate]",
+          "0.05%"
+        ],
+        [
+          "[ITEM:22829|Sealed Seal Card]",
+          "0.10%"
+        ],
+        [
+          "[ITEM:19118|Poring Sunglasses+]",
+          "0.15%"
+        ],
+        [
+          "[ITEM:22653|Wet Card Album]",
+          "0.50%"
+        ],
+        [
+          "[ITEM:23073|Angel Poring Boots Box]",
+          "0.50%"
+        ],
+        [
+          "[ITEM:22911|Safe to 7 Weapon Certificate]",
+          "0.90%"
+        ],
+        [
+          "[ITEM:22926|Safe to 7 Armor Certificate]",
+          "0.90%"
+        ],
+        [
+          "[ITEM:19117|Poring Sunglasses]",
+          "1.00%"
+        ],
+        [
+          "[ITEM:12691|Armor Card Album]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:12693|Garment Card Album]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:12698|Weapon Card Album]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:12692|Shield Card Album]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:12694|Shoes Card Album]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:12695|Accessory Card Album]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:12690|Headgear Card Album]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:399992|NEED Rebirth Ticket]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:6635|Blacksmith's Blessing]",
+          "5.00%"
+        ],
+        [
+          "[ITEM:17608|Infinite Giant Fly Wing Box 1Day]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:22979|[NotForSale] Battle Manual & Bubble Gum]",
+          "11.00%"
+        ],
+        [
+          "[ITEM:12831|Potion Box]",
+          "15.89%"
+        ],
+        [
+          "[ITEM:7444|Treasure Box]",
+          "37.94%"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "About the Rates",
+      "text": "Rates are shown with decimals and may change with updates."
+    },
+    {
+      "type": "notice",
+      "title": "Badges",
+      "text": "[BADGE:NEW] marks a new item, [BADGE:HOT] a popular item and [BADGE:EVENT] an event-only reward."
+    }
+  ]
+}

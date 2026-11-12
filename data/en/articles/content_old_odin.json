@@ -1,0 +1,81 @@
+{
+  "id": "content_old_odin",
+  "title": "Dungeon - Ancient Odin Temple",
+  "summary": "New armor, cards and enchants in the Ancient Odin Temple.",
+  "keywords": [
+    "고대 오딘 신전",
+    "오딘 신전",
+    "신규 방어구",
+    "신규 카드",
+    "신규 인챈트"
+  ],
+  "tags": [
+    "콘텐츠",
+    "던전",
+    "오딘 신전"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Content Guide",
+      "target": "content_main"
+    },
+    {
+      "text": "Ancient Odin Temple"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Ancient Odin Temple"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "title": "Ancient Odin Temple New Armor / New Cards",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/old_odin1.c5ed597d5328.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/old_odin2.c07945091fe4.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/old_odin3.e0ab1695d20b.jpg",
+              "compact": true
+            }
+          ]
+        },
+        {
+          "title": "New Enchants",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/old_odin4.cdebb46c8e02.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/old_odin5.8126626a684b.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/old_odin6.73d7c1dd6032.png",
+              "compact": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

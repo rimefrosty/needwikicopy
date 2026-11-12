@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "id": "notice",
+      "name": "📌필독 안내"
+    },
+    {
+      "id": "roadmap",
+      "name": "🗺서버 로드맵"
+    },
+    {
+      "id": "equipment",
+      "name": "⚔ 장비 가이드"
+    },
+    {
+      "id": "enchant",
+      "name": "✨인챈트 가이드"
+    },
+    {
+      "id": "content",
+      "name": "🎯콘텐츠 가이드"
+    },
+    {
+      "id": "costume",
+      "name": "👗의상 가이드"
+    },
+    {
+      "id": "egg",
+      "name": "🎁행운의 알"
+    },
+    {
+      "id": "faq",
+      "name": "❓FAQ"
+    },
+    {
+      "id" : "community",
+      "name" : "📝유저 가이드",
+      "hidden" : true
+    }
+  ]
+}

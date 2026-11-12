@@ -1,0 +1,115 @@
+{
+  "id": "faq_common",
+  "title": "General FAQ",
+  "summary": "Common questions about playing the game.",
+  "keywords": [
+    "FAQ",
+    "자주 묻는 질문",
+    "시스템",
+    "의상",
+    "쉐도우"
+  ],
+  "tags": [
+    "FAQ"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "FAQ",
+      "target": "faq_main"
+    },
+    {
+      "text": "General FAQ"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Q. Where can I see the current server stage?"
+    },
+    {
+      "type": "text",
+      "text": "A. On the [LINK:roadmap_current|Current Server Stage] page or the [LINK:roadmap_main|Server Roadmap] page."
+    },
+    {
+      "type": "heading",
+      "text": "Q. Where can I see what comes in the next update?"
+    },
+    {
+      "type": "text",
+      "text": "A. The [LINK:roadmap_upcoming|Upcoming Updates] page lists the content and systems planned next."
+    },
+    {
+      "type": "heading",
+      "text": "Q. What happens when I register a costume?"
+    },
+    {
+      "type": "text",
+      "text": "A. Registering a costume in the Costume Album uses up the original item and adds it to the album permanently."
+    },
+    {
+      "type": "heading",
+      "text": "Q. Can my other characters use a registered costume?"
+    },
+    {
+      "type": "text",
+      "text": "A. The character that registered it can use it right away. Unlock the account wardrobe and the other characters on the same account can use it too."
+    },
+    {
+      "type": "heading",
+      "text": "Q. Are Costume Enchant Stones shared across my account?"
+    },
+    {
+      "type": "text",
+      "text": "A. No. Enchant Stones are managed per character and are not shared with other characters."
+    },
+    {
+      "type": "heading",
+      "text": "Q. Can I get a specific costume directly?"
+    },
+    {
+      "type": "text",
+      "text": "A. Yes. Spend 300 Costume Coins to choose and get the costume with the album number you want."
+    },
+    {
+      "type": "heading",
+      "text": "Q. Where do I get Shadow Gear?"
+    },
+    {
+      "type": "text",
+      "text": "A. Shadow Gear will be added step by step through Lucky Eggs."
+    },
+    {
+      "type": "heading",
+      "text": "Q. Will new costumes and Enchant Stones keep coming?"
+    },
+    {
+      "type": "text",
+      "text": "A. Yes. New costumes, Enchant Stones and Shadow Gear will keep being added according to the Server Roadmap."
+    },
+    {
+      "type": "heading",
+      "text": "Q. Do I need to do entry quests for content?"
+    },
+    {
+      "type": "text",
+      "text": "A. Most content on the NEED server is available right away. The Warp Helper takes you there without entry quests."
+    },
+    {
+      "type": "heading",
+      "text": "Q. How do I find information that is not in the wiki?"
+    },
+    {
+      "type": "text",
+      "text": "A. New pages are added all the time. If you cannot find what you need, contact the staff or check back after future updates."
+    },
+    {
+      "type": "notice",
+      "title": "Note",
+      "text": "FAQ answers may change with server updates."
+    }
+  ]
+}

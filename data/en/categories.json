@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "id": "notice",
+      "name": "📌Must Read"
+    },
+    {
+      "id": "roadmap",
+      "name": "🗺Roadmap"
+    },
+    {
+      "id": "equipment",
+      "name": "⚔ Equipment"
+    },
+    {
+      "id": "enchant",
+      "name": "✨Enchant Guide"
+    },
+    {
+      "id": "content",
+      "name": "🎯Content Guide"
+    },
+    {
+      "id": "costume",
+      "name": "👗Costume Guide"
+    },
+    {
+      "id": "egg",
+      "name": "🎁Lucky Eggs"
+    },
+    {
+      "id": "faq",
+      "name": "❓FAQ"
+    },
+    {
+      "id": "community",
+      "name": "📝User Guide",
+      "hidden": true
+    }
+  ]
+}

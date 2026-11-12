@@ -1,0 +1,146 @@
+{
+  "id": "content_abyss_lake_4f",
+  "title": "Dungeon - Abyss Lake Underground Cave F4",
+  "summary": "New equipment, cards, crafting and enchants in Abyss Lake Underground Cave F4.",
+  "keywords": [
+    "휘겔 어비스 호수 지하동굴 4층",
+    "어비스 호수",
+    "신규 방어구",
+    "신규 카드",
+    "신규 인챈트"
+  ],
+  "tags": [
+    "콘텐츠",
+    "던전",
+    "어비스 호수"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Content Guide",
+      "target": "content_main"
+    },
+    {
+      "text": "Abyss Lake Underground Cave F4"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Abyss Lake Underground Cave F4"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "title": "Abyss Lake Underground Cave F4",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/abyss_lake_4f0.493b29c96c58.jpg",
+              "compact": true
+            }
+          ]
+        },
+        {
+          "title": "New Armor / New Cards",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/abyss_lake_4f1.1ee456a13c57.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/abyss_lake_4f2.f2c86f06119c.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/abyss_lake_4f3.44321f32be62.jpg",
+              "compact": true
+            }
+          ]
+        },
+        {
+          "title": "New Armor Crafting",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/abyss_lake_4f_make.e43591634f17.png",
+              "compact": true
+            }
+          ]
+        },
+        {
+          "title": "New Enchants (Armor)",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/abyss_lake_4f4_1.123d9d8dfeb1.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/abyss_lake_4f4_2.53d0c33d7266.png",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/abyss_lake_4f4_3.26fb92fe8ce3.png",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/abyss_lake_4f4_4.c22e7a568374.png",
+              "compact": true
+            }
+          ]
+        },
+        {
+          "title": "New Enchants (Garment)",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/abyss_lake_4f5_1.809c95ed3dd8.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/abyss_lake_4f5_2.448a08e8c9de.png",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/abyss_lake_4f5_3.48c6f0116882.png",
+              "compact": true
+            }
+          ]
+        },
+        {
+          "title": "New Enchants (Shoes)",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/abyss_lake_4f6_1.90fa3f033794.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/abyss_lake_4f6_2.fe3dcf47caa8.png",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/abyss_lake_4f6_3.ed303ab534b4.png",
+              "compact": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

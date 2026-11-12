@@ -1,0 +1,263 @@
+{
+"id": "enchant_rwc",
+"title": "⚒ RWC",
+"summary": "RWC 기념 반지와 기념 펜던트에 특수 인챈트를 부여할 수 있는 고급 액세서리 인챈트 시스템입니다.",
+"keywords": [
+"RWC",
+"RWC 기념 반지",
+"RWC 기념 펜던트",
+"골드버그",
+"천공술사",
+"RWC 인챈트"
+],
+"tags": [
+"인챈트",
+"RWC",
+"액세서리"
+],
+"breadcrumb": [
+{
+"text": "홈",
+"target": "home"
+},
+{
+"text": "인챈트"
+},
+{
+"text": "RWC"
+}
+],
+"blocks": [
+{
+"type": "heading",
+"text": "RWC"
+},
+{
+"type": "text",
+"text": "RWC 기념 반지와 기념 펜던트에 특수 능력치를 부여할 수 있는 액세서리 인챈트 시스템입니다."
+},
+{
+  "type": "heading",
+  "text": "목차"
+},
+{
+  "type": "link",
+  "text": "콘텐츠 소개",
+  "target": "#overview"
+},
+{
+  "type": "link",
+  "text": "인챈트 순서",
+  "target": "#order"
+},
+{
+  "type": "link",
+  "text": "소켓 인챈트",
+  "target": "#socket"
+},
+{
+  "type": "link",
+  "text": "히든 인챈트",
+  "target": "#hidden"
+},
+{
+  "type": "link",
+  "text": "반지 인챈트",
+  "target": "#ring"
+},
+{
+  "type": "link",
+  "text": "펜던트 인챈트",
+  "target": "#pendant"
+},
+{
+  "type": "link",
+  "text": "주의사항",
+  "target": "#notice"
+},
+{
+  "type": "link",
+  "text": "이동",
+  "target": "#navi"
+},
+{
+  "type": "link",
+  "text": "참고 자료",
+  "target": "#reference"
+},
+
+{
+  "type": "heading",
+  "text": "콘텐츠 소개",
+  "anchor": "overview"
+},
+{
+  "type": "text",
+  "text": "RWC 기념 반지와 RWC 기념 펜던트에 최대 4개의 히든 인챈트를 부여할 수 있는 시스템입니다."
+},
+{
+  "type": "text",
+  "text": "타락천사의 날개와 마찬가지로 실제 인챈트 기회가 많지 않은 고가 장비 인챈트에 속합니다."
+},
+
+{
+  "type": "heading",
+  "text": "인챈트 순서",
+  "anchor": "order"
+},
+{
+  "type": "notice",
+  "title": "인챈트 진행 순서",
+  "text": "인챈트는 4 → 3 → 2 → 1 슬롯 순서로 진행됩니다."
+},
+{
+  "type": "text",
+  "text": "소켓이 생성된 장비는 4 → 3 → 2 슬롯까지만 인챈트가 가능합니다."
+},
+
+{
+  "type": "heading",
+  "text": "소켓 인챈트",
+  "anchor": "socket"
+},
+{
+  "type": "text",
+  "text": "RWC 기념 반지와 펜던트는 소켓 인챈트를 통해 [ITEM:2967|RWC 기념 반지[1]], [ITEM:2969|RWC 기념 펜던트[1]]로 제작할 수 있습니다."
+},
+{
+  "type": "table",
+  "headers": [
+    "항목",
+    "내용"
+  ],
+  "rows": [
+    [
+      "성공 확률",
+      "50%"
+    ],
+    [
+      "실패 시",
+      "장비 파괴"
+    ],
+    [
+      "제한",
+      "히든 인챈트가 적용된 장비는 진행 불가"
+    ]
+  ]
+},
+
+{
+  "type": "heading",
+  "text": "히든 인챈트",
+  "anchor": "hidden"
+},
+{
+  "type": "text",
+  "text": "각 슬롯마다 원하는 옵션 종류를 선택할 수 있으며 옵션 수치는 랜덤하게 결정됩니다."
+},
+{
+  "type": "notice",
+  "title": "파괴 확률",
+  "text": "1번, 2번 슬롯 인챈트 시 25% 확률로 장비가 파괴됩니다."
+},
+{
+  "type": "notice",
+  "title": "초기화 불가",
+  "text": "한 번 적용된 인챈트는 초기화할 수 없지만, [ITEM:6665|RWC 초기화권]을 사용하여 인챈트를 1회 초기화 할 수 있습니다."
+},
+
+{
+  "type": "heading",
+  "text": "반지 인챈트",
+  "anchor": "ring"
+},
+{
+  "type": "table",
+  "headers": [
+    "슬롯",
+    "가능 옵션"
+  ],
+  "rows": [
+    [
+      "3~4 슬롯",
+      "투지, ATK%, MHP%, HP"
+    ],
+    [
+      "1~2 슬롯",
+      "STR, AGI, VIT, INT, DEX, LUK, SP"
+    ]
+  ]
+},
+{
+  "type": "text",
+  "text": "대표 옵션 : 투지 1~3Lv, ATK +1~3%, MHP +1~3%, HP +100~300"
+},
+
+{
+  "type": "heading",
+  "text": "펜던트 인챈트",
+  "anchor": "pendant"
+},
+{
+  "type": "table",
+  "headers": [
+    "슬롯",
+    "가능 옵션"
+  ],
+  "rows": [
+    [
+      "3~4 슬롯",
+      "마력, MATK%, SP"
+    ],
+    [
+      "1~2 슬롯",
+      "STR, AGI, VIT, INT, DEX, LUK, MHP%, HP"
+    ]
+  ]
+},
+{
+  "type": "text",
+  "text": "대표 옵션 : 마력 1~3Lv, MATK +1~3%, SP +25~75"
+},
+
+{
+  "type": "heading",
+  "text": "주의사항",
+  "anchor": "notice"
+},
+{
+  "type": "notice",
+  "title": "고가 장비",
+  "text": "RWC 인챈트는 장비 파괴 위험이 존재하므로 신중하게 진행하는 것을 권장합니다."
+},
+
+{
+  "type": "heading",
+  "text": "이동",
+  "anchor": "navi"
+},
+{
+  "type": "text",
+  "text": "[NAVI:itemmall,29,64,골드버그]"
+},
+{
+  "type": "text",
+  "text": "[NAVI:itemmall,29,61,천공술사]"
+},
+
+{
+  "type": "heading",
+  "text": "참고 자료",
+  "anchor": "reference"
+},
+{
+  "type": "references",
+  "items": [
+    {
+      "text": "iRO Wiki - RWC Accessory Enchants",
+      "url": "https://irowiki.org/wiki/RWC_Accessory_Enchants"
+    }
+  ]
+}
+]
+}

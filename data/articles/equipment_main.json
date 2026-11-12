@@ -1,0 +1,71 @@
+{
+  "id": "equipment_main",
+  "title": "장비 가이드",
+  "summary": "장비 획득처, 인챈트, 직업별 추천 장비 정보를 확인할 수 있습니다.",
+  "keywords": [
+    "장비",
+    "장비 가이드",
+    "인챈트",
+    "직업 장비",
+    "콘텐츠 장비"
+  ],
+  "tags": [
+    "장비",
+    "가이드"
+  ],
+  "breadcrumb": [
+    {
+      "text": "홈",
+      "target": "home"
+    },
+    {
+      "text": "장비 가이드"
+    }
+  ],
+  "report_enabled": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "장비 가이드"
+    },
+    {
+      "type": "text",
+      "text": "NEED 서버의 장비 획득처와 성장 방향을 확인할 수 있습니다."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "구분",
+        "설명"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "[LINK:equipment_content|콘텐츠별 장비]",
+          "콘텐츠별 획득 가능한 주요 장비와 인챈트 정보를 확인합니다."
+        ],
+        [
+          "[LINK:equipment_shadow|쉐도우 장비]",
+          "쉐도우 장비를 확인합니다."
+        ],
+        [
+          "[LINK:equipment_refine|제련 가이드]",
+          "제련 가이드를 확인합니다."
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "안내",
+      "text": "장비 정보는 서버 업데이트에 따라 변경될 수 있습니다."
+    },
+    {
+      "type": "link",
+      "text": "인챈트 가이드 보기",
+      "target": "enchant_main"
+    }
+  ]
+}

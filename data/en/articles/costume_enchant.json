@@ -1,0 +1,142 @@
+{
+  "id": "costume_enchant",
+  "title": "Costume Enchants",
+  "summary": "The costume enchant system and Enchant Stones.",
+  "keywords": [
+    "의상",
+    "의상 인챈트",
+    "인챈트 스톤",
+    "듀얼 스톤"
+  ],
+  "tags": [
+    "의상",
+    "인챈트"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Costume Guide"
+    },
+    {
+      "text": "Costume Enchants"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Costume Enchants"
+    },
+    {
+      "type": "text",
+      "text": "Costume enchanting uses Enchant Stones to add extra stats to costumes."
+    },
+    {
+      "type": "heading",
+      "text": "Enchantable Slots"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Slot",
+        "Description"
+      ],
+      "widths": [
+        "50%",
+        "50%"
+      ],
+      "rows": [
+        [
+          "Upper",
+          "Enchants for upper headgear costumes only"
+        ],
+        [
+          "Mid",
+          "Enchants for middle headgear costumes only"
+        ],
+        [
+          "Lower",
+          "Enchants for lower headgear costumes only"
+        ],
+        [
+          "Garment",
+          "Enchants for garment costumes only"
+        ],
+        [
+          "Dual",
+          "A special enchant that can be added to a garment costume as well"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Enchant Stone"
+    },
+    {
+      "type": "text",
+      "text": "Enchant Stones come from Enchant Stone Boxes and give a variety of stats and job-specific effects."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Box",
+        "Page",
+        "Status"
+      ],
+      "rows": [
+        [
+          "Costume Enchant Stone Box",
+          "[LINK:ENCHANT_STONE_BOX|Open]",
+          "Available now"
+        ],
+        [
+          "Costume Enchant Stone Box 2",
+          "[LINK:egg_2026_06_ENCHANT_STONE_BOX2|Open]",
+          "Available now"
+        ],
+        [
+          "Costume Enchant Stone Box 3",
+          "[LINK:egg_2026_06_ENCHANT_STONE_BOX3|Open]",
+          "Available now"
+        ],
+        [
+          "Costume Enchant Stone Box 4",
+          "[LINK:egg_2026_06_ENCHANT_STONE_BOX4|Open]",
+          "Available now"
+        ],
+        [
+          "Costume Enchant Stone Box 5",
+          "[LINK:egg_2026_06_ENCHANT_STONE_BOX5|Open]",
+          "Available now"
+        ],
+        [
+          "Costume Enchant Stone Box 6",
+          "[LINK:egg_2026_06_ENCHANT_STONE_BOX6|Open]",
+          "Available now"
+        ],
+        [
+          "Costume Enchant Stone Box 7",
+          "[LINK:egg_2026_06_ENCHANT_STONE_BOX7|Open]",
+          "Available now"
+        ],
+        [
+          "Costume Enchant Stone Box 8",
+          "[LINK:egg_2026_06_ENCHANT_STONE_BOX8|Open]",
+          "Available now"
+        ],
+        [
+          "Costume Enchant Stone Box 9",
+          "[LINK:egg_2026_06_ENCHANT_STONE_BOX9|Open]",
+          "Available now"
+        ],
+        [
+          "Costume Enchant Stone Box 10",
+          "Coming later",
+          "Planned"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "enchant_fallen_angel_wing",
+  "title": "⚒ Fallen Angel Wings",
+  "summary": "An enchant system that adds various stats to Fallen Angel Wings.",
+  "keywords": [
+    "타락천사의 날개",
+    "타천",
+    "타천 인챈트",
+    "히든 인챈트",
+    "제련도"
+  ],
+  "tags": [
+    "인챈트",
+    "타락천사의날개",
+    "걸칠것"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant"
+    },
+    {
+      "text": "Fallen Angel Wings"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Fallen Angel Wings"
+    },
+    {
+      "type": "text",
+      "text": "An enchant system that adds extra stats to Fallen Angel Wings."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Overview",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "Enchant Features",
+      "target": "#feature"
+    },
+    {
+      "type": "link",
+      "text": "Enchant Options",
+      "target": "#option"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "link",
+      "text": "Location",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "References",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "Overview",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "Fallen Angel Wings is a well-known garment that gets extra hidden enchants depending on its refine level."
+    },
+    {
+      "type": "text",
+      "text": "The higher the refine level, the more hidden enchants it can get."
+    },
+    {
+      "type": "heading",
+      "text": "Enchant Features",
+      "anchor": "feature"
+    },
+    {
+      "type": "notice",
+      "title": "Enchants by Refine Level",
+      "text": "Up to 3 hidden enchants can be added, depending on the refine level."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Refine Level",
+        "Hidden Enchants"
+      ],
+      "rows": [
+        [
+          "+0 ~ +6",
+          "1"
+        ],
+        [
+          "+7 ~ +8",
+          "2"
+        ],
+        [
+          "+9 or higher",
+          "3"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "text": "For each hidden enchant, you choose one of 13 options."
+    },
+    {
+      "type": "text",
+      "text": "The option's level and value are random."
+    },
+    {
+      "type": "heading",
+      "text": "Enchant Options",
+      "anchor": "option"
+    },
+    {
+      "type": "image",
+      "path": "enchant/fallen_angel_wing_options.png",
+      "caption": "Fallen Angel Wings enchant options"
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "No Reset",
+      "text": "An applied enchant cannot be reset."
+    },
+    {
+      "type": "notice",
+      "title": "No Enchant Failure",
+      "text": "Enchants never fail; the chosen option gets a random value."
+    },
+    {
+      "type": "heading",
+      "text": "Location",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:itemmall,29,66,Fallen Angel Wings Enchant NPC]"
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "iRO Wiki - Fallen Angel Wing Enchants",
+          "url": "https://irowiki.org/wiki/Fallen_Angel_Wing_Enchants"
+        }
+      ]
+    }
+  ]
+}

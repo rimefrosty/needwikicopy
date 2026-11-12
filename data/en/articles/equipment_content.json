@@ -1,0 +1,77 @@
+{
+  "id": "equipment_content",
+  "title": "Equipment by Content",
+  "summary": "The main equipment and enchants available from each kind of content.",
+  "keywords": [
+    "장비",
+    "콘텐츠",
+    "메모리얼 던전",
+    "일루전",
+    "인챈트"
+  ],
+  "tags": [
+    "장비",
+    "콘텐츠"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Equipment Guide",
+      "target": "equipment_main"
+    },
+    {
+      "text": "Equipment by Content"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Equipment by Content"
+    },
+    {
+      "type": "text",
+      "text": "The main equipment and enchants you can get from each kind of content."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Type",
+        "Description"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "[LINK:equipment_memorial|Memorial Dungeon]",
+          "Equipment and enchants from Memorial Dungeons."
+        ],
+        [
+          "[LINK:equipment_dungeon|Regular Dungeons]",
+          "Equipment and enchants from regular dungeons."
+        ],
+        [
+          "[LINK:equipment_illusion|Illusion Dungeon]",
+          "Illusion Dungeon equipment and enchants."
+        ],
+        [
+          "[LINK:content_battleground|Battlegrounds and PvP]",
+          "Equipment for Battlegrounds and PvP content."
+        ],
+        [
+          "[LINK:equipment_event|Event Equipment]",
+          "Equipment you can get from events."
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Note",
+      "text": "Each content page lists its equipment, cards and enchants together."
+    }
+  ]
+}

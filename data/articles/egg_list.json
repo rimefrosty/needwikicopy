@@ -1,0 +1,259 @@
+{
+  "id": "egg_list",
+  "title": "행운의 알 목록",
+  "summary": "NEED 서버에서 판매되었거나 판매 중인 행운의 알 목록입니다.",
+  "keywords": [
+    "행운의 알",
+    "행운의 알 목록",
+    "럭키 에그",
+    "판매 목록"
+  ],
+  "tags": [
+    "행운의 알"
+  ],
+  "breadcrumb": [
+    {
+      "text": "홈",
+      "target": "home"
+    },
+    {
+      "text": "행운의 알"
+    },
+    {
+      "text": "행운의 알 목록"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "행운의 알 목록"
+    },
+    {
+      "type": "text",
+      "text": "행운의 알은 서버 업데이트에 따라 순차적으로 추가될 예정입니다."
+    },
+    {
+      "type": "notice",
+      "title": "안내",
+      "text": "각 행운의 알의 구성품과 확률은 개별 문서에서 확인할 수 있습니다."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "행운의 알",
+        "상태"
+      ],
+      "widths": [
+        "50%",
+        "50%"
+      ],
+      "rows": [
+        [
+          "[LINK:egg_2026_06_SPIRIT_SCROLL|영혼의 스크롤]",
+          "판매 중"
+        ],
+        [
+          "[LINK:egg_2026_06_BALLOON_SCROLL|풍선 스크롤]",
+          "판매 중"
+        ],
+        [
+          "[LINK:egg_2026_06_PORING_SCROLL|포링 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_AMISTR_SCROLL|아미스트르 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SHADOW_SCROLL|쉐도우 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_2015_SPECIAL_SCROLL|2015 스페셜 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_2015_ANGEL_SCROLL|2015 천사 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_NEW_HAT_SCROLL|신상 모자 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_INVISIBLE_SCROLL|인비지블 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_MAD_BUNNY_SCROLL|매드바니 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_PUMP_OF_SPIRIT_SCROLL|영혼의 뚫어뻥 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_HAPPY_BALLOON_SCROLL|해피벌룬 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_PIAMETTE_SCROLL|피아멧트 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_2015_NEW_YEAR_SCROLL|신년 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_SCROLL2|봉인된인장 스크롤Ⅱ]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_SCROLL3|봉인된인장 스크롤Ⅲ]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_STATUS_DECREASE_SCROLL|스테이터스 감소 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_SCROLL|봉인된인장 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_GUARANTEE_RELAX_SCROLL|안심제련 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_DRACULA_SCROLL2|봉인된 드라큐라 스크롤Ⅱ]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_BERZ_SCROLL2|봉인된 베르제브브 스크롤Ⅱ]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_B_YGNIZEM_SCROLL|봉인된 보스이그니젬 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_APO_H_SCROLL|봉인된 베스퍼 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_DRACULA_SCROLL|봉인된 드라큐라 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_B_SHECIL_SCROLL|봉인된 스나이퍼 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_TURTLEG_SCROLL|봉인된 터틀 제네럴 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_BACSOJIN_SCROLL|봉인된 백소진 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_PHARAOH_SCROLL|봉인된 파라오 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_M_FLOWER_SCROLL|봉인된 월야화 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_GLOOM_SCROLL|봉인된 그룸언더나이트 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_IFRIT_SCROLL|봉인된 이프리트 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_F_BISHOP_SCROLL|봉인된 타락한대신관 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_2013_RWC_SCROLL|2013 RWC 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_D_LORD_SCROLL|봉인된 다크로드 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_KNIGHT_WS_SCROLL|봉인된 폭풍의 기사 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_BERZ_SCROLL|봉인된 베르제브브 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_SEALED_KIEL_SCROLL|봉인된 키엘-D-01 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_WOLFKING_SCROLL|늑대왕 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_RWC_SCROLL_2012|2012 RWC 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_GOLDENTREASUREBOX|황금 보물상자]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_XMAX_EGG_KR|크리스마스 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_LUCKY_EGG_C9|행운의 알Ⅸ]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_LUCKY_EGG_C10|행운의 알Ⅹ]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_GRYPHON_EGG_SCROLL|그리폰의 알]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_DRAGON_EGG_SCROLL|드래곤의 알]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2011_RWC_SCROLL_KR|2011 RWC 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_CRU_SCROLL|크루 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_UNDEAD_EGG|언데드의 핵]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_GIRLS_HEART|소녀의 마음]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_POPE_SCROLL|교황스크롤]",
+          "판매 종료"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "판매 종료된 행운의 알",
+      "text": "종료된 행운의 알은 [ITEM:12610|의문의 알]로 통합되며, 과거 행운의 알을 다시 획득할 수 있습니다."
+    }
+  ]
+}

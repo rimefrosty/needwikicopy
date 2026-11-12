@@ -1,0 +1,250 @@
+{
+  "id": "content_battleground",
+  "title": "전장",
+  "summary": "NEED 서버의 전장 시스템과 보상 정보를 안내합니다.",
+  "keywords": [
+    "전장",
+    "티에라",
+    "플라비우스",
+    "KVM",
+    "휘장",
+    "전장 포인트"
+  ],
+  "tags": [
+    "콘텐츠",
+    "전장"
+  ],
+  "breadcrumb": [
+    {
+      "text": "홈",
+      "target": "home"
+    },
+    {
+      "text": "콘텐츠 가이드",
+      "target": "content_main"
+    },
+    {
+      "text": "전장"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "목차"
+    },
+    {
+      "type": "link",
+      "text": "콘텐츠 소개",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "진행 방식",
+      "target": "#cycle"
+    },
+    {
+      "type": "link",
+      "text": "보상",
+      "target": "#reward"
+    },
+    {
+      "type": "link",
+      "text": "전장 포인트",
+      "target": "#point"
+    },
+    {
+      "type": "link",
+      "text": "인원 완화 시스템",
+      "target": "#relax"
+    },
+    {
+      "type": "link",
+      "text": "이동",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "참고 자료",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "콘텐츠 소개",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "전장은 팀 단위로 진행되는 PvP 콘텐츠입니다. 티에라, 플라비우스, KVM이 순차적으로 진행되며 다양한 휘장과 전장 포인트를 획득할 수 있습니다."
+    },
+    {
+      "type": "image",
+      "path": "battleground.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "진행 방식",
+      "anchor": "cycle"
+    },
+    {
+      "type": "text",
+      "text": "전장은 아래 순서로 한 사이클이 반복됩니다."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "순서",
+        "전장"
+      ],
+      "rows": [
+        [
+          "1",
+          "티에라"
+        ],
+        [
+          "2",
+          "플라비우스"
+        ],
+        [
+          "3",
+          "KVM"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "보상",
+      "anchor": "reward"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "전장",
+        "승리",
+        "패배"
+      ],
+      "rows": [
+        [
+          "티에라",
+          "용맹 휘장 ×2",
+          "용맹 휘장 ×1"
+        ],
+        [
+          "플라비우스",
+          "특공 휘장 ×3",
+          "특공 휘장 ×1"
+        ],
+        [
+          "KVM",
+          "전투 휘장 ×3",
+          "전투 휘장 ×1"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "휘장 교환 아이템"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "용맹 휘장 교환 아이템",
+          "url": "https://ro.inven.co.kr/dataninfo/item/list.php?datagroup=misc&sname=%EC%9A%A9%EB%A7%B9"
+        },
+        {
+          "text": "특공 휘장 교환 아이템",
+          "url": "https://ro.inven.co.kr/dataninfo/item/list.php?datagroup=misc&sname=%ED%8A%B9%EA%B3%B5"
+        },
+        {
+          "text": "전투 휘장 교환 아이템",
+          "url": "https://ro.inven.co.kr/dataninfo/item/list.php?datagroup=misc&sname=%EA%B8%80%EB%A1%9C%EB%A6%AC%EC%96%B4%EC%8A%A4"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "전장 포인트",
+      "anchor": "point"
+    },
+    {
+      "type": "text",
+      "text": "전장에 참가할 때마다 전장 포인트를 획득할 수 있습니다."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "조건",
+        "보상"
+      ],
+      "rows": [
+        [
+          "전장 1회 플레이",
+          "전장 포인트 획득"
+        ],
+        [
+          "파티장으로 참가",
+          "추가 전장 포인트 +5"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "전장 포인트 사용",
+      "text": "전장 포인트는 전장존 중앙의 교환 도우미 NPC를 통해 다양한 의상 아이템으로 교환할 수 있으며, 교환 품목은 지속적으로 추가될 예정입니다."
+    },
+    {
+      "type": "heading",
+      "text": "인원 완화 시스템",
+      "anchor": "relax"
+    },
+    {
+      "type": "text",
+      "text": "전장이 인원 부족으로 시작되지 못하는 상황을 줄이기 위해 NEED 서버 전용 인원 완화 시스템을 제공합니다."
+    },
+    {
+      "type": "list",
+      "items": [
+        "파티장이 전장을 신청합니다.",
+        "최소 인원이 1명 부족한 경우에도 신청할 수 있습니다.",
+        "상대 팀 파티장이 승낙하면 전장이 시작됩니다.",
+        "예시 : 10명 vs 9명"
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "NEED 전용 시스템",
+      "text": "인원 완화 시스템은 원활한 전장 진행을 위한 NEED 서버 전용 기능입니다."
+    },
+    {
+      "type": "heading",
+      "text": "이동",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:bat_room,154,149,전장 대기실]"
+    },
+    {
+      "type": "heading",
+      "text": "참고 자료",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "용맹 휘장 교환 아이템",
+          "url": "https://ro.inven.co.kr/dataninfo/item/list.php?datagroup=misc&sname=%EC%9A%A9%EB%A7%B9"
+        },
+        {
+          "text": "특공 휘장 교환 아이템",
+          "url": "https://ro.inven.co.kr/dataninfo/item/list.php?datagroup=misc&sname=%ED%8A%B9%EA%B3%B5"
+        },
+        {
+          "text": "전투 휘장 교환 아이템",
+          "url": "https://ro.inven.co.kr/dataninfo/item/list.php?datagroup=misc&sname=%EA%B8%80%EB%A1%9C%EB%A6%AC%EC%96%B4%EC%8A%A4"
+        }
+      ]
+    }
+  ]
+}

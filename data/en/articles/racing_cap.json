@@ -1,0 +1,54 @@
+{
+  "id": "racing_cap",
+  "title": "Equipment - Racing Cap",
+  "summary": "Racing Cap features and how to get it.",
+  "keywords": [
+    "레이싱 캡",
+    "Racing Cap",
+    "장비",
+    "모자"
+  ],
+  "tags": [
+    "장비",
+    "투구"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Equipment Guide",
+      "target": "equipment_main"
+    },
+    {
+      "text": "Racing Cap"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Racing Cap"
+    },
+    {
+      "type": "image",
+      "path": "en/content/racing_cap1.bcf929db44ce.jpg",
+      "compact": true
+    },
+    {
+      "type": "image",
+      "path": "en/content/racing_cap2.ecc982d1b303.jpg",
+      "compact": true
+    },
+    {
+      "type": "image",
+      "path": "en/content/racing_cap3.96d2dbc055c0.png",
+      "compact": true
+    },
+    {
+      "type": "image",
+      "path": "en/content/racing_cap4.bc021a5db3f8.png",
+      "compact": true
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "id": "enchant_rwc",
+  "title": "⚒ RWC",
+  "summary": "A high-end accessory enchant system that adds special enchants to the RWC Memorial Ring and the RWC Memorial Pendant.",
+  "keywords": [
+    "RWC",
+    "RWC 기념 반지",
+    "RWC 기념 펜던트",
+    "골드버그",
+    "천공술사",
+    "RWC 인챈트"
+  ],
+  "tags": [
+    "인챈트",
+    "RWC",
+    "액세서리"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant"
+    },
+    {
+      "text": "RWC"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "RWC"
+    },
+    {
+      "type": "text",
+      "text": "An accessory enchant system that adds special stats to the RWC Memorial Ring and the RWC Memorial Pendant."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Overview",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "Enchant Order",
+      "target": "#order"
+    },
+    {
+      "type": "link",
+      "text": "Socket Enchant",
+      "target": "#socket"
+    },
+    {
+      "type": "link",
+      "text": "Hidden Enchant",
+      "target": "#hidden"
+    },
+    {
+      "type": "link",
+      "text": "Ring Enchant",
+      "target": "#ring"
+    },
+    {
+      "type": "link",
+      "text": "Pendant Enchant",
+      "target": "#pendant"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "link",
+      "text": "Location",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "References",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "Overview",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "A system that adds up to 4 hidden enchants to the RWC Memorial Ring and the RWC Memorial Pendant."
+    },
+    {
+      "type": "text",
+      "text": "Like Fallen Angel Wings, it is an enchant for expensive equipment with few real enchant chances."
+    },
+    {
+      "type": "heading",
+      "text": "Enchant Order",
+      "anchor": "order"
+    },
+    {
+      "type": "notice",
+      "title": "Enchant Order",
+      "text": "Enchants go in slot order 4 → 3 → 2 → 1."
+    },
+    {
+      "type": "text",
+      "text": "Equipment with a created socket can only be enchanted in slots 4 → 3 → 2."
+    },
+    {
+      "type": "heading",
+      "text": "Socket Enchant",
+      "anchor": "socket"
+    },
+    {
+      "type": "text",
+      "text": "The Socket Enchant turns the RWC Memorial Ring and Pendant into the [ITEM:2967|RWC Memorial Ring [1]] and the [ITEM:2969|RWC Memorial Pendant [1]]."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Success Rate",
+          "50%"
+        ],
+        [
+          "On Failure",
+          "Equipment destroyed"
+        ],
+        [
+          "Restriction",
+          "Not available for equipment with a hidden enchant"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Hidden Enchant",
+      "anchor": "hidden"
+    },
+    {
+      "type": "text",
+      "text": "You choose the option type for each slot; the option value is random."
+    },
+    {
+      "type": "notice",
+      "title": "Destruction Chance",
+      "text": "Enchanting slot 1 or 2 destroys the equipment with a 25% chance."
+    },
+    {
+      "type": "notice",
+      "title": "No Reset",
+      "text": "An applied enchant cannot be reset, but a [ITEM:6665|RWC Enchant Reset Ticket] resets the enchants once."
+    },
+    {
+      "type": "heading",
+      "text": "Ring Enchant",
+      "anchor": "ring"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Slot",
+        "Available Options"
+      ],
+      "rows": [
+        [
+          "Slots 3~4",
+          "Fighting Spirit, ATK%, MHP%, HP"
+        ],
+        [
+          "Slots 1~2",
+          "STR, AGI, VIT, INT, DEX, LUK, SP"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "text": "Main options: Fighting Spirit Lv 1~3, ATK +1~3%, MHP +1~3%, HP +100~300"
+    },
+    {
+      "type": "heading",
+      "text": "Pendant Enchant",
+      "anchor": "pendant"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Slot",
+        "Available Options"
+      ],
+      "rows": [
+        [
+          "Slots 3~4",
+          "Spell, MATK%, SP"
+        ],
+        [
+          "Slots 1~2",
+          "STR, AGI, VIT, INT, DEX, LUK, MHP%, HP"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "text": "Main options: Spell Lv 1~3, MATK +1~3%, SP +25~75"
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "Expensive Equipment",
+      "text": "RWC enchants can destroy the equipment, so proceed carefully."
+    },
+    {
+      "type": "heading",
+      "text": "Location",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:itemmall,29,64,Goldberg]"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:itemmall,29,61,Drilling Expert]"
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "iRO Wiki - RWC Accessory Enchants",
+          "url": "https://irowiki.org/wiki/RWC_Accessory_Enchants"
+        }
+      ]
+    }
+  ]
+}

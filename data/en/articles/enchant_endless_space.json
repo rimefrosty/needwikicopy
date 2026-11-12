@@ -1,0 +1,432 @@
+{
+  "id": "enchant_endless_space",
+  "title": "Infinite Space Equipment",
+  "summary": "An equipment enchant system that uses Shattered Magic Stones to enchant the Infinity/Rift equipment from Infinite Space.",
+  "keywords": [
+    "무한의 공간",
+    "무한 장비",
+    "균열 장비",
+    "부서진 마법석",
+    "유물 강화사",
+    "Pharos",
+    "Infinite Space",
+    "인챈트"
+  ],
+  "tags": [
+    "인챈트",
+    "무한의 공간",
+    "파로스",
+    "장비"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant"
+    },
+    {
+      "text": "Infinite Space Equipment"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Infinite Space Equipment"
+    },
+    {
+      "type": "text",
+      "text": "A system that uses [ITEM:6905|Shattered Magic Stone] to add special enchants to the Infinity/Rift equipment obtained in Infinite Space."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Overview",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "How It Works",
+      "target": "#process"
+    },
+    {
+      "type": "link",
+      "text": "Enchant Targets",
+      "target": "#target"
+    },
+    {
+      "type": "link",
+      "text": "Weapon Enchant",
+      "target": "#weapon"
+    },
+    {
+      "type": "link",
+      "text": "Armor / Shoes Enchant",
+      "target": "#armor-shoes"
+    },
+    {
+      "type": "link",
+      "text": "Garment / Headgear Enchant",
+      "target": "#garment-head"
+    },
+    {
+      "type": "link",
+      "text": "Reset",
+      "target": "#reset"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "link",
+      "text": "Location",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "References",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "Overview",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "The Artifact Enhancer enchants the equipment obtained in Infinite Space."
+    },
+    {
+      "type": "text",
+      "text": "When enchanting, you choose one category (Physical, Magic or Ranged), and one of the options in that category is given at random."
+    },
+    {
+      "type": "notice",
+      "title": "Enchanting Is Safe",
+      "text": "The enchant itself never fails or destroys the equipment. Resetting the enchants, however, can destroy it."
+    },
+    {
+      "type": "heading",
+      "text": "How It Works",
+      "anchor": "process"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "NPC",
+          "Artifact Enhancer"
+        ],
+        [
+          "Location",
+          "[NAVI:lasa_in01,189,56,Artifact Enhancer]"
+        ],
+        [
+          "Materials Used",
+          "20 [ITEM:6905|Shattered Magic Stone] per enchant"
+        ],
+        [
+          "Enchant Targets",
+          "The Infinity/Rift equipment from Infinite Space"
+        ],
+        [
+          "Enchant Order",
+          "Slot order 4 → 3"
+        ],
+        [
+          "Max Enchants",
+          "Up to 2 per equipment"
+        ],
+        [
+          "Enchant Success Rate",
+          "100%"
+        ],
+        [
+          "Reset Cost",
+          "30 [ITEM:6905|Shattered Magic Stone]"
+        ],
+        [
+          "Reset Risk",
+          "30% chance to destroy the equipment"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Enchant Targets",
+      "anchor": "target"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Category",
+        "Eligible Equipment"
+      ],
+      "rows": [
+        [
+          "Weapon",
+          "[ITEM:1994|Infinity Wire], [ITEM:1938|Infinity Violin], [ITEM:13323|Infinity Shuriken], [ITEM:13126|Infinity Handgun], [ITEM:28703|Infinity Dagger], [ITEM:2024|Infinity Staff], [ITEM:16038|Infinity Mace], [ITEM:21014|Infinity Two-Handed Sword], [ITEM:28105|Infinity Two-Handed Axe], [ITEM:18128|Infinity Bow]"
+        ],
+        [
+          "Armor",
+          "[ITEM:15141|Ancient Armor of Rift]"
+        ],
+        [
+          "Shoes",
+          "[ITEM:22075|Shoes of Rift]"
+        ],
+        [
+          "Garment",
+          "[ITEM:20779|Manteau of Rift]"
+        ],
+        [
+          "Headgear",
+          "[ITEM:19033|Ancient Decoration of Rift]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Weapon Enchant",
+      "anchor": "weapon"
+    },
+    {
+      "type": "text",
+      "text": "For weapons, the 1st and the 2nd enchant have different candidate pools."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Step",
+        "Category",
+        "Available Options"
+      ],
+      "rows": [
+        [
+          "1st",
+          "Physical",
+          "[ITEM:4700|STR +1], [ITEM:4701|STR +2]"
+        ],
+        [
+          "1st",
+          "Magic",
+          "[ITEM:4710|INT +1], [ITEM:4711|INT +2]"
+        ],
+        [
+          "1st",
+          "Ranged",
+          "[ITEM:4720|DEX +1], [ITEM:4721|DEX +2]"
+        ],
+        [
+          "2nd",
+          "Physical",
+          "[ITEM:4811|Fighting Spirit Lv 1], [ITEM:4810|Fighting Spirit Lv 2], [ITEM:4809|Fighting Spirit Lv 3], [ITEM:4808|Fighting Spirit Lv 4], [ITEM:4820|Fighting Spirit Lv 5], [ITEM:4821|Fighting Spirit Lv6], [ITEM:4822|Fighting Spirit Lv7], [ITEM:4823|Fighting Spirit Lv8]"
+        ],
+        [
+          "2nd",
+          "Magic",
+          "[ITEM:4815|Spell Lv 1], [ITEM:4814|Spell Lv 2], [ITEM:4813|Spell Lv 3], [ITEM:4812|Spell Lv 4], [ITEM:4826|Spell Lv 5], [ITEM:4827|Spell Lv6], [ITEM:4828|Spell Lv7], [ITEM:4829|Spell Lv8]"
+        ],
+        [
+          "2nd",
+          "Ranged",
+          "[ITEM:4832|Expert Archer Lv 1], [ITEM:4833|Expert Archer Lv 2], [ITEM:4834|Expert Archer Lv 3], [ITEM:4835|Expert Archer Lv 4], [ITEM:4836|Expert Archer Lv 5], [ITEM:4837|Expert Archer Lv6], [ITEM:4838|Expert Archer Lv7], [ITEM:4839|Expert Archer Lv8]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Armor / Shoes Enchant",
+      "anchor": "armor-shoes"
+    },
+    {
+      "type": "text",
+      "text": "Armor and shoes get a stat option on the 1st enchant and an HP or SP option on the 2nd."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Step",
+        "Category",
+        "Available Options"
+      ],
+      "rows": [
+        [
+          "1st",
+          "Physical",
+          "[ITEM:4700|STR +1], [ITEM:4701|STR +2], [ITEM:4702|STR +3], [ITEM:4703|STR +4]"
+        ],
+        [
+          "1st",
+          "Magic",
+          "[ITEM:4710|INT +1], [ITEM:4711|INT +2], [ITEM:4712|INT +3], [ITEM:4713|INT +4]"
+        ],
+        [
+          "1st",
+          "Ranged",
+          "[ITEM:4720|DEX +1], [ITEM:4721|DEX +2], [ITEM:4722|DEX +3], [ITEM:4723|DEX +4]"
+        ],
+        [
+          "2nd",
+          "Physical",
+          "[ITEM:4795|HP +100], [ITEM:4796|HP +200], [ITEM:4797|HP +300]"
+        ],
+        [
+          "2nd",
+          "Magic",
+          "[ITEM:4870|SP +25], [ITEM:4800|SP +50], [ITEM:4871|SP +75]"
+        ],
+        [
+          "2nd",
+          "Ranged",
+          "[ITEM:4870|SP +25], [ITEM:4800|SP +50], [ITEM:4871|SP +75]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Garment / Headgear Enchant",
+      "anchor": "garment-head"
+    },
+    {
+      "type": "text",
+      "text": "Garments and headgear get a stat option on the 1st enchant and, whatever the chosen category, an HP% option on the 2nd."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Step",
+        "Category",
+        "Available Options"
+      ],
+      "rows": [
+        [
+          "1st",
+          "Physical",
+          "[ITEM:4700|STR +1], [ITEM:4701|STR +2], [ITEM:4702|STR +3], [ITEM:4703|STR +4]"
+        ],
+        [
+          "1st",
+          "Magic",
+          "[ITEM:4710|INT +1], [ITEM:4711|INT +2], [ITEM:4712|INT +3], [ITEM:4713|INT +4]"
+        ],
+        [
+          "1st",
+          "Ranged",
+          "[ITEM:4720|DEX +1], [ITEM:4721|DEX +2], [ITEM:4722|DEX +3], [ITEM:4723|DEX +4]"
+        ],
+        [
+          "2nd",
+          "Physical",
+          "[ITEM:4861|HP +1%], [ITEM:4862|HP +2%], [ITEM:4867|HP +3%], [ITEM:4868|HP +4%], [ITEM:4900|HP +5%]"
+        ],
+        [
+          "2nd",
+          "Magic",
+          "[ITEM:4861|HP +1%], [ITEM:4862|HP +2%], [ITEM:4867|HP +3%], [ITEM:4868|HP +4%], [ITEM:4900|HP +5%]"
+        ],
+        [
+          "2nd",
+          "Ranged",
+          "[ITEM:4861|HP +1%], [ITEM:4862|HP +2%], [ITEM:4867|HP +3%], [ITEM:4868|HP +4%], [ITEM:4900|HP +5%]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Reset",
+      "anchor": "reset"
+    },
+    {
+      "type": "text",
+      "text": "The Artifact Enhancer resets the enchants on Infinite Space equipment."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Reset Material",
+          "30 [ITEM:6905|Shattered Magic Stone]"
+        ],
+        [
+          "Reset Target",
+          "The equipped, enchanted Infinity/Rift equipment"
+        ],
+        [
+          "Reset Scope",
+          "All enchanted slots are reset"
+        ],
+        [
+          "On Success",
+          "Refine level and cards are kept; only the enchants are removed"
+        ],
+        [
+          "On Failure",
+          "30% chance to destroy the equipment"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Reset Can Destroy",
+      "text": "Enchanting is safe, but a reset destroys the equipment with a 30% chance. Always check the equipment and materials before resetting."
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "Equip the Item First",
+      "text": "Enchanting and resetting are done on equipment you are wearing. The target equipment must be equipped in the chosen slot."
+    },
+    {
+      "type": "notice",
+      "title": "Category Chosen, Option Random",
+      "text": "You can choose the category (Physical, Magic or Ranged), but which option in it you get is random."
+    },
+    {
+      "type": "notice",
+      "title": "No More Than 2",
+      "text": "Equipment that already has two enchants cannot be enchanted any further."
+    },
+    {
+      "type": "heading",
+      "text": "Location",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:lasa_in01,189,56,Artifact Enhancer]"
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "bROWiki - Pharos",
+          "url": "https://browiki.org/wiki/Pharos"
+        }
+      ]
+    }
+  ]
+}

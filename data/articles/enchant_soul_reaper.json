@@ -1,0 +1,36 @@
+{
+  "id": "enchant_soul_reaper",
+  "title": "🔒 영혼의 뚫어뻥",
+  "summary": "향후 업데이트 예정인 인챈트 시스템입니다.",
+  "keywords": [
+    "영혼의 뚫어뻥",
+    "인챈트"
+  ],
+  "tags": [
+    "planned",
+    "enchant"
+  ],
+  "breadcrumb": [
+    {
+      "text": "홈",
+      "target": "home"
+    },
+    {
+      "text": "인챈트"
+    },
+    {
+      "text": "영혼의 뚫어뻥"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "영혼의 뚫어뻥"
+    },
+    {
+      "type": "notice",
+      "title": "업데이트 예정",
+      "text": "향후 에피소드 업데이트와 함께 추가될 예정입니다."
+    }
+  ]
+}

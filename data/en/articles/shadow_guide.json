@@ -1,0 +1,90 @@
+{
+  "id": "shadow_guide",
+  "title": "Shadow Gear Guide",
+  "summary": "The basics of Shadow Gear, its slots and set effects.",
+  "keywords": [
+    "쉐도우",
+    "쉐도우 장비",
+    "세트 효과",
+    "관통",
+    "직업 쉐도우"
+  ],
+  "tags": [
+    "장비",
+    "쉐도우"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Equipment Guide",
+      "target": "equipment_main"
+    },
+    {
+      "text": "Shadow Gear",
+      "target": "equipment_shadow"
+    },
+    {
+      "text": "Shadow Gear Guide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "notice",
+      "title": "Note",
+      "text": "※ Shadow Gear is added step by step with server updates."
+    },
+    {
+      "type": "notice",
+      "text": "※ Some gear is not available yet or will be added later through Lucky Eggs."
+    },
+    {
+      "type": "heading",
+      "text": "What is Shadow Gear?"
+    },
+    {
+      "type": "text",
+      "text": "Shadow Gear is special equipment worn separately from regular equipment. It gives a variety of effects such as higher stats, skill bonuses, defense piercing and reduced casting time."
+    },
+    {
+      "type": "heading",
+      "text": "Equipment Slots"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Slot"
+      ],
+      "rows": [
+        [
+          "Shadow Armor"
+        ],
+        [
+          "Shadow Weapon"
+        ],
+        [
+          "Shadow Shield"
+        ],
+        [
+          "Shadow Shoes"
+        ],
+        [
+          "Shadow Earring"
+        ],
+        [
+          "Shadow Pendant"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Shadow Gear Features"
+    },
+    {
+      "type": "text",
+      "text": "Shadow Gear can be worn alongside regular equipment, and set effects give extra stats. Some Shadow Gear also has effects specialized for particular jobs."
+    }
+  ]
+}

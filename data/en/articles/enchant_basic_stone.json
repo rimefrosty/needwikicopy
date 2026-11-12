@@ -1,0 +1,145 @@
+{
+  "id": "enchant_basic_stone",
+  "title": "Costume Enchant Stone",
+  "summary": "Enchant Stones for costume equipment and the drop rates of the Enchant Stone boxes.",
+  "keywords": [
+    "인챈트 스톤",
+    "인챈트 스톤 상자",
+    "의상 인챈트",
+    "의상 스톤",
+    "스톤 상자",
+    "확률"
+  ],
+  "tags": [
+    "인챈트",
+    "스톤",
+    "의상",
+    "확률"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant"
+    },
+    {
+      "text": "Costume Enchant Stone Box"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Costume Enchant Stone Box"
+    },
+    {
+      "type": "text",
+      "text": "The Costume Enchant Stones you can get from the Costume Enchant Stone Box, with their rates."
+    },
+    {
+      "type": "notice",
+      "title": "Rates by Box",
+      "text": "More Enchant Stone Boxes (boxes 2, 3, 4, 5, 6, 7 and so on) will keep being added. Each box's contents and rates are on its own page."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "What Are Enchant Stones?",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "Before You Enchant",
+      "target": "#notice"
+    },
+    {
+      "type": "link",
+      "text": "Store Stones in the Wardrobe",
+      "target": "#closet"
+    },
+    {
+      "type": "link",
+      "text": "Box List",
+      "target": "#box-list"
+    },
+    {
+      "type": "link",
+      "text": "Related Pages",
+      "target": "#related"
+    },
+    {
+      "type": "heading",
+      "text": "What Are Costume Enchant Stones?",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "Costume Enchant Stones are card options you can add to costume equipment."
+    },
+    {
+      "type": "text",
+      "text": "Add an Enchant Stone to a costume in the enchant zone to apply its option."
+    },
+    {
+      "type": "heading",
+      "text": "Before You Enchant",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "Stones Become Bound",
+      "text": "An Enchant Stone added in the enchant zone becomes bound to the costume you enchanted."
+    },
+    {
+      "type": "text",
+      "text": "An Enchant Stone, once added, cannot be moved to another costume, so choose carefully."
+    },
+    {
+      "type": "heading",
+      "text": "Store Stones in the Wardrobe",
+      "anchor": "closet"
+    },
+    {
+      "type": "notice",
+      "title": "Use the Wardrobe",
+      "text": "If you want an Enchant Stone option on several costumes, we strongly recommend storing the Enchant Stone in the Wardrobe."
+    },
+    {
+      "type": "text",
+      "text": "An Enchant Stone stored in the Wardrobe keeps its option while you switch between different costume appearances."
+    },
+    {
+      "type": "link",
+      "text": "Go to Costume System",
+      "target": "costume_system"
+    },
+    {
+      "type": "heading",
+      "text": "Box List",
+      "anchor": "box-list"
+    },
+    {
+      "type": "text",
+      "text": "The box available now is the Costume Enchant Stone Box. Each new box will get its own rate page when it is added."
+    },
+    {
+      "type": "link",
+      "text": "Go to Costume Enchants",
+      "target": "costume_enchant"
+    },
+    {
+      "type": "heading",
+      "text": "Related Pages",
+      "anchor": "related"
+    },
+    {
+      "type": "link",
+      "text": "Costume System",
+      "target": "costume_system"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "roadmap_upcoming",
+  "title": "Upcoming Updates",
+  "summary": "Content and systems planned for the NEED server.",
+  "keywords": [
+    "업데이트 예정",
+    "로드맵",
+    "예정 콘텐츠",
+    "신규 콘텐츠",
+    "추후 업데이트"
+  ],
+  "tags": [
+    "로드맵",
+    "업데이트 예정"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Server Roadmap",
+      "target": "roadmap_main"
+    },
+    {
+      "text": "Upcoming Updates"
+    }
+  ],
+  "report_enabled": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Upcoming Updates"
+    },
+    {
+      "type": "text",
+      "text": "The NEED server will add content, equipment, enchants, costumes and Shadow Gear step by step according to the roadmap."
+    },
+    {
+      "type": "notice",
+      "title": "Note",
+      "text": "Update schedules and details may change depending on the server situation."
+    },
+    {
+      "type": "heading",
+      "text": "Main Planned Updates"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Type",
+        "Details"
+      ],
+      "widths": [
+        "30%",
+        "70%"
+      ],
+      "rows": [
+        [
+          "New content",
+          "New Memorial Dungeons, Farming Areas, Illusion Dungeons and more"
+        ],
+        [
+          "Equipment",
+          "New equipment, cards, enchants and random-option equipment"
+        ],
+        [
+          "Costume",
+          "New costumes and Silvervine Fruit exchange costumes"
+        ],
+        [
+          "Enchant Stone",
+          "Job Stones, Dual Stones and new stones according to the roadmap"
+        ],
+        [
+          "Shadow Gear",
+          "New Shadow Gear added step by step through Lucky Eggs"
+        ],
+        [
+          "Lucky Egg",
+          "New Lucky Eggs and contents as the episodes progress"
+        ],
+        [
+          "Events",
+          "Seasonal events, anniversary events and limited reward content"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Check Planned Content"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Page",
+        "Description"
+      ],
+      "widths": [
+        "40%",
+        "60%"
+      ],
+      "rows": [
+        [
+          "[LINK:roadmap_main|Server Roadmap]",
+          "The full episode order and main content"
+        ],
+        [
+          "[LINK:roadmap_current|Current Server Stage]",
+          "The content and systems open now"
+        ],
+        [
+          "[LINK:egg_guide|Lucky Egg]",
+          "Lucky Egg contents and sale information"
+        ],
+        [
+          "[LINK:costume_acquire|How to Get Costumes]",
+          "How new costumes are obtained"
+        ],
+        [
+          "[LINK:shadow_current|Shadow Gear Available Now]",
+          "The Shadow Gear you can get now"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "More information",
+      "text": "Planned updates are advance notice, not confirmed content. Some details may change when the update is released."
+    }
+  ]
+}

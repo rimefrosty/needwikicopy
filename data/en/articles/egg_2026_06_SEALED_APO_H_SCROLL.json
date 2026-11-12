@@ -1,0 +1,217 @@
+{
+  "id": "egg_2026_06_SEALED_APO_H_SCROLL",
+  "title": "Sealed Vesper Scroll",
+  "summary": "Contents and drop rates of the Sealed Vesper Scroll",
+  "keywords": [
+    "행운의 알",
+    "캐시",
+    "확률",
+    "의상",
+    "인챈트 스톤"
+  ],
+  "tags": [
+    "행운의알",
+    "캐시",
+    "확률"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Lucky Egg"
+    },
+    {
+      "text": "Sealed Vesper Scroll"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Sealed Vesper Scroll"
+    },
+    {
+      "type": "text",
+      "text": "The contents and drop rates of the Sealed Vesper Scroll."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Sale Information",
+      "target": "#info"
+    },
+    {
+      "type": "link",
+      "text": "Box Contents",
+      "target": "#items"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "heading",
+      "text": "Sale Information",
+      "anchor": "info"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Sales Period",
+          "2026-08-22 ~ 2026-09-05"
+        ],
+        [
+          "Price",
+          "1,000 Cash each"
+        ],
+        [
+          "Item Used",
+          "[ITEM:14740|Sealed Vesper Scroll]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Box Contents",
+      "anchor": "items"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Item",
+        "Rate"
+      ],
+      "rows": [
+        [
+          "[BADGE:NEW][ITEM:4503|Sealed Vesper Card]",
+          "0.01%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6228|Safe to 9 Weapon Certificate]",
+          "0.05%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6232|Safe to 9 Armor Certificate]",
+          "0.05%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:24170|Magic Executioner Shadow Weapon]",
+          "1.00%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:24171|Magic Exorcist Shadow Weapon]",
+          "1.00%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:24168|Tempest Shadow Earring]",
+          "1.00%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:24169|Tempest Shadow Pendant]",
+          "1.00%"
+        ],
+        [
+          "[ITEM:969|Gold]",
+          "0.50%"
+        ],
+        [
+          "[ITEM:6230|Safe to 7 Weapon Certificate]",
+          "0.90%"
+        ],
+        [
+          "[ITEM:6234|Safe to 7 Armor Certificate]",
+          "0.90%"
+        ],
+        [
+          "[ITEM:19936|Costume Knit Cap of Water]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:399992|NEED Rebirth Ticket]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:24175|Magic Dragon Killer Shadow Weapon]",
+          "4.00%"
+        ],
+        [
+          "[ITEM:24177|Magic Vibration Shadow Weapon]",
+          "4.00%"
+        ],
+        [
+          "[ITEM:24179|Magic Scissor Shadow Weapon]",
+          "4.00%"
+        ],
+        [
+          "[ITEM:24173|Magic Insect Net Shadow Weapon]",
+          "4.00%"
+        ],
+        [
+          "[ITEM:24176|Magic Corrupted Shadow Weapon]",
+          "4.00%"
+        ],
+        [
+          "[ITEM:24174|Magic Fishing Shadow Weapon]",
+          "4.00%"
+        ],
+        [
+          "[ITEM:24172|Magic Hunting Shadow Weapon]",
+          "4.00%"
+        ],
+        [
+          "[ITEM:24178|Magic Holy Water Shadow Weapon]",
+          "4.00%"
+        ],
+        [
+          "[ITEM:6635|Blacksmith's Blessing]",
+          "5.00%"
+        ],
+        [
+          "[ITEM:17314|Infinite Giant Fly Wing Box]",
+          "8.79%"
+        ],
+        [
+          "[ITEM:12550|Poison Bottle Box]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:6697|Costume Exchange Coupon]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:14695|Costume Enchant Stone Box 3]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:7444|Treasure Box]",
+          "14.30%"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "About the Rates",
+      "text": "Rates are shown with decimals and may change with updates."
+    },
+    {
+      "type": "notice",
+      "title": "Badges",
+      "text": "[BADGE:NEW] marks a new item, [BADGE:HOT] a popular item and [BADGE:EVENT] an event-only reward."
+    }
+  ]
+}

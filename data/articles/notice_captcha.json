@@ -1,0 +1,137 @@
+
+{
+  "id": "notice_captcha",
+  "title": "캡차 인증 시스템",
+  "summary": "사냥 중 비정상 플레이 방지를 위해 표시되는 캡차 인증 시스템 안내입니다.",
+  "category": "notice",
+  "keywords": ["캡차", "매크로", "오토", "인증", "제재", "미스릴화", "500캐시"],
+  "tags": ["system", "captcha", "macro", "security"],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "필독 안내",
+      "target": "notice_guide"
+    },
+    {
+      "text": "캡차 인증 시스템"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "캡차 인증 시스템",
+      "level": 1
+    },
+    {
+      "type": "text",
+      "text": "NEED 서버는 비정상적인 자동 사냥 및 매크로 이용을 방지하기 위해 캡차 인증 시스템을 사용합니다."
+    },
+    {
+      "type": "notice",
+      "style": "info",
+      "title": "정상 플레이 확인용 시스템입니다",
+      "text": "캡차는 정상 플레이 중에도 표시될 수 있습니다. 화면에 보이는 문자를 제한 시간 내에 입력하면 인증이 완료됩니다."
+    },
+    {
+      "type": "heading",
+      "text": "목차",
+      "level": 2
+    },
+    {
+      "type": "link",
+      "text": "캡차는 언제 발생하나요?",
+      "target": "#trigger"
+    },
+    {
+      "type": "link",
+      "text": "인증 방법",
+      "target": "#howto"
+    },
+    {
+      "type": "link",
+      "text": "성공 보상",
+      "target": "#reward"
+    },
+    {
+      "type": "link",
+      "text": "실패 시 처리",
+      "target": "#fail"
+    },
+    {
+      "type": "link",
+      "text": "주의 사항",
+      "target": "#notice"
+    },
+    {
+      "type": "heading",
+      "text": "캡차는 언제 발생하나요?",
+      "level": 2,
+      "anchor": "trigger"
+    },
+    {
+      "type": "text",
+      "text": "사냥 중 일정 조건에 따라 캡차 인증창이 표시될 수 있습니다. 이는 특정 유저를 처벌하기 위한 목적이 아니라, 장시간 반복 사냥이나 비정상적인 자동 플레이를 확인하기 위한 절차입니다."
+    },
+    {
+      "type": "heading",
+      "text": "인증 방법",
+      "level": 2,
+      "anchor": "howto"
+    },
+    {
+      "type": "text",
+      "text": "캡차 인증창이 표시되면 이미지에 보이는 문자를 입력해 주세요. 정답은 대소문자를 구분할 수 있으므로 화면에 표시된 그대로 입력하는 것이 좋습니다."
+    },
+    {
+      "type": "notice",
+      "style": "warning",
+      "title": "제한 시간 안내",
+      "text": "캡차는 제한 시간 내에 입력해야 합니다. 제한 시간을 초과하면 인증 실패로 처리될 수 있습니다."
+    },
+    {
+      "type": "heading",
+      "text": "성공 보상",
+      "level": 2,
+      "anchor": "reward"
+    },
+    {
+      "type": "text",
+      "text": "캡차 인증에 성공하면 정상 플레이 확인 보상으로 미스릴화 1개가 지급됩니다. 미스릴화 1개는 500 캐시로 교환할 수 있습니다."
+    },
+    {
+      "type": "notice",
+      "style": "success",
+      "title": "인증 성공 보상",
+      "text": "미스릴화 1개 지급"
+    },
+    {
+      "type": "heading",
+      "text": "실패 시 처리",
+      "level": 2,
+      "anchor": "fail"
+    },
+    {
+      "type": "text",
+      "text": "캡차 입력 실패 또는 제한 시간 초과가 반복될 경우 매크로 의심 대상으로 처리될 수 있습니다. 현재는 실수로 인한 피해를 줄이기 위해 즉시 영구 제재가 아닌 감옥 처리 방식으로 운영됩니다."
+    },
+    {
+      "type": "heading",
+      "text": "주의 사항",
+      "level": 2,
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "style": "info",
+      "title": "꼭 확인해 주세요",
+      "text": "정상 플레이 중에도 캡차가 표시될 수 있습니다. 캡차가 표시되면 당황하지 말고 화면의 문자를 입력해 주세요. 반복적으로 인증에 실패할 경우 제재 대상이 될 수 있습니다."
+    },
+    {
+      "type": "text",
+      "text": "캡차 시스템의 발동 확률, 보상, 제재 기준은 서버 상황에 따라 조정될 수 있습니다."
+    }
+  ]
+}

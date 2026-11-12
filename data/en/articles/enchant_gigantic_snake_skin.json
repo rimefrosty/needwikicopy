@@ -1,0 +1,148 @@
+{
+  "id": "enchant_gigantic_snake_skin",
+  "title": "⚒ Gigant Snake Skin",
+  "summary": "The main mid-to-late game gear enchant system, obtained as a Memorial Dungeon time attack reward.",
+  "keywords": [
+    "거신뱀의 껍질",
+    "시간의 망토",
+    "타임어택",
+    "메모리얼 던전",
+    "제련도",
+    "추가 슬롯"
+  ],
+  "tags": [
+    "인챈트",
+    "거신뱀의 껍질",
+    "메모리얼 던전",
+    "페이스웜의 둥지"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant"
+    },
+    {
+      "text": "Gigant Snake Skin"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gigant Snake Skin (Faceworm's Nest)"
+    },
+    {
+      "type": "text",
+      "text": "The main mid-to-late game gear enchant system, obtained through Memorial Dungeon time attack rewards."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Faceworm's Nest",
+      "target": "content_faceworm_nest"
+    },
+    {
+      "type": "link",
+      "text": "Overview",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "How to Get It",
+      "target": "#obtain"
+    },
+    {
+      "type": "link",
+      "text": "Time Attack Rewards",
+      "target": "#reward"
+    },
+    {
+      "type": "link",
+      "text": "Extra Options",
+      "target": "#bonus"
+    },
+    {
+      "type": "heading",
+      "text": "Faceworm's Nest",
+      "target": "faceworm_nest"
+    },
+    {
+      "type": "text",
+      "text": "Gigant Snake Skin is equipment obtained as a Faceworm's Nest time attack reward."
+    },
+    {
+      "type": "image",
+      "path": "en/enchant/faceworm_nest.eb46b8b4bc3d.jpg",
+      "caption": "Entry requirements"
+    },
+    {
+      "type": "heading",
+      "text": "Overview",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "Its extra options, slots and refine level depend on the dungeon clear time."
+    },
+    {
+      "type": "image",
+      "path": "en/enchant/gigantic_snake_skin_overview.e677f7796aef.jpg",
+      "caption": "Memorial Dungeon time attack system"
+    },
+    {
+      "type": "heading",
+      "text": "How to Get It",
+      "anchor": "obtain"
+    },
+    {
+      "type": "text",
+      "text": "Clearing the Memorial Dungeon gives a reward box."
+    },
+    {
+      "type": "text",
+      "text": "The time attack result decides the extra options on the Gigant Snake Skin and the Temporal Manteau."
+    },
+    {
+      "type": "image",
+      "path": "en/enchant/gigantic_snake_skin_hunt.8994df133e80.jpg",
+      "caption": "A fast clear matters"
+    },
+    {
+      "type": "heading",
+      "text": "Time Attack Rewards",
+      "anchor": "reward"
+    },
+    {
+      "type": "notice",
+      "title": "Key Point",
+      "text": "The faster the clear, the higher the tier of extra options you get."
+    },
+    {
+      "type": "text",
+      "text": "Avoid the traps in the dungeon and defeat the boss quickly."
+    },
+    {
+      "type": "heading",
+      "text": "Extra Options",
+      "anchor": "bonus"
+    },
+    {
+      "type": "image",
+      "path": "en/enchant/gigantic_snake_skin_bonus.77770fe817d2.jpg",
+      "caption": "Extra options given as time attack rewards"
+    },
+    {
+      "type": "text",
+      "text": "The time attack result decides the refine level, the number of slots and the extra stats."
+    },
+    {
+      "type": "text",
+      "text": "The extra stats are random among STR, AGI, VIT, INT, DEX and LUK."
+    }
+  ]
+}

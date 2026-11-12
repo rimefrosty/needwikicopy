@@ -1,0 +1,141 @@
+{
+  "id": "egg_guide",
+  "title": "Lucky Egg Guide",
+  "summary": "The Lucky Egg system, its published rates and how to use Lucky Mileage.",
+  "keywords": [
+    "행운의 알",
+    "럭키 에그",
+    "포인트",
+    "확률",
+    "캐시",
+    "마일리지",
+    "행운 마일리지"
+  ],
+  "tags": [
+    "행운의 알"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Lucky Egg"
+    },
+    {
+      "text": "Lucky Egg Guide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Lucky Egg"
+    },
+    {
+      "type": "text",
+      "text": "Lucky Eggs are random-reward items that can give equipment, costumes, Shadow Gear, consumables and more."
+    },
+    {
+      "type": "heading",
+      "text": "Published Rates"
+    },
+    {
+      "type": "text",
+      "text": "The contents and rates of every Lucky Egg are published in the wiki."
+    },
+    {
+      "type": "list",
+      "items": [
+        "See the Lucky Eggs on sale now",
+        "See the Lucky Eggs no longer on sale",
+        "Every item and rate is published"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Lucky Mileage"
+    },
+    {
+      "type": "text",
+      "text": "Using Lucky Eggs earns Lucky Mileage for each egg used. Exchange your mileage for various rewards at the Lucky Mileage Shop."
+    },
+    {
+      "type": "list",
+      "items": [
+        "1 Lucky Mileage for each Lucky Egg used",
+        "Lucky Mileage cannot be traded, dropped, sold, mailed or moved to guild storage.",
+        "The Lucky Mileage Shop is an in-game NPC.",
+        "The Mileage Shop's items may change with the season and the server situation."
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "About the Mileage Shop",
+      "text": "Check the Mileage Shop's items and the amounts needed at the Exchange Machine in game."
+    },
+    {
+      "type": "heading",
+      "text": "Lucky Egg Contents"
+    },
+    {
+      "type": "text",
+      "text": "Lucky Egg contents change with the server stage and the roadmap."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Episode equipment",
+        "Shadow Gear",
+        "Consumables and materials"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Seasons"
+    },
+    {
+      "type": "text",
+      "text": "Lucky Eggs run in seasons, and a new season can add new contents."
+    },
+    {
+      "type": "notice",
+      "title": "Linked to the roadmap",
+      "text": "New equipment, Shadow Gear, costumes and Enchant Stones are added step by step as the server roadmap progresses."
+    },
+    {
+      "type": "notice",
+      "title": "Lucky Eggs no longer on sale",
+      "text": "Lucky Eggs whose sale has ended are merged into the [ITEM:12610|Mysterious Egg], which gives one random Lucky Egg from those sold in the past."
+    },
+    {
+      "type": "heading",
+      "text": "Location",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:lasagna,29,66,Exchange Machine]"
+    },
+    {
+      "type": "heading",
+      "text": "Related Pages"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Page",
+        "Description"
+      ],
+      "rows": [
+        [
+          "[LINK:egg_list|Lucky Egg List]",
+          "The full list of Lucky Eggs"
+        ],
+        [
+          "[LINK:roadmap_main|Server Roadmap]",
+          "Content planned for the future"
+        ]
+      ]
+    }
+  ]
+}

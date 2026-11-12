@@ -1,0 +1,189 @@
+{
+  "id": "egg_LUCKY_EGG_C9",
+  "title": "Fortune Egg IX",
+  "summary": "Contents and drop rates of the Fortune Egg IX",
+  "keywords": [
+    "행운의 알",
+    "캐시",
+    "확률",
+    "의상",
+    "인챈트 스톤"
+  ],
+  "tags": [
+    "행운의알",
+    "캐시",
+    "확률"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Lucky Egg"
+    },
+    {
+      "text": "Fortune Egg IX"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Fortune Egg IX"
+    },
+    {
+      "type": "text",
+      "text": "The contents and drop rates of the Fortune Egg IX."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Sale Information",
+      "target": "#info"
+    },
+    {
+      "type": "link",
+      "text": "Box Contents",
+      "target": "#items"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "heading",
+      "text": "Sale Information",
+      "anchor": "info"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Sales Period",
+          "2026-07-04 ~ 2026-07-18"
+        ],
+        [
+          "Price",
+          "1,000 Cash each"
+        ],
+        [
+          "Item Used",
+          "[ITEM:12654|Fortune Egg IX]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Box Contents",
+      "anchor": "items"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Item",
+        "Rate"
+      ],
+      "rows": [
+        [
+          "[BADGE:HOT][ITEM:6229|Safe to 8 Weapon Certificate]",
+          "0.15%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6233|Safe to 8 Armor Certificate]",
+          "0.15%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:12246|Mystical Card Album]",
+          "0.50%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6230|Safe to 7 Weapon Certificate]",
+          "0.90%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6234|Safe to 7 Armor Certificate]",
+          "0.90%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6396|Spiritual Auger]",
+          "2.50%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:5654|Red Marching Hat]",
+          "3.50%"
+        ],
+        [
+          "[ITEM:12103|Bloody Branch]",
+          "0.50%"
+        ],
+        [
+          "[ITEM:5074|Angel Wing Ears]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:2286|Elven Ears]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:399992|NEED Rebirth Ticket]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:616|Old Card Album]",
+          "4.00%"
+        ],
+        [
+          "[ITEM:604|Dead Branch]",
+          "5.00%"
+        ],
+        [
+          "[ITEM:12550|Poison Bottle Box]",
+          "9.80%"
+        ],
+        [
+          "[ITEM:12549|White Slim Potion Box(100)]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:12265|[NotForSale] Life Insurrance]",
+          "11.76%"
+        ],
+        [
+          "[ITEM:7444|Treasure Box]",
+          "14.84%"
+        ],
+        [
+          "[ITEM:12263|[NotForSale] Battle Manual]",
+          "15.00%"
+        ],
+        [
+          "[ITEM:12264|[NotForSale] Bubble Gum]",
+          "15.00%"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "About the Rates",
+      "text": "Rates are shown with decimals and may change with updates."
+    },
+    {
+      "type": "notice",
+      "title": "Badges",
+      "text": "[BADGE:NEW] marks a new item, [BADGE:HOT] a popular item and [BADGE:EVENT] an event-only reward."
+    }
+  ]
+}

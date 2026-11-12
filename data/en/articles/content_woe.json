@@ -1,0 +1,39 @@
+{
+  "id": "content_woe",
+  "title": "War of Emperium",
+  "summary": "War of Emperium content information.",
+  "keywords": [
+    "공성전",
+    "WoE",
+    "길드",
+    "점령전"
+  ],
+  "tags": [
+    "콘텐츠",
+    "공성전"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Content Guide",
+      "target": "content_main"
+    },
+    {
+      "text": "War of Emperium"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "War of Emperium"
+    },
+    {
+      "type": "notice",
+      "title": "Coming Soon",
+      "text": "The War of Emperium content guide will be added in a future update."
+    }
+  ]
+}

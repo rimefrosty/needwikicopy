@@ -1,0 +1,36 @@
+{
+  "id": "enchant_bio5",
+  "title": "🔒 Tomb of the Fallen",
+  "summary": "An enchant system planned for a future update.",
+  "keywords": [
+    "전사자의 무덤",
+    "인챈트"
+  ],
+  "tags": [
+    "planned",
+    "enchant"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant"
+    },
+    {
+      "text": "Tomb of the Fallen"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Tomb of the Fallen"
+    },
+    {
+      "type": "notice",
+      "title": "Planned Update",
+      "text": "It will be added with a future episode update."
+    }
+  ]
+}

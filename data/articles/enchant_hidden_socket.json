@@ -1,0 +1,141 @@
+{
+  "id": "enchant_hidden_socket",
+  "title": "히든 소켓",
+  "summary": "일부 갑옷에 카드 슬롯을 추가하고 추가 능력치를 부여할 수 있는 인챈트 시스템입니다.",
+  "keywords": [
+    "히든 소켓",
+    "소켓 갑옷",
+    "수습 세공사",
+    "갑옷 인챈트",
+    "카드 슬롯"
+  ],
+  "tags": [
+    "인챈트",
+    "갑옷",
+    "소켓"
+  ],
+  "breadcrumb": [
+    {
+      "text": "홈",
+      "target": "home"
+    },
+    {
+      "text": "인챈트 가이드"
+    },
+    {
+      "text": "히든 소켓"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "히든 소켓"
+    },
+    {
+      "type": "text",
+      "text": "일부 갑옷에 카드 슬롯을 추가하고 추가 능력치를 부여할 수 있는 인챈트 시스템입니다."
+    },
+  {
+      "type": "heading",
+      "text": "목차"
+    },
+    {
+      "type": "link",
+      "text": "콘텐츠 소개",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "필요 재료",
+      "target": "#material"
+    },
+    {
+      "type": "link",
+      "text": "효과",
+      "target": "#effect"
+    },
+    {
+      "type": "link",
+      "text": "대상 장비",
+      "target": "#target"
+    },
+    {
+      "type": "link",
+      "text": "이동",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "참고 자료",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "콘텐츠 소개",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "히든 소켓 인챈트는 특정 갑옷에 카드 슬롯을 추가할 수 있는 시스템입니다."
+    },
+    {
+      "type": "text",
+      "text": "프론테라에 위치한 수습 세공사를 통해 진행할 수 있습니다."
+    },
+    {
+      "type": "heading",
+      "text": "필요 재료",
+      "anchor": "material"
+    },
+    {
+      "type": "text",
+      "text": "인챈트를 진행할 갑옷 1개"
+    },
+    {
+      "type": "heading",
+      "text": "효과",
+      "anchor": "effect"
+    },
+    {
+      "type": "text",
+      "text": "무소켓 갑옷을 소켓 갑옷으로 변경합니다."
+    },
+    {
+      "type": "text",
+      "text": "추가로 STR, AGI, VIT, INT, DEX, LUK 중 1개의 능력치가 +1 ~ +3 랜덤으로 부여됩니다."
+    },
+    {
+      "type": "heading",
+      "text": "대상 장비, 400,000 Zeny",
+      "anchor": "target"
+    },
+    {
+      "type": "image",
+      "path": "enchant/hidden_socket_items.png",
+      "caption": "히든 소켓 인챈트 가능 장비 목록"
+    },
+    {
+      "type": "heading",
+      "text": "이동",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:lasa_in01,168,76,수습 세공사]"
+    },
+    {
+      "type": "heading",
+      "text": "참고 자료",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "iRO Wiki - Hidden Enchant",
+          "url": "https://irowiki.org/wiki/Hidden_Enchant"
+        }
+      ]
+    }
+  ]
+}

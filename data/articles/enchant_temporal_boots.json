@@ -1,0 +1,284 @@
+{
+  "id": "enchant_temporal_boots",
+  "title": "⚒ 시간의 부츠",
+  "summary": "99레벨 이후 대부분의 직업이 사용하는 대표적인 인챈트 장비로, 다양한 일반 인챈트와 히든 인챈트를 부여할 수 있습니다.",
+  "keywords": [
+    "시간의 부츠",
+    "시간의 결정",
+    "응고된 마력",
+    "오염된 마력",
+    "곰의 힘",
+    "매의 눈",
+    "폭주하는 마력",
+    "빛의 속도"
+  ],
+  "tags": [
+    "인챈트",
+    "시간의 부츠",
+    "글래스트 헤임"
+  ],
+  "breadcrumb": [
+    {
+      "text": "홈",
+      "target": "home"
+    },
+    {
+      "text": "인챈트"
+    },
+    {
+      "text": "시간의 부츠"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "시간의 부츠"
+    },
+    {
+      "type": "text",
+      "text": "99레벨 이후 대부분의 직업이 사용하는 대표적인 인챈트 장비입니다."
+    },
+    {
+      "type": "heading",
+      "text": "목차"
+    },
+    {
+      "type": "link",
+      "text": "콘텐츠 소개",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "시간의 부츠 종류",
+      "target": "#boots"
+    },
+    {
+      "type": "link",
+      "text": "제작 방법",
+      "target": "#craft"
+    },
+    {
+      "type": "link",
+      "text": "일반 인챈트",
+      "target": "#normal"
+    },
+    {
+      "type": "link",
+      "text": "히든 인챈트",
+      "target": "#hidden"
+    },
+    {
+      "type": "link",
+      "text": "소켓 부츠",
+      "target": "#slot"
+    },
+    {
+      "type": "link",
+      "text": "인챈트 재료",
+      "target": "#material"
+    },
+    {
+      "type": "link",
+      "text": "이동",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "참고 자료",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "콘텐츠 소개",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "시간의 부츠는 글래스트 헤임 메모리얼 던전에서 획득 가능한 대표적인 인챈트 장비입니다."
+    },
+    {
+      "type": "text",
+      "text": "130레벨 및 160레벨 글래스트 헤임 인던에서 시간의 부츠 제작 재료와 인챈트 재료를 획득할 수 있습니다."
+    },
+    {
+      "type": "heading",
+      "text": "시간의 부츠 종류",
+      "anchor": "boots"
+    },
+    {
+      "type": "image",
+      "path": "enchant/temporal_boots_types.png",
+      "caption": "시간의 힘·지력·민첩·체력·손재주·행운 부츠"
+    },
+    {
+      "type": "text",
+      "text": "시간의 부츠는 스탯에 따라 6종류가 존재하며 각 직업의 특성에 맞춰 선택할 수 있습니다."
+    },
+    {
+      "type": "heading",
+      "text": "제작 방법",
+      "anchor": "craft"
+    },
+    {
+      "type": "text",
+      "text": "[ITEM:6607|시간의 결정] 1개로 기본 시간의 부츠를 제작할 수 있습니다."
+    },
+    {
+      "type": "text",
+      "text": "제작된 시간의 부츠와 [ITEM:6607|시간의 결정] 5개를 사용하여 원하는 종류의 시간의 부츠를 선택 제작할 수 있습니다."
+    },
+    {
+      "type": "heading",
+      "text": "일반 인챈트",
+      "anchor": "normal"
+    },
+    {
+      "type": "text",
+      "text": "노소켓 시간의 부츠는 총 4회의 일반 인챈트가 가능합니다."
+    },
+    {
+      "type": "text",
+      "text": "일반 인챈트는 원하는 옵션 계열을 직접 선택할 수 있으며 성공 확률은 100%입니다."
+    },
+    {
+      "type": "image",
+      "path": "enchant/temporal_boots_normal_enchant.png",
+      "caption": "시간의 부츠 일반 인챈트 옵션"
+    },
+    {
+      "type": "heading",
+      "text": "히든 인챈트",
+      "anchor": "hidden"
+    },
+    {
+      "type": "text",
+      "text": "4회 인챈트가 완료된 시간의 부츠는 마지막 히든 인챈트를 진행할 수 있습니다."
+    },
+    {
+      "type": "text",
+      "text": "노소켓 시간의 부츠의 히든 인챈트 성공 확률은 100%입니다."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "히든 인챈트"
+      ],
+      "rows": [
+        [
+          "곰의 힘"
+        ],
+        [
+          "근육바보"
+        ],
+        [
+          "매의 눈"
+        ],
+        [
+          "빛의 속도"
+        ],
+        [
+          "폭주하는 마법"
+        ],
+        [
+          "운수 좋은 날"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "옵션 확인",
+      "text": "히든 인챈트의 상세 효과는 게임 내 아이템 정보 또는 서버 데이터베이스를 참고해주세요."
+    },
+    {
+      "type": "heading",
+      "text": "소켓 부츠",
+      "anchor": "slot"
+    },
+    {
+      "type": "text",
+      "text": "노소켓 시간의 부츠와 시간의 결정 5개를 사용하여 소켓 시간의 부츠를 제작할 수 있습니다."
+    },
+    {
+      "type": "notice",
+      "title": "소켓 생성",
+      "text": "노소켓 → 소켓 변환 성공 확률은 50%이며 실패 시 장비가 파괴됩니다."
+    },
+    {
+      "type": "text",
+      "text": "소켓 시간의 부츠도 동일하게 4회의 일반 인챈트와 1회의 히든 인챈트가 가능합니다."
+    },
+    {
+      "type": "text",
+      "text": "소켓 시간의 부츠는 인챈트 실패 시 장비가 파괴되며 인챈트 초기화가 불가능합니다."
+    },
+    {
+      "type": "heading",
+      "text": "인챈트 재료",
+      "anchor": "material"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "단계",
+        "오염된 마력",
+        "응고된 마력",
+        "제니"
+      ],
+      "rows": [
+        [
+          "1차",
+          "1",
+          "3",
+          "100,000"
+        ],
+        [
+          "2차",
+          "2",
+          "10",
+          "100,000"
+        ],
+        [
+          "3차",
+          "4",
+          "20",
+          "100,000"
+        ],
+        [
+          "4차",
+          "7",
+          "40",
+          "100,000"
+        ],
+        [
+          "히든",
+          "10",
+          "50",
+          "100,000"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "이동",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:lasa_in01,181,45,시간의 부츠 인챈트 NPC]"
+    },
+        {
+      "type": "heading",
+      "text": "참고 자료",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "라그나로크 공식 홈페이지 - 시간의 부츠",
+          "url": "https://ro.gnjoy.com/news/update/View.asp?seq=122&curpage=9"
+        }
+      ]
+    }
+  ]
+}

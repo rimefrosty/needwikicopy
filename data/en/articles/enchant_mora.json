@@ -1,0 +1,146 @@
+{
+  "id": "enchant_mora",
+  "title": "⚒ Mora Village",
+  "summary": "A system that enchants various equipment with Mora Coins.",
+  "keywords": [
+    "모라",
+    "모라 마을",
+    "모라 주화",
+    "모라 인챈트",
+    "우르의 인장",
+    "흰날개의 브로치"
+  ],
+  "tags": [
+    "인챈트",
+    "모라",
+    "모라주화"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant Guide"
+    },
+    {
+      "text": "Mora Village"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Mora Village"
+    },
+    {
+      "type": "text",
+      "text": "A system that enchants various equipment with Mora Coins."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Overview",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "Required Materials",
+      "target": "#need"
+    },
+    {
+      "type": "link",
+      "text": "Eligible Equipment",
+      "target": "#equipment"
+    },
+    {
+      "type": "link",
+      "text": "Location",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "References",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "Overview",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "In Mora Village you can buy equipment with Mora Coins and enchant it in many ways."
+    },
+    {
+      "type": "text",
+      "text": "The core enchant content for job equipment, Ur equipment, White Wing equipment and more."
+    },
+    {
+      "type": "heading",
+      "text": "Required Materials",
+      "anchor": "need"
+    },
+    {
+      "type": "notice",
+      "title": "Buying Mora Equipment",
+      "text": "The enchantable Mora Village equipment can be exchanged for 10 Mora Coins."
+    },
+    {
+      "type": "text",
+      "text": "Equipment that used to be random, such as the Bishop's Light of Cure set, can now be chosen and bought directly."
+    },
+    {
+      "type": "notice",
+      "title": "No More Failure Penalty",
+      "text": "The equipment destruction and enchant reset penalties of the 2nd~4th slot enchants have been removed."
+    },
+    {
+      "type": "notice",
+      "title": "Same Enchant Cap for Every Slot",
+      "text": "Every slot now has the same maximum enchant value."
+    },
+    {
+      "type": "text",
+      "text": "The maximum enchant value used to depend on the slot; now the highest enchant can be obtained in every slot."
+    },
+    {
+      "type": "text",
+      "text": "For example, [ITEM:2883|Ur Seal], [ITEM:2890|White Wing Brooch] and others can get the SP 150 option in several slots."
+    },
+    {
+      "type": "heading",
+      "text": "Eligible Equipment",
+      "anchor": "equipment"
+    },
+    {
+      "type": "text",
+      "text": "The enchantable Mora Village equipment can be exchanged for 10 Mora Coins."
+    },
+    {
+      "type": "heading",
+      "text": "Location",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:lasa_in01,167,48,Mora Enchant NPC]"
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "iRO Wiki - Mora Enchants",
+          "url": "https://irowiki.org/wiki/Mora_Enchants"
+        }
+      ]
+    }
+  ]
+}

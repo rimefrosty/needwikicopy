@@ -1,0 +1,250 @@
+{
+  "id": "content_battleground",
+  "title": "Battlegrounds",
+  "summary": "The NEED server's Battlegrounds system and rewards.",
+  "keywords": [
+    "전장",
+    "티에라",
+    "플라비우스",
+    "KVM",
+    "휘장",
+    "전장 포인트"
+  ],
+  "tags": [
+    "콘텐츠",
+    "전장"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Content Guide",
+      "target": "content_main"
+    },
+    {
+      "text": "Battlegrounds"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Overview",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "How It Works",
+      "target": "#cycle"
+    },
+    {
+      "type": "link",
+      "text": "Rewards",
+      "target": "#reward"
+    },
+    {
+      "type": "link",
+      "text": "Battleground Points",
+      "target": "#point"
+    },
+    {
+      "type": "link",
+      "text": "Short-Handed Match System",
+      "target": "#relax"
+    },
+    {
+      "type": "link",
+      "text": "Getting There",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "References",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "Overview",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "Battlegrounds are team-based PvP content. Tierra Gorge, Flavius and KVM run in turn, and you can earn various badges and Battleground Points."
+    },
+    {
+      "type": "image",
+      "path": "battleground.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "How It Works",
+      "anchor": "cycle"
+    },
+    {
+      "type": "text",
+      "text": "The Battlegrounds repeat in the cycle below."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Order",
+        "Battleground"
+      ],
+      "rows": [
+        [
+          "1",
+          "Tierra Gorge"
+        ],
+        [
+          "2",
+          "Flavius"
+        ],
+        [
+          "3",
+          "KVM"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Rewards",
+      "anchor": "reward"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Battleground",
+        "Win",
+        "Loss"
+      ],
+      "rows": [
+        [
+          "Tierra Gorge",
+          "Bravery Badge ×2",
+          "Bravery Badge ×1"
+        ],
+        [
+          "Flavius",
+          "Valor Badge ×3",
+          "Valor Badge ×1"
+        ],
+        [
+          "KVM",
+          "War Badge ×3",
+          "War Badge ×1"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Badge Exchange Items"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "Bravery Badge exchange items",
+          "url": "https://ro.inven.co.kr/dataninfo/item/list.php?datagroup=misc&sname=%EC%9A%A9%EB%A7%B9"
+        },
+        {
+          "text": "Valor Badge exchange items",
+          "url": "https://ro.inven.co.kr/dataninfo/item/list.php?datagroup=misc&sname=%ED%8A%B9%EA%B3%B5"
+        },
+        {
+          "text": "War Badge exchange items",
+          "url": "https://ro.inven.co.kr/dataninfo/item/list.php?datagroup=misc&sname=%EA%B8%80%EB%A1%9C%EB%A6%AC%EC%96%B4%EC%8A%A4"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Battleground Points",
+      "anchor": "point"
+    },
+    {
+      "type": "text",
+      "text": "You earn Battleground Points every time you take part in a Battleground."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Condition",
+        "Reward"
+      ],
+      "rows": [
+        [
+          "Play one Battleground",
+          "Battleground Points"
+        ],
+        [
+          "Join as the party leader",
+          "+5 extra Battleground Points"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Using Battleground Points",
+      "text": "Exchange Battleground Points for various costume items with the exchange helper NPC in the middle of the Battleground zone. More items will be added over time."
+    },
+    {
+      "type": "heading",
+      "text": "Short-Handed Match System",
+      "anchor": "relax"
+    },
+    {
+      "type": "text",
+      "text": "To reduce Battlegrounds that cannot start because of too few players, the NEED server has its own Short-Handed Match System."
+    },
+    {
+      "type": "list",
+      "items": [
+        "The party leader applies for the Battleground.",
+        "You can apply even when you are one player short of the minimum.",
+        "The Battleground starts when the other team's party leader accepts.",
+        "Example: 10 vs 9"
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "NEED-Only System",
+      "text": "The Short-Handed Match System is a NEED server feature that keeps Battlegrounds running smoothly."
+    },
+    {
+      "type": "heading",
+      "text": "Getting There",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:bat_room,154,149,Battlegrounds Waiting Room]"
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "Bravery Badge exchange items",
+          "url": "https://ro.inven.co.kr/dataninfo/item/list.php?datagroup=misc&sname=%EC%9A%A9%EB%A7%B9"
+        },
+        {
+          "text": "Valor Badge exchange items",
+          "url": "https://ro.inven.co.kr/dataninfo/item/list.php?datagroup=misc&sname=%ED%8A%B9%EA%B3%B5"
+        },
+        {
+          "text": "War Badge exchange items",
+          "url": "https://ro.inven.co.kr/dataninfo/item/list.php?datagroup=misc&sname=%EA%B8%80%EB%A1%9C%EB%A6%AC%EC%96%B4%EC%8A%A4"
+        }
+      ]
+    }
+  ]
+}

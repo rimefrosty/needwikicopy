@@ -1,0 +1,201 @@
+{
+  "id": "egg_LUCKY_EGG_C10",
+  "title": "Safe to 7 Chance Box",
+  "summary": "Contents and drop rates of the Safe to 7 Chance Box",
+  "keywords": [
+    "행운의 알",
+    "캐시",
+    "확률",
+    "의상",
+    "인챈트 스톤"
+  ],
+  "tags": [
+    "행운의알",
+    "캐시",
+    "확률"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Lucky Egg"
+    },
+    {
+      "text": "Safe to 7 Chance Box"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Safe to 7 Chance Box"
+    },
+    {
+      "type": "text",
+      "text": "The contents and drop rates of the Safe to 7 Chance Box."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Sale Information",
+      "target": "#info"
+    },
+    {
+      "type": "link",
+      "text": "Box Contents",
+      "target": "#items"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "heading",
+      "text": "Sale Information",
+      "anchor": "info"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Sales Period",
+          "2026-07-04 ~ 2026-07-18"
+        ],
+        [
+          "Price",
+          "1,000 Cash each"
+        ],
+        [
+          "Item Used",
+          "[ITEM:12673|Safe to 7 Chance Box]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Box Contents",
+      "anchor": "items"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Item",
+        "Rate"
+      ],
+      "rows": [
+        [
+          "[BADGE:HOT][ITEM:12246|Mystical Card Album]",
+          "0.05%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6229|Safe to 8 Weapon Certificate]",
+          "0.10%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6233|Safe to 8 Armor Certificate]",
+          "0.10%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:18522|Evil Marching Hat]",
+          "1.84%"
+        ],
+        [
+          "[ITEM:12103|Bloody Branch]",
+          "0.51%"
+        ],
+        [
+          "[ITEM:12550|Poison Bottle Box]",
+          "1.01%"
+        ],
+        [
+          "[ITEM:6456|Safe to 5 Weapon Certificate]",
+          "1.01%"
+        ],
+        [
+          "[ITEM:6457|Safe to 5 Armor Certificate]",
+          "1.01%"
+        ],
+        [
+          "[ITEM:399992|NEED Rebirth Ticket]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:12374|Ice Fireworks]",
+          "2.02%"
+        ],
+        [
+          "[ITEM:12373|Boy's Pure Heart]",
+          "2.02%"
+        ],
+        [
+          "[ITEM:12395|Tantan Noodle]",
+          "2.02%"
+        ],
+        [
+          "[ITEM:12265|[NotForSale] Life Insurrance]",
+          "3.03%"
+        ],
+        [
+          "[ITEM:19511|Costume Heart Blue Eyebandge]",
+          "4.00%"
+        ],
+        [
+          "[ITEM:19512|Costume Heart Pink Eyebandge]",
+          "4.01%"
+        ],
+        [
+          "[ITEM:12263|[NotForSale] Battle Manual]",
+          "5.05%"
+        ],
+        [
+          "[ITEM:12264|[NotForSale] Bubble Gum]",
+          "5.05%"
+        ],
+        [
+          "[ITEM:616|Old Card Album]",
+          "5.05%"
+        ],
+        [
+          "[ITEM:617|Old Purple Box]",
+          "9.80%"
+        ],
+        [
+          "[ITEM:7444|Treasure Box]",
+          "11.92%"
+        ],
+        [
+          "[ITEM:12549|White Slim Potion Box(100)]",
+          "16.16%"
+        ],
+        [
+          "[ITEM:6484|Heroic Desocketing Book]",
+          "22.24%"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "About the Rates",
+      "text": "Rates are shown with decimals and may change with updates."
+    },
+    {
+      "type": "notice",
+      "title": "Badges",
+      "text": "[BADGE:NEW] marks a new item, [BADGE:HOT] a popular item and [BADGE:EVENT] an event-only reward."
+    }
+  ]
+}

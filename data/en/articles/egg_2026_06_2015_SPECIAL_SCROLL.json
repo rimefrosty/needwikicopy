@@ -1,0 +1,221 @@
+{
+  "id": "egg_2026_06_2015_SPECIAL_SCROLL",
+  "title": "2015 Special Scroll",
+  "summary": "Contents and drop rates of the 2015 Special Scroll",
+  "keywords": [
+    "행운의 알",
+    "캐시",
+    "확률",
+    "의상",
+    "인챈트 스톤"
+  ],
+  "tags": [
+    "행운의알",
+    "캐시",
+    "확률"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Lucky Egg"
+    },
+    {
+      "text": "2015 Special Scroll"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "2015 Special Scroll"
+    },
+    {
+      "type": "text",
+      "text": "The contents and drop rates of the 2015 Special Scroll."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Sale Information",
+      "target": "#info"
+    },
+    {
+      "type": "link",
+      "text": "Box Contents",
+      "target": "#items"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "heading",
+      "text": "Sale Information",
+      "anchor": "info"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Sales Period",
+          "2026-10-03 ~ 2026-10-17"
+        ],
+        [
+          "Price",
+          "1,000 Cash each"
+        ],
+        [
+          "Item Used",
+          "[ITEM:23069|2015 Special Scroll]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Box Contents",
+      "anchor": "items"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Item",
+        "Rate"
+      ],
+      "rows": [
+        [
+          "[BADGE:HOT][ITEM:22915|Safe to 11 Weapon Certificate]",
+          "0.01%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:22930|Safe to 11 Armor Certificate]",
+          "0.01%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:22913|Safe to 9 Weapon Certificate]",
+          "0.05%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:22928|Safe to 9 Armor Certificate]",
+          "0.05%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:23070|2015 Special Box]",
+          "4.00%"
+        ],
+        [
+          "[ITEM:22911|Safe to 7 Weapon Certificate]",
+          "0.15%"
+        ],
+        [
+          "[ITEM:22926|Safe to 7 Armor Certificate]",
+          "0.15%"
+        ],
+        [
+          "[ITEM:24269|Knight Shadow Armor]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24281|Dancer Shadow Armor]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24276|Rogue Shadow Armor]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24274|Monk Shadow Armor]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24280|Bard Shadow Armor]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24271|Blacksmith Shadow Armor]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24278|Sage Shadow Armor]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24272|Alchemist Shadow Armor]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24275|Assassin Shadow Armor]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24277|Wizard Shadow Armor]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24270|Crusader Shadow Armor]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24273|Priest Shadow Armor]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24279|Hunter Shadow Armor]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:399992|NEED Rebirth Ticket]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:17474|Infinite Giant Fly Wing Box V]",
+          "5.00%"
+        ],
+        [
+          "[ITEM:22979|[NotForSale] Battle Manual & Bubble Gum]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:17608|Infinite Giant Fly Wing Box 1Day]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:12550|Poison Bottle Box]",
+          "14.50%"
+        ],
+        [
+          "[ITEM:7444|Treasure Box]",
+          "15.64%"
+        ],
+        [
+          "[ITEM:12831|Potion Box]",
+          "18.94%"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "About the Rates",
+      "text": "Rates are shown with decimals and may change with updates."
+    },
+    {
+      "type": "notice",
+      "title": "Badges",
+      "text": "[BADGE:NEW] marks a new item, [BADGE:HOT] a popular item and [BADGE:EVENT] an event-only reward."
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "id": "enchant_boost_weapon",
+  "title": "강화 무기 인챈트",
+  "summary": "강화 무기 시리즈에 부여할 수 있는 랜덤 인챈트 시스템입니다.",
+  "keywords": [
+    "강화 무기",
+    "무기 인챈트",
+    "투지",
+    "첨예",
+    "명궁",
+    "마력"
+  ],
+  "tags": [
+    "인챈트",
+    "무기"
+  ],
+  "breadcrumb": [
+    {
+      "text": "홈",
+      "target": "home"
+    },
+    {
+      "text": "인챈트 가이드"
+    },
+    {
+      "text": "강화 무기 인챈트"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "목차"
+    },
+    {
+      "type": "link",
+      "text": "콘텐츠 소개",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "필요 재료",
+      "target": "#materials"
+    },
+    {
+      "type": "link",
+      "text": "효과",
+      "target": "#effect"
+    },
+    {
+      "type": "link",
+      "text": "대상 장비",
+      "target": "#target"
+    },
+    {
+      "type": "link",
+      "text": "이동",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "참고 자료",
+      "target": "#reference"
+    },
+{
+      "type": "heading",
+      "anchor": "overview",
+      "text": "콘텐츠 소개"
+    },
+    {
+      "type": "text",
+      "text": "강화 무기 시리즈는 전용 인챈트를 통해 추가 옵션을 부여할 수 있습니다. 인챈트는 무작위로 부여되며 원하는 옵션을 획득할 때까지 반복하여 진행할 수 있습니다."
+    },
+    {
+      "type": "heading",
+      "anchor": "materials",
+      "text": "필요 재료"
+    },
+    {
+      "type": "text",
+      "text": "인챈트 재료 : [ITEM:6484|인챈트 소개장]"
+    },
+    {
+      "type": "text",
+      "text": "인챈트 초기화 비용 : 100,000 제니"
+    },
+    {
+      "type": "heading",
+      "anchor": "effect",
+      "text": "효과"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "옵션",
+        "범위"
+      ],
+      "rows": [
+        [
+          "STR",
+          "1 ~ 10"
+        ],
+        [
+          "AGI",
+          "1 ~ 10"
+        ],
+        [
+          "VIT",
+          "1 ~ 10"
+        ],
+        [
+          "INT",
+          "1 ~ 10"
+        ],
+        [
+          "DEX",
+          "1 ~ 10"
+        ],
+        [
+          "LUK",
+          "1 ~ 10"
+        ],
+        [
+          "투지",
+          "Lv.1 ~ Lv.4"
+        ],
+        [
+          "첨예",
+          "Lv.1 ~ Lv.5"
+        ],
+        [
+          "명궁",
+          "Lv.1 ~ Lv.4"
+        ],
+        [
+          "마력",
+          "Lv.1 ~ Lv.4"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "anchor": "target",
+      "text": "대상 장비"
+    },
+    {
+      "type": "list",
+      "items": [
+        "강화 대거 [1]",
+        "강화 투핸드 소드 [1]",
+        "강화 랜스 [1]",
+        "강화 투핸드 액스 [1]",
+        "강화 스태프 [1]",
+        "강화 북 [1]",
+        "강화 메이스 [1]",
+        "강화 보우 [1]",
+        "강화 카타르 [1]",
+        "강화 리볼버 [1]",
+        "강화 풍마수리검 [1]"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "이동",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:itemmall,29,71,강화 무기 인챈트 NPC]"
+    },
+    {
+      "type": "heading",
+      "text": "참고 자료",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "인벤 강화 무기 인챈트 정보",
+          "url": "https://www.inven.co.kr/board/ro/5124/2886"
+        }
+      ]
+    }
+  ]
+}

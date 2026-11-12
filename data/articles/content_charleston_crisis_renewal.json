@@ -1,0 +1,76 @@
+{
+    "id": "content_charleston_crisis_renewal",
+    "title": "메모리얼 던전 - 위기의 찰스턴 리뉴얼",
+    "summary": "위기의 찰스턴 리뉴얼 메모리얼 던전 공략 및 보상 정보를 확인할 수 있습니다.",
+    "keywords": [
+        "위기의 찰스턴",
+        "찰스턴",
+        "찰스턴 리뉴얼",
+        "메모리얼 던전",
+        "공략"
+    ],
+    "tags": [
+        "콘텐츠",
+        "메모리얼 던전",
+        "공략"
+    ],
+    "breadcrumb": [
+        {
+            "text": "홈",
+            "target": "home"
+        },
+        {
+            "text": "콘텐츠 가이드",
+            "target": "content_main"
+        },
+        {
+            "text": "위기의 찰스턴 리뉴얼"
+        }
+    ],
+    "blocks": [
+        {
+            "type": "heading",
+            "text": "위기의 찰스턴 리뉴얼"
+        },
+        {
+            "type": "image",
+            "path": "content/charleston_crisis_renewal1.jpg",
+            "compact": true
+        },
+        {
+            "type": "image",
+            "path": "content/charleston_crisis_renewal2.jpg",
+            "compact": true
+        },
+        {
+            "type": "image",
+            "path": "content/charleston_crisis_renewal3.jpg",
+            "compact": true
+        },
+        {
+            "type": "image",
+            "path": "content/charleston_crisis_renewal4.jpg",
+            "compact": true
+        },
+        {
+            "type": "image",
+            "path": "content/charleston_crisis_renewal5.jpg",
+            "compact": true
+        },
+        {
+            "type": "image",
+            "path": "content/charleston_crisis_renewal6.jpg",
+            "compact": true
+        },
+        {
+            "type": "image",
+            "path": "content/charleston_crisis_renewal7.jpg",
+            "compact": true
+        },
+        {
+            "type": "image",
+            "path": "content/charleston_crisis_renewal8.jpg",
+            "compact": true
+        }
+    ]
+}

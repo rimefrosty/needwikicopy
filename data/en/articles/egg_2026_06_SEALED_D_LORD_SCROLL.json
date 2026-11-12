@@ -1,0 +1,201 @@
+{
+  "id": "egg_2026_06_SEALED_D_LORD_SCROLL",
+  "title": "Sealed Dark Lord Scroll",
+  "summary": "Contents and drop rates of the Sealed Dark Lord Scroll",
+  "keywords": [
+    "행운의 알",
+    "캐시",
+    "확률",
+    "의상",
+    "인챈트 스톤"
+  ],
+  "tags": [
+    "행운의알",
+    "캐시",
+    "확률"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Lucky Egg"
+    },
+    {
+      "text": "Sealed Dark Lord Scroll"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Sealed Dark Lord Scroll"
+    },
+    {
+      "type": "text",
+      "text": "The contents and drop rates of the Sealed Dark Lord Scroll."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Sale Information",
+      "target": "#info"
+    },
+    {
+      "type": "link",
+      "text": "Box Contents",
+      "target": "#items"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "heading",
+      "text": "Sale Information",
+      "anchor": "info"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Sales Period",
+          "2026-08-01 ~ 2026-08-15"
+        ],
+        [
+          "Price",
+          "1,000 Cash each"
+        ],
+        [
+          "Item Used",
+          "[ITEM:14663|Sealed Dark Lord Scroll]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Box Contents",
+      "anchor": "items"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Item",
+        "Rate"
+      ],
+      "rows": [
+        [
+          "[BADGE:NEW][ITEM:4488|Sealed Dark Lord Card]",
+          "0.01%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6228|Safe to 9 Weapon Certificate]",
+          "0.05%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6232|Safe to 9 Armor Certificate]",
+          "0.05%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6230|Safe to 7 Weapon Certificate]",
+          "0.90%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6234|Safe to 7 Armor Certificate]",
+          "0.90%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:24027|Immune Shadow Armor]",
+          "1.50%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:24032|Critical Hit Shadow Weapon]",
+          "3.00%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:24031|Kingbird Shadow Weapon]",
+          "3.00%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:24033|Healing Shadow Weapon]",
+          "3.00%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:24029|Ancient Shadow Armor]",
+          "3.50%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:24030|Critical Shadow Armor]",
+          "3.50%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:24028|Hard Shadow Armor]",
+          "3.50%"
+        ],
+        [
+          "[ITEM:4169|Dark Illusion Card]",
+          "0.04%"
+        ],
+        [
+          "[ITEM:19739|Costume Sleeping Cat Hat]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:399992|NEED Rebirth Ticket]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:12265|[NotForSale] Life Insurrance]",
+          "5.00%"
+        ],
+        [
+          "[ITEM:12550|Poison Bottle Box]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:7444|Treasure Box]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:6697|Costume Exchange Coupon]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:14629|Costume Enchant Stone Box]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:12263|[NotForSale] Battle Manual]",
+          "13.94%"
+        ],
+        [
+          "[ITEM:12264|[NotForSale] Bubble Gum]",
+          "14.61%"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "About the Rates",
+      "text": "Rates are shown with decimals and may change with updates."
+    },
+    {
+      "type": "notice",
+      "title": "Badges",
+      "text": "[BADGE:NEW] marks a new item, [BADGE:HOT] a popular item and [BADGE:EVENT] an event-only reward."
+    }
+  ]
+}

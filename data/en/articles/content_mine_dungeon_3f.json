@@ -1,0 +1,96 @@
+{
+  "id": "content_mine_dungeon_3f",
+  "title": "Dungeon - Einbech Mine F3",
+  "summary": "Einbech Mine F3, its new equipment and the Modification Permits.",
+  "keywords": [
+    "아인베흐 광산던전 3층",
+    "광산 던전",
+    "신규 무기",
+    "신규 악세서리",
+    "개조 허가증"
+  ],
+  "tags": [
+    "콘텐츠",
+    "던전",
+    "아인베흐"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Content Guide",
+      "target": "content_main"
+    },
+    {
+      "text": "Einbech Mine F3"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Einbech Mine F3"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "title": "Einbech Mine F3",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/mine_dungeon_3f1.cee512d3bf93.jpg",
+              "compact": true
+            }
+          ]
+        },
+        {
+          "title": "New Weapons / New Accessories / New Cards",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/mine_dungeon_3f2.079a34e9c241.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/mine_dungeon_3f3.089e0f3af062.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/mine_dungeon_3f4.8f9ba140139b.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/mine_dungeon_3f5.8ab735181748.jpg",
+              "compact": true
+            }
+          ]
+        },
+        {
+          "title": "Modification Permit",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/mine_dungeon_3f6.5e0238b475f2.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/mine_dungeon_3f7.11ec4ff80fe3.png",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/mine_dungeon_3f8.59891d46d7bd.png",
+              "compact": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "enchant_soul_reaper",
+  "title": "🔒 Soul Plunger",
+  "summary": "An enchant system planned for a future update.",
+  "keywords": [
+    "영혼의 뚫어뻥",
+    "인챈트"
+  ],
+  "tags": [
+    "planned",
+    "enchant"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant"
+    },
+    {
+      "text": "Soul Plunger"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Soul Plunger"
+    },
+    {
+      "type": "notice",
+      "title": "Planned Update",
+      "text": "It will be added with a future episode update."
+    }
+  ]
+}

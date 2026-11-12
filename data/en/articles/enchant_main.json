@@ -1,0 +1,157 @@
+{
+  "id": "enchant_main",
+  "title": "Enchant Guide",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant Guide"
+    }
+  ],
+  "report_enabled": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Enchant Guide"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Type",
+        "Description"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "[LINK:enchant_hidden_socket|⚒ Hidden Socket]",
+          "An enchant system that adds a card slot and extra stats to some armors."
+        ],
+        [
+          "[LINK:enchant_mora|⚒ Mora Village]",
+          "A system that enchants various equipment with Mora Coins."
+        ],
+        [
+          "[LINK:enchant_malangdo|⚒ Malangdo Equipment]",
+          "An enchant system that uses Seagod's Anger to add extra stats to some high-end weapons."
+        ],
+        [
+          "[LINK:enchant_biolab|⚒ Bio Lab]",
+          "A system that adds special enchants to Bio Lab equipment."
+        ],
+        [
+          "[LINK:enchant_temporal_boots|⚒ Temporal Boots]",
+          "The standard enchantable gear most jobs wear after level 99, with a wide range of normal and hidden enchants."
+        ],
+        [
+          "[LINK:enchant_boost_weapon|⚒ Enhanced Weapons]",
+          "A random enchant system for the Enhanced Weapon series."
+        ],
+        [
+          "[LINK:enchant_fallen_angel_wing|⚒ Fallen Angel Wings]",
+          "An enchant system that adds various stats to Fallen Angel Wings."
+        ],
+        [
+          "[LINK:enchant_gigantic_snake_skin|⚒ Gigant Snake Skin]",
+          "The main mid-to-late game gear enchant system, obtained as a Memorial Dungeon time attack reward."
+        ],
+        [
+          "[LINK:enchant_rwc|⚒ RWC Accessories]",
+          "A high-end accessory enchant system that adds special enchants to the RWC Memorial Ring and the RWC Memorial Pendant."
+        ],
+        [
+          "[LINK:enchant_horror_toy_factory|⚒ Horror Toy Factory]",
+          "An equipment enchant system that uses Bloody Coins to add special enchants to Horror Toy Factory equipment."
+        ],
+        [
+          "[LINK:enchant_basic_stone|⚒ Costume Enchant Stone]",
+          "Enchant Stones for costume equipment and the drop rates of the Enchant Stone boxes."
+        ],
+        [
+          "[LINK:enchant_hero_ring|⚒ Heroic Ring]",
+          "An accessory enchant system that adds four slot enchants to the Heroic Ring, one after another."
+        ],
+        [
+          "[LINK:enchant_charleston_crisis|⚒ Charleston in Distress]",
+          "An equipment enchant system that uses Charleston Components and Zeny to add special enchants to Charleston equipment."
+        ],
+        [
+          "[LINK:enchant_sarah_earring|⚒ Sarah's Earring]",
+          "An accessory enchant system that uses Fragments of Gigantes to add special enchants to Sarah's Left Earring and Sarah's Right Earring."
+        ],
+        [
+          "[LINK:enchant_verus|⚒ Excellion Suit / Wing]",
+          "An equipment enchant system that uses Enchant Blueprints to give the Excellion Suit and the Excellion Wing the design option you choose."
+        ],
+        [
+          "[LINK:enchant_endless_space|⚒ Infinite Space]",
+          "An equipment enchant system that uses Shattered Magic Stones to enchant the Infinity and Rift equipment from Infinite Space."
+        ],
+        [
+          "[LINK:enchant_prison|⚒ Abusive / Flattery]",
+          "A robe enchant system that uses Tokens of Honor to add Neev enchants to the Abusive Robe and the Flattery Robe."
+        ],
+        [
+          "[LINK:enchant_bio5|🔒 Tomb of the Fallen]",
+          "An enchant system coming in a future update."
+        ],
+        [
+          "[LINK:enchant_soul_reaper|🔒 Soul Plunger]",
+          "An enchant system coming in a future update."
+        ],
+        [
+          "[LINK:enchant_friday_dungeon|🔒 Guardian Ring of King]",
+          "An enchant system coming in a future update."
+        ],
+        [
+          "[LINK:enchant_rockridge|🔒 Rock Ridge]",
+          "An enchant system coming in a future update."
+        ],
+        [
+          "[LINK:enchant_illusion|🔒 Illusion Dungeon Enchants]",
+          "An enchant system coming in a future update."
+        ],
+        [
+          "[LINK:racing_cap|🔒 Racing Cap]",
+          "Features of the Racing Cap and where to get it."
+        ],
+        [
+          "[LINK:content_charleston_crisis_renewal|🔒 Charleston in Distress (Renewal)]",
+          "Walkthrough and rewards of the renewed Charleston in Distress Memorial Dungeon."
+        ],
+        [
+          "[LINK:content_os_cor_memorial|🔒 Illusion Equipment]",
+          "2nd OS Search, Cor Memorial and the new equipment."
+        ],
+        [
+          "[LINK:content_edda_gh|🔒 EDDA: Fall of Glast Heim]",
+          "Walkthrough images of the EDDA: Fall of Glast Heim Memorial Dungeon."
+        ],
+        [
+          "[LINK:content_edda_biolab|🔒 EDDA Biolab]",
+          "EDDA Biolab walkthrough and the new enchants."
+        ],
+        [
+          "[LINK:content_old_gh_challenge|🔒 Old Glast Heim (Challenge Mode)]",
+          "Old Glast Heim (Challenge Mode) walkthrough, new equipment and enchants."
+        ],
+        [
+          "[LINK:content_mine_dungeon_3f|🔒 Einbech Mine F3]",
+          "Einbech Mine F3, its new equipment and the Modification Permits."
+        ],
+        [
+          "[LINK:content_old_odin|🔒 Ancient Odin Temple]",
+          "New armor, cards and enchants of the Ancient Odin Temple."
+        ],
+        [
+          "[LINK:content_abyss_lake_4f|🔒 Abyss Lake Underground Cave F4]",
+          "New equipment, cards, crafting and enchants of the Abyss Lake Underground Cave F4."
+        ]
+      ]
+    }
+  ]
+}

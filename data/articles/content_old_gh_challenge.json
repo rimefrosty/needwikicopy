@@ -1,0 +1,147 @@
+{
+    "id": "content_old_gh_challenge",
+    "title": "메모리얼 던전 - 옛 글래스트 헤임 도전 모드",
+    "summary": "옛 글래스트 헤임 도전 모드 공략과 신규 장비, 인챈트 정보를 확인할 수 있습니다.",
+    "keywords": [
+        "옛 글래스트 헤임 도전 모드",
+        "글래스트 헤임",
+        "서클릿",
+        "신규 인챈트",
+        "신규 카드",
+        "신규 무기"
+    ],
+    "tags": [
+        "콘텐츠",
+        "메모리얼 던전",
+        "글래스트 헤임"
+    ],
+    "breadcrumb": [
+        {
+            "text": "홈",
+            "target": "home"
+        },
+        {
+            "text": "콘텐츠 가이드",
+            "target": "content_main"
+        },
+        {
+            "text": "옛 글래스트 헤임 도전 모드"
+        }
+    ],
+    "blocks": [
+        {
+            "type": "heading",
+            "text": "옛 글래스트 헤임 도전 모드"
+        },
+        {
+            "type": "tabs",
+            "items": [
+                {
+                    "title": "옛 글래스트 헤임 도전 모드",
+                    "blocks": [
+                        {
+                            "type": "image",
+                            "path": "content/old_gh_challenge0.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/old_gh_challenge1.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/old_gh_challenge2.jpg",
+                            "compact": true
+                        }
+                    ]
+                },
+                {
+                    "title": "서클랏",
+                    "blocks": [
+                        {
+                            "type": "image",
+                            "path": "content/old_gh_challenge5.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/old_gh_challenge6.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/old_gh_challenge7.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/old_gh_challenge8.jpg",
+                            "compact": true
+                        }
+                    ]
+                },
+                {
+                    "title": "서클릿 인챈트",
+                    "blocks": [
+                        {
+                            "type": "image",
+                            "path": "content/old_gh_challenge3.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/old_gh_challenge4.jpg",
+                            "compact": true
+                        }
+                    ]
+                },
+                {
+                    "title": "신규 인챈트",
+                    "blocks": [
+                        {
+                            "type": "image",
+                            "path": "content/old_gh_challenge9.jpg",
+                            "compact": true
+                        }
+                    ]
+                },
+                {
+                    "title": "신규 카드",
+                    "blocks": [
+                        {
+                            "type": "image",
+                            "path": "content/old_gh_challenge10.jpg",
+                            "compact": true
+                        }
+                    ]
+                },
+                {
+                    "title": "신규 무기",
+                    "blocks": [
+                        {
+                            "type": "image",
+                            "path": "content/old_gh_challenge11.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/old_gh_challenge12.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/old_gh_challenge13.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/old_gh_challenge14.jpg",
+                            "compact": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

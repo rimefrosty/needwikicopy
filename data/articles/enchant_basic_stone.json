@@ -1,0 +1,145 @@
+{
+  "id": "enchant_basic_stone",
+  "title": "의상 인챈트 스톤",
+  "summary": "의상 장비에 부여할 수 있는 인챈트 스톤과 인챈트 스톤 상자 확률 정보를 확인할 수 있는 페이지입니다.",
+  "keywords": [
+    "인챈트 스톤",
+    "인챈트 스톤 상자",
+    "의상 인챈트",
+    "의상 스톤",
+    "스톤 상자",
+    "확률"
+  ],
+  "tags": [
+    "인챈트",
+    "스톤",
+    "의상",
+    "확률"
+  ],
+  "breadcrumb": [
+    {
+      "text": "홈",
+      "target": "home"
+    },
+    {
+      "text": "인챈트"
+    },
+    {
+      "text": "인챈트 스톤 상자"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "인챈트 스톤 상자"
+    },
+    {
+      "type": "text",
+      "text": "인챈트 스톤 상자에서 획득할 수 있는 의상 인챈트 스톤과 확률 정보를 확인할 수 있는 페이지입니다."
+    },
+    {
+      "type": "notice",
+      "title": "상자별 확률 안내",
+      "text": "인챈트 스톤 상자는 앞으로 2, 3, 4, 5, 6, 7번 상자처럼 지속적으로 추가될 예정이며, 각 상자별 구성품과 확률은 개별 페이지에서 확인할 수 있습니다."
+    },
+    {
+      "type": "heading",
+      "text": "목차"
+    },
+    {
+      "type": "link",
+      "text": "인챈트 스톤이란?",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "인챈트 전 주의사항",
+      "target": "#notice"
+    },
+    {
+      "type": "link",
+      "text": "옷장 등록 권장",
+      "target": "#closet"
+    },
+    {
+      "type": "link",
+      "text": "상자 목록",
+      "target": "#box-list"
+    },
+    {
+      "type": "link",
+      "text": "관련 문서",
+      "target": "#related"
+    },
+    {
+      "type": "heading",
+      "text": "의상 인챈트 스톤이란?",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "의상 인챈트 스톤은 의상 장비에 부여할 수 있는 카드 옵션입니다."
+    },
+    {
+      "type": "text",
+      "text": "인챈트존에서 의상에 인챈트 스톤을 부여하면 해당 옵션을 적용할 수 있습니다."
+    },
+    {
+      "type": "heading",
+      "text": "인챈트 전 주의사항",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "스톤 귀속 주의",
+      "text": "인챈트존에서 인챈트 스톤을 부여할 경우, 해당 스톤은 인챈트한 의상에 귀속됩니다."
+    },
+    {
+      "type": "text",
+      "text": "한 번 부여한 인챈트 스톤은 다른 의상에 옮겨서 사용할 수 없으므로 신중하게 선택해 주세요."
+    },
+    {
+      "type": "heading",
+      "text": "옷장 등록 권장",
+      "anchor": "closet"
+    },
+    {
+      "type": "notice",
+      "title": "옷장 등록을 권장합니다",
+      "text": "다양한 의상에 인챈트 스톤 옵션을 적용하고 싶다면 인챈트 스톤을 옷장에 등록하시는 것을 강력히 권장합니다."
+    },
+    {
+      "type": "text",
+      "text": "옷장에 등록한 인챈트 스톤은 옵션을 유지하면서 다양한 의상 외형으로 변경할 수 있습니다."
+    },
+    {
+      "type": "link",
+      "text": "의상 시스템 바로가기",
+      "target": "costume_system"
+    },
+    {
+      "type": "heading",
+      "text": "상자 목록",
+      "anchor": "box-list"
+    },
+    {
+      "type": "text",
+      "text": "현재 획득 가능한 상자는 인챈트 스톤 상자이며, 이후 신규 상자가 추가될 때마다 개별 확률 페이지가 확장됩니다."
+    },
+    {
+      "type": "link",
+      "text": "의상 인챈트 바로가기",
+      "target": "costume_enchant"
+    },
+    {
+      "type": "heading",
+      "text": "관련 문서",
+      "anchor": "related"
+    },
+    {
+      "type": "link",
+      "text": "의상 시스템",
+      "target": "costume_system"
+    }
+  ]
+}

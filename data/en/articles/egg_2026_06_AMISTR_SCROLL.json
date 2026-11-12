@@ -1,0 +1,229 @@
+{
+  "id": "egg_2026_06_AMISTR_SCROLL",
+  "title": "Amistr Scroll",
+  "summary": "Contents and drop rates of the Amistr Scroll",
+  "keywords": [
+    "행운의 알",
+    "캐시",
+    "확률",
+    "의상",
+    "인챈트 스톤"
+  ],
+  "tags": [
+    "행운의알",
+    "캐시",
+    "확률"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Lucky Egg"
+    },
+    {
+      "text": "Amistr Scroll"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Amistr Scroll"
+    },
+    {
+      "type": "text",
+      "text": "The contents and drop rates of the Amistr Scroll."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Sale Information",
+      "target": "#info"
+    },
+    {
+      "type": "link",
+      "text": "Box Contents",
+      "target": "#items"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "heading",
+      "text": "Sale Information",
+      "anchor": "info"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Sales Period",
+          "2026-10-17 ~ 2026-10-31"
+        ],
+        [
+          "Price",
+          "1,000 Cash each"
+        ],
+        [
+          "Item Used",
+          "[ITEM:23106|Amistr Scroll]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Box Contents",
+      "anchor": "items"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Item",
+        "Rate"
+      ],
+      "rows": [
+        [
+          "[BADGE:HOT][ITEM:22915|Safe to 11 Weapon Certificate]",
+          "0.01%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:22930|Safe to 11 Armor Certificate]",
+          "0.01%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:22913|Safe to 9 Weapon Certificate]",
+          "0.05%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:22928|Safe to 9 Armor Certificate]",
+          "0.05%"
+        ],
+        [
+          "[ITEM:22829|Sealed Seal Card]",
+          "0.10%"
+        ],
+        [
+          "[ITEM:22911|Safe to 7 Weapon Certificate]",
+          "0.90%"
+        ],
+        [
+          "[ITEM:22926|Safe to 7 Armor Certificate]",
+          "0.90%"
+        ],
+        [
+          "[ITEM:22893|New Year's Shadow Cube]",
+          "1.00%"
+        ],
+        [
+          "[ITEM:23107|Amistr Box]",
+          "1.00%"
+        ],
+        [
+          "[ITEM:24294|Guillotine Cross Shadow Weapon]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24298|Ranger Shadow Weapon]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24289|Royal Guard Shadow Weapon]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24288|Rune Knight Shadow Weapon]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24290|Mechanic Shadow Weapon]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24299|Minstrel Shadow Weapon]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24297|Sorcerer Shadow Weapon]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24293|Sura Shadow Weapon]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24295|Shadow Chaser Shadow Weapon]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24292|Archbishop Shadow Weapon]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24296|Warlock Shadow Weapon]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24300|Wanderer Shadow Weapon]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24291|Genetic Shadow Weapon]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:399992|NEED Rebirth Ticket]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:6635|Blacksmith's Blessing]",
+          "5.00%"
+        ],
+        [
+          "[ITEM:22979|[NotForSale] Battle Manual & Bubble Gum]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:12550|Poison Bottle Box]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:17251|Infinite Fly Wing Box(3 Days)]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:12831|Potion Box]",
+          "11.00%"
+        ],
+        [
+          "[ITEM:7444|Treasure Box]",
+          "28.48%"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "About the Rates",
+      "text": "Rates are shown with decimals and may change with updates."
+    },
+    {
+      "type": "notice",
+      "title": "Badges",
+      "text": "[BADGE:NEW] marks a new item, [BADGE:HOT] a popular item and [BADGE:EVENT] an event-only reward."
+    }
+  ]
+}

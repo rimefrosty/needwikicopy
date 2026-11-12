@@ -1,0 +1,246 @@
+{
+  "id": "help",
+  "title": "NEED Wiki Help",
+  "summary": "Shortcuts, buttons, article features and badges of the NEED Wiki.",
+  "keywords": [
+    "도움말",
+    "단축키",
+    "즐겨찾기",
+    "검색",
+    "캐시",
+    "제보",
+    "Badge"
+  ],
+  "tags": [
+    "도움말",
+    "위키",
+    "기능"
+  ],
+  "report_enabled": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "NEED Wiki Help"
+    },
+    {
+      "type": "text",
+      "text": "Shortcuts, buttons and article features you can use in the NEED Wiki."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Shortcuts",
+      "target": "#shortcut"
+    },
+    {
+      "type": "link",
+      "text": "Buttons",
+      "target": "#button"
+    },
+    {
+      "type": "link",
+      "text": "Article Features",
+      "target": "#feature"
+    },
+    {
+      "type": "link",
+      "text": "Badges",
+      "target": "#badge"
+    },
+    {
+      "type": "link",
+      "text": "Version",
+      "target": "#version"
+    },
+    {
+      "type": "heading",
+      "text": "Shortcuts",
+      "anchor": "shortcut"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Shortcut",
+        "Action"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "F5",
+          "Refresh"
+        ],
+        [
+          "Ctrl + R",
+          "Refresh"
+        ],
+        [
+          "Ctrl + Shift + R",
+          "Clear the cache and refresh"
+        ],
+        [
+          "Backspace",
+          "Go back"
+        ],
+        [
+          "Ctrl + F",
+          "Go to the search box"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Backspace",
+      "text": "When the search box or another text box has focus, Backspace deletes text instead."
+    },
+    {
+      "type": "heading",
+      "text": "Buttons",
+      "anchor": "button"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Button",
+        "Action"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "?",
+          "Help"
+        ],
+        [
+          "Home",
+          "Go to the main page"
+        ],
+        [
+          "☆ / ★ Favorite",
+          "Add the current article to favorites or remove it"
+        ],
+        [
+          "Clear Cache",
+          "Delete the image cache"
+        ],
+        [
+          "Refresh",
+          "Reload the wiki data"
+        ],
+        [
+          "Back",
+          "Go to the previous article"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Article Features",
+      "anchor": "feature"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Feature",
+        "Description"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "Blue link",
+          "Opens another article"
+        ],
+        [
+          "Item link",
+          "Posts the item link in the game chat"
+        ],
+        [
+          "Location link",
+          "Asks the game to guide you to the location"
+        ],
+        [
+          "External link",
+          "Opens in your default browser"
+        ],
+        [
+          "Image",
+          "Click to enlarge"
+        ],
+        [
+          "Contents",
+          "Jumps to a section of the article"
+        ],
+        [
+          "Send a report",
+          "Report an error or missing information in the article"
+        ],
+        [
+          "Favorites",
+          "Reopen the articles you read often"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Badges",
+      "anchor": "badge"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Badge",
+        "Meaning"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "[BADGE:NEW]",
+          "New"
+        ],
+        [
+          "[BADGE:HOT]",
+          "Popular or recommended"
+        ],
+        [
+          "[BADGE:EVENT]",
+          "Event only"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Version",
+      "anchor": "version"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Name",
+        "Value"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "Wiki Version",
+          "NEED Wiki v1.0"
+        ]
+      ]
+    }
+  ]
+}

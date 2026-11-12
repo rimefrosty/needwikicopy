@@ -1,0 +1,85 @@
+{
+  "id": "equipment_refine",
+  "title": "Refining Guide",
+  "summary": "The basics of refining equipment and how to refine.",
+  "keywords": [
+    "제련",
+    "장비 강화",
+    "농축 에르늄",
+    "농축 오리데오콘",
+    "등급 제련"
+  ],
+  "tags": [
+    "장비",
+    "제련"
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Refining System"
+    },
+    {
+      "type": "text",
+      "text": "Refining improves equipment. Depending on the equipment type it raises ATK, DEF, MATK and more, and some equipment gains extra effects at high refine levels."
+    },
+    {
+      "type": "heading",
+      "text": "Safe Refine Range"
+    },
+    {
+      "type": "text",
+      "text": "Regular equipment can be refined safely up to +4. Within the safe range, a failed refine does not destroy the equipment."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Range",
+        "Description"
+      ],
+      "rows": [
+        [
+          "+1 ~ +4",
+          "Safe refine range"
+        ],
+        [
+          "+5 and up",
+          "Equipment may break on failure"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Regular Refining"
+    },
+    {
+      "type": "text",
+      "text": "Refine weapons with Oridecon and armor with Elunium. The higher the refine level, the lower the success rate."
+    },
+    {
+      "type": "heading",
+      "text": "Enriched Refining"
+    },
+    {
+      "type": "text",
+      "text": "Enriched Elunium and Enriched Oridecon give a higher success rate than regular refining. The equipment can still break on failure."
+    },
+    {
+      "type": "heading",
+      "text": "Refining Tips"
+    },
+    {
+      "type": "list",
+      "items": [
+        "For expensive equipment, using a Blacksmith's Blessing is recommended.",
+        "Refine bonuses can differ from one piece of equipment to another.",
+        "Some equipment unlocks strong options above a certain refine level.",
+        "The success rate depends on the refine level."
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Note",
+      "text": "Some equipment may follow different rules from regular refining, and the refining system may change with events or updates."
+    }
+  ]
+}

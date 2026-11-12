@@ -1,0 +1,155 @@
+{
+  "id": "enchant_malangdo",
+  "title": "⚒ Malangdo Equipment",
+  "summary": "An enchant system that uses Seagod's Anger to add extra stats to some high-end weapons.",
+  "keywords": [
+    "말랑도",
+    "말랑도 인챈트",
+    "바다신의 분노",
+    "4레벨 무기",
+    "무기 인챈트"
+  ],
+  "tags": [
+    "인챈트",
+    "말랑도",
+    "무기"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant"
+    },
+    {
+      "text": "Malangdo Equipment"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Malangdo Equipment"
+    },
+    {
+      "type": "text",
+      "text": "An enchant system that uses Seagod's Anger to add extra stats to some high-end weapons."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Overview",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "Required Materials",
+      "target": "#material"
+    },
+    {
+      "type": "link",
+      "text": "Enchant Options",
+      "target": "#option"
+    },
+    {
+      "type": "link",
+      "text": "Eligible Equipment",
+      "target": "#target"
+    },
+    {
+      "type": "link",
+      "text": "Location",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "References",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "Overview",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "Mayomayo on Malangdo adds extra stats to some high-end weapons."
+    },
+    {
+      "type": "text",
+      "text": "It works on many high-end weapons, including level 4 weapons, and is the standard enchant system for improving a weapon."
+    },
+    {
+      "type": "heading",
+      "text": "Required Materials",
+      "anchor": "material"
+    },
+    {
+      "type": "text",
+      "text": "[ITEM:6423|Seagod's Anger]"
+    },
+    {
+      "type": "text",
+      "text": "The weapon to enchant"
+    },
+    {
+      "type": "heading",
+      "text": "Enchant Options",
+      "anchor": "option"
+    },
+    {
+      "type": "notice",
+      "title": "Recommended Enchant",
+      "text": "On the NEED server, the Seagod's Anger enchant is recommended over the A~E Grade Coin enchants in most cases."
+    },
+    {
+      "type": "text",
+      "text": "Depending on the weapon type, the Seagod's Anger enchant gives useful options such as ATK, ASPD and MATK."
+    },
+    {
+      "type": "image",
+      "path": "en/enchant/malangdo_enchant_options.443edcb60ddb.png",
+      "caption": "Malangdo enchant options"
+    },
+    {
+      "type": "heading",
+      "text": "Eligible Equipment",
+      "anchor": "target"
+    },
+    {
+      "type": "text",
+      "text": "Works on some high-end weapons, including level 4 weapons."
+    },
+    {
+      "type": "notice",
+      "title": "Eligible Weapons",
+      "text": "The list of eligible weapons is in the references below."
+    },
+    {
+      "type": "heading",
+      "text": "Location",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:lasa_in01,161,48,Malangdo Enchant NPC]"
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "iRO Wiki - Malangdo Enchants",
+          "url": "https://irowiki.org/wiki/Malangdo_Enchants"
+        }
+      ]
+    }
+  ]
+}

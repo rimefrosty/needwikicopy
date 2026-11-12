@@ -1,0 +1,101 @@
+{
+  "id": "content_edda_biolab",
+  "title": "Memorial Dungeon - EDDA Biolab",
+  "summary": "EDDA Biolab walkthrough and its new enchants.",
+  "keywords": [
+    "EDDA 생체연구소",
+    "EDDA",
+    "생체연구소",
+    "신규 인챈트",
+    "메모리얼 던전"
+  ],
+  "tags": [
+    "콘텐츠",
+    "메모리얼 던전",
+    "EDDA"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Content Guide",
+      "target": "content_main"
+    },
+    {
+      "text": "EDDA Biolab"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "EDDA Biolab"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "title": "EDDA Biolab",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/edda_biolab1.3fd7d1b571fe.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/edda_biolab2.e05eecec226f.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/edda_biolab3.5d5d22526836.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/edda_biolab4.33f7030076b3.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/edda_biolab5.f7e44a26bab5.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/edda_biolab6.0cf1abcca0af.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/edda_biolab7.951f6361d4ed.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/edda_biolab8.b2ba321df15d.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/edda_biolab9.98b288f1b2d7.jpg",
+              "compact": true
+            }
+          ]
+        },
+        {
+          "title": "New Enchants",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/edda_biolab_enchant1.4cbd96790575.jpg",
+              "compact": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

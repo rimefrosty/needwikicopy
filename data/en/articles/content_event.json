@@ -1,0 +1,133 @@
+{
+  "id": "content_event",
+  "title": "Event Content",
+  "summary": "Events on the NEED server, participation rewards and limited-time perks.",
+  "category": "content",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Content Guide",
+      "target": "content_main"
+    },
+    {
+      "text": "Event Content"
+    }
+  ],
+  "keywords": [
+    "이벤트",
+    "이벤트 콘텐츠",
+    "보상",
+    "골드코인",
+    "NEED의 은총",
+    "참여 보상",
+    "유저 가이드",
+    "커뮤니티 활동"
+  ],
+  "tags": [
+    "콘텐츠",
+    "이벤트",
+    "보상",
+    "허브"
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Event Content",
+      "level": 1,
+      "anchor": "top"
+    },
+    {
+      "type": "text",
+      "text": "This page gathers the events, participation rewards and limited-time perks on the NEED server."
+    },
+    {
+      "type": "notice",
+      "style": "info",
+      "title": "About event rewards",
+      "text": "Event rewards and how events run may change depending on the server situation. See each event's own page for details."
+    },
+    {
+      "type": "heading",
+      "text": "Contents",
+      "level": 2,
+      "anchor": "toc"
+    },
+    {
+      "type": "link",
+      "text": "1. Event Content List",
+      "target": "#list"
+    },
+    {
+      "type": "link",
+      "text": "2. How to Get Gold Coins",
+      "target": "#goldcoin"
+    },
+    {
+      "type": "heading",
+      "text": "Event Content List",
+      "level": 2,
+      "anchor": "list"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Content",
+        "Description",
+        "Open"
+      ],
+      "rows": [
+        [
+          "NEED Grace",
+          "Spend Gold Coins to activate or extend a timed per-character buff.",
+          "[LINK:need_grace|NEED Grace]"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "style": "info",
+      "title": "More to come",
+      "text": "Future event content will be added to this page as it comes."
+    },
+    {
+      "type": "heading",
+      "text": "How to Get Gold Coins",
+      "level": 2,
+      "anchor": "goldcoin"
+    },
+    {
+      "type": "text",
+      "text": "Gold Coins come from taking part in NEED server events, writing player guides, community activity rewards and more."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Source",
+        "Description"
+      ],
+      "rows": [
+        [
+          "Server events",
+          "Rewards from events run on the server, such as official events, test participation, hunting efficiency measurements and Battlegrounds tests."
+        ],
+        [
+          "Writing player guides",
+          "May be given for writing walkthroughs, job guides or content guides that help new and returning players."
+        ],
+        [
+          "Community activity",
+          "May be given for useful activity that helps run the server, such as reports, sharing information and improving guides."
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "style": "warning",
+      "title": "Reward criteria",
+      "text": "How many Gold Coins are given, and when, depends on the event, the quality of the guide and the server situation."
+    }
+  ]
+}

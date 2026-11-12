@@ -1,0 +1,233 @@
+{
+  "id": "egg_2026_06_NEW_HAT_SCROLL",
+  "title": "Liberty Cap Scroll",
+  "summary": "Contents and drop rates of the Liberty Cap Scroll",
+  "keywords": [
+    "행운의 알",
+    "캐시",
+    "확률",
+    "의상",
+    "인챈트 스톤"
+  ],
+  "tags": [
+    "행운의알",
+    "캐시",
+    "확률"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Lucky Egg"
+    },
+    {
+      "text": "Liberty Cap Scroll"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Liberty Cap Scroll"
+    },
+    {
+      "type": "text",
+      "text": "The contents and drop rates of the Liberty Cap Scroll."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Sale Information",
+      "target": "#info"
+    },
+    {
+      "type": "link",
+      "text": "Box Contents",
+      "target": "#items"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "heading",
+      "text": "Sale Information",
+      "anchor": "info"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Sales Period",
+          "2026-09-26 ~ 2026-10-10"
+        ],
+        [
+          "Price",
+          "1,000 Cash each"
+        ],
+        [
+          "Item Used",
+          "[ITEM:23051|Liberty Cap Scroll]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Box Contents",
+      "anchor": "items"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Item",
+        "Rate"
+      ],
+      "rows": [
+        [
+          "[BADGE:HOT][ITEM:6238|Safe to 11 Weapon Certificate]",
+          "0.01%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6239|Safe to 11 Armor Certificate]",
+          "0.01%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6228|Safe to 9 Weapon Certificate]",
+          "0.05%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6232|Safe to 9 Armor Certificate]",
+          "0.05%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:23052|Liberty Statue Hat Box]",
+          "0.50%"
+        ],
+        [
+          "[ITEM:22972|Sealed Hat Box]",
+          "0.10%"
+        ],
+        [
+          "[ITEM:22988|Sealed Hat Box II]",
+          "0.10%"
+        ],
+        [
+          "[ITEM:6230|Safe to 7 Weapon Certificate]",
+          "0.15%"
+        ],
+        [
+          "[ITEM:6234|Safe to 7 Armor Certificate]",
+          "0.15%"
+        ],
+        [
+          "[ITEM:24256|Knight Shadow Shoes]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24268|Dancer Shadow Shoes]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24263|Rogue Shadow Shoes]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24261|Monk Shadow Shoes]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24267|Bard Shadow Shoes]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24258|Blacksmith Shadow Shoes]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24265|Sage Shadow Shoes]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24259|Alchemist Shadow Shoes]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24262|Assassin Shadow Shoes]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24264|Wizard Shadow Shoes]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24257|Crusader Shadow Shoes]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24260|Priest Shadow Shoes]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:24266|Hunter Shadow Shoes]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:399992|NEED Rebirth Ticket]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:25135|[NotForSale] Spiritual Auger]",
+          "3.60%"
+        ],
+        [
+          "[ITEM:6635|Blacksmith's Blessing]",
+          "5.00%"
+        ],
+        [
+          "[ITEM:12534|Yggdrasil Seed Box]",
+          "8.00%"
+        ],
+        [
+          "[ITEM:22999|[NotForSale] Transformation Scroll Bundle]",
+          "12.00%"
+        ],
+        [
+          "[ITEM:12550|Poison Bottle Box]",
+          "15.00%"
+        ],
+        [
+          "[ITEM:17608|Infinite Giant Fly Wing Box 1Day]",
+          "15.00%"
+        ],
+        [
+          "[ITEM:7444|Treasure Box]",
+          "18.78%"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "About the Rates",
+      "text": "Rates are shown with decimals and may change with updates."
+    },
+    {
+      "type": "notice",
+      "title": "Badges",
+      "text": "[BADGE:NEW] marks a new item, [BADGE:HOT] a popular item and [BADGE:EVENT] an event-only reward."
+    }
+  ]
+}

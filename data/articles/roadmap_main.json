@@ -1,0 +1,483 @@
+{
+  "id": "roadmap_main",
+  "title": "🗺 서버 로드맵",
+  "summary": "NEED 서버의 에피소드 진행 순서와 주요 콘텐츠를 확인할 수 있습니다.",
+  "keywords": [
+    "로드맵",
+    "에피소드",
+    "판타스마고리카",
+    "테라 글로리아",
+    "일루시온"
+  ],
+  "tags": [
+    "로드맵"
+  ],
+  "breadcrumb": [
+    {
+      "text": "홈",
+      "target": "home"
+    },
+    {
+      "text": "서버 로드맵"
+    }
+  ],
+  "report_enabled": true,
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "서버 로드맵"
+    },
+    {
+      "type": "text",
+      "text": "NEED 서버는 에피소드 진행에 따라 콘텐츠와 시스템이 순차적으로 개방됩니다."
+    },
+    {
+      "type": "heading",
+      "text": "목차"
+    },
+    {
+      "type": "link",
+      "text": "14.2 에클라쥬",
+      "target": "#ep_14_2"
+    },
+    {
+      "type": "link",
+      "text": "14.3 결전 Part 1",
+      "target": "#ep_14_3_1"
+    },
+    {
+      "type": "link",
+      "text": "14.3 결전 Part 2",
+      "target": "#ep_14_3_2"
+    },
+    {
+      "type": "link",
+      "text": "15.1 판타스마고리카",
+      "target": "#ep_15_1"
+    },
+    {
+      "type": "link",
+      "text": "15.2 판타스마고리카 그 두번째 이야기 [메모리 레코드]",
+      "target": "#ep_15_2"
+    },
+    {
+      "type": "link",
+      "text": "16.1 영웅을 위한 연회",
+      "target": "#ep_16_1"
+    },
+    {
+      "type": "link",
+      "text": "16.2 테라 글로리아",
+      "target": "#ep_16_2"
+    },
+    {
+      "type": "link",
+      "text": "17.1 일루시온",
+      "target": "#ep_17_1"
+    },
+    {
+      "type": "heading",
+      "text": "14.2 에클라쥬",
+      "anchor": "ep_14_2"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "구분",
+        "콘텐츠"
+      ],
+      "widths": [
+        "30%",
+        "70%"
+      ],
+      "rows": [
+        [
+          "메모리얼 던전",
+          "[LINK:content_faceworm_nest|페이스웜의 둥지]"
+        ],
+        [
+          "메모리얼 던전",
+          "[LINK:content_sara_memories|사라의 기억]"
+        ],
+        [
+          "시스템",
+          "160 레벨 확장"
+        ],
+        [
+          "메모리얼 던전",
+          "[LINK:content_geffen_magic_tournament|게펜 마법 대회]"
+        ],
+        [
+          "메모리얼 던전",
+          "[LINK:content_cursed_swordsman|저주의 검사]"
+        ],
+        [
+          "메모리얼 던전",
+          "[LINK:content_demon_god_tower|마신의 탑]"
+        ],
+        [
+          "메모리얼 던전",
+          "[LINK:horror_toy_factory|호러 장난감 공장]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "14.3 결전 Part 1",
+      "anchor": "ep_14_3_1"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "구분",
+        "콘텐츠"
+      ],
+      "widths": [
+        "30%",
+        "70%"
+      ],
+      "rows": [
+        [
+          "메모리얼 던전",
+          "[LINK:content_bios_mors|비오스의 섬]"
+        ],
+        [
+          "메모리얼 던전",
+          "[LINK:content_bios_mors|모르스의 동굴]"
+        ],
+        [
+          "메모리얼 던전",
+          "[LINK:content_charleston_crisis|위기의 찰스턴]"
+        ],
+        [
+          "던전",
+          "뒤틀린 시간의 시계탑"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "14.3 결전 Part 2",
+      "anchor": "ep_14_3_2"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "구분",
+        "콘텐츠"
+      ],
+      "widths": [
+        "30%",
+        "70%"
+      ],
+      "rows": [
+        [
+          "메모리얼 던전",
+          "[LINK:content_demon_god_temple_nightmare_jitterbug|마신전]"
+        ],
+        [
+          "메모리얼 던전",
+          "[LINK:content_demon_god_temple_nightmare_jitterbug|악몽의 지터벅]"
+        ],
+        [
+          "시스템",
+          "175/60 레벨 확장"
+        ],
+        [
+          "메모리얼 던전",
+          "상급 옛 글래스트 헤임"
+        ],
+        [
+          "신규 카드",
+          "[LINK:update_new_cards_48|신규 카드 48종 업데이트]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "15.1 판타스마고리카",
+      "anchor": "ep_15_1"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "구분",
+        "콘텐츠"
+      ],
+      "widths": [
+        "30%",
+        "70%"
+      ],
+      "rows": [
+        [
+          "메모리얼 던전",
+          "[LINK:content_fenrir_and_airship|펜릴과 사라]"
+        ],
+        [
+          "메모리얼 던전",
+          "[LINK:content_fenrir_and_airship|비공정 습격]"
+        ],
+        [
+          "던전",
+          "[LINK:content_bio5|전사자의 무덤]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "15.2 판타스마고리카 그 두번째 이야기 [메모리 레코드]",
+      "anchor": "ep_15_2"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "구분",
+        "콘텐츠"
+      ],
+      "widths": [
+        "30%",
+        "70%"
+      ],
+      "rows": [
+        [
+          "지역",
+          "[LINK:content_verus_lab_lastroom|베루스]"
+        ],
+        [
+          "메모리얼 던전",
+          "[LINK:content_verus_lab_lastroom|중앙 실험실]"
+        ],
+        [
+          "메모리얼 던전",
+          "[LINK:content_verus_lab_lastroom|마지막 방]"
+        ],
+        [
+          "신규 카드",
+          "[LINK:update_twisted_clocktower_cards|신규 카드 뒤틀린 시계탑 업데이트]"
+        ],
+        [
+          "시스템",
+          "[LINK:enchant_stone|인챈트 스톤]"
+        ],
+        [
+          "메모리얼 던전",
+          "[LINK:content_infinite_space|무한의 공간]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "16.1 영웅을 위한 연회",
+      "anchor": "ep_16_1"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "구분",
+        "콘텐츠"
+      ],
+      "widths": [
+        "30%",
+        "70%"
+      ],
+      "rows": [
+        [
+          "메모리얼 던전",
+          "[LINK:content_room_of_consciousness|의식의 방]"
+        ],
+        [
+          "메모리얼 던전",
+          "[LINK:content_air_fortress_assault|공중요새 침공]"
+        ],
+        [
+          "아이템",
+          "[LINK:enchant_soul_destroyer|영혼의 뚫어뻥]"
+        ],
+        [
+          "신규 카드",
+          "[LINK:update_pyramid_nightmare_cards|신규 카드 피라미드 나이트메어 업데이트]"
+        ],
+        [
+          "던전",
+          "🔒 [LINK:content_bio5_rework|전사자의 무덤 대개편]"
+        ],
+        [
+          "신규 카드",
+          "🔒 [LINK:update_horror_toy_factory_cards|신규 카드 호러 장난감 공장 업데이트]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "16.2 테라 글로리아",
+      "anchor": "ep_16_2"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "구분",
+        "콘텐츠"
+      ],
+      "widths": [
+        "30%",
+        "70%"
+      ],
+      "rows": [
+        [
+          "메모리얼 던전",
+          "🔒 [LINK:content_hunter_base_outskirts|하트헌터 기지외곽]"
+        ],
+        [
+          "던전",
+          "🔒 [LINK:content_verner_lab|베르너 연구소]"
+        ],
+        [
+          "메모리얼 던전",
+          "🔒 [LINK:content_verner_core|베르너 연구소 중추실]"
+        ],
+        [
+          "장비",
+          "🔒 3차 직업 쉐도우 세트"
+        ],
+        [
+          "시스템",
+          "🔒 [LINK:system_rapine_tool_box|라피네의 뚝딱상자]"
+        ],
+        [
+          "신규 카드",
+          "🔒 [LINK:update_phantasmagorika_cards|신규 카드 판타스마고리카 업데이트]"
+        ],
+        [
+          "메모리얼 던전",
+          "🔒 [LINK:content_friday_dungeon|금요일 던전]"
+        ],
+        [
+          "지역",
+          "🔒 [LINK:content_rock_ridge|락 릿지]"
+        ],
+        [
+          "일루전 던전",
+          "🔒 [LINK:content_illusion_moonlight|일루전 오브 문라이트]"
+        ],
+        [
+          "일루전 던전",
+          "🔒 [LINK:content_illusion_vampire|일루전 오브 뱀파이어]"
+        ],
+        [
+          "일루전 던전",
+          "🔒 [LINK:content_illusion_frozen|일루전 오브 프로즌]"
+        ],
+        [
+          "일루전 던전",
+          "🔒 [LINK:content_illusion_turtle|일루전 오브 구양궁]"
+        ],
+        [
+          "신규 카드",
+          "🔒 [LINK:update_brasilis_cards|신규 카드 브라질리스 업데이트]"
+        ],
+        [
+          "장비",
+          "🔒 [LINK:racing_cap|레이싱 캡]"
+        ],
+        [
+          "신규 카드",
+          "🔒 [LINK:update_terra_gloria_cards|신규 카드 EP 16.2 테라 글로리아 업데이트]"
+        ],
+        [
+          "아이템",
+          "🔒 [LINK:enchant_job_stone|직업 인챈트 스톤]"
+        ],
+        [
+          "신규 카드",
+          "🔒 [LINK:update_moscovia_cards|신규 카드 모스코비아 업데이트]"
+        ],
+        [
+          "신규 카드",
+          "🔒 [LINK:update_hero_traces_part1_cards|신규 카드 영웅의 흔적 Part.1 업데이트]"
+        ],
+        [
+          "일루전 던전",
+          "🔒 [LINK:content_illusion_teddy|일루전 오브 테디베어]"
+        ],
+        [
+          "메모리얼 던전",
+          "🔒 [LINK:content_charleston_crisis_renewal|위기의 찰스턴 리뉴얼]"
+        ],
+        [
+          "일루전 던전",
+          "🔒 [LINK:content_illusion_luanda|일루전 오브 루안다]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "17.1 일루시온",
+      "anchor": "ep_17_1"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "구분",
+        "콘텐츠"
+      ],
+      "widths": [
+        "30%",
+        "70%"
+      ],
+      "rows": [
+        [
+          "메모리얼 던전",
+          "🔒 [LINK:content_os_cor_memorial|오스 2차 수색]"
+        ],
+        [
+          "메모리얼 던전",
+          "🔒 [LINK:content_os_cor_memorial|코르 메모리얼]"
+        ],
+        [
+          "시스템",
+          "🔒 [LINK:system_level_expansion_185|185/65 레벨 확장]"
+        ],
+        [
+          "신규 카드",
+          "🔒 [LINK:update_ep171_illusion_cards|신규 카드 EP 17.1 일루시온 업데이트]"
+        ],
+        [
+          "메모리얼 던전",
+          "🔒 [LINK:content_edda_gh|EDDA 글래스트 헤임]"
+        ],
+        [
+          "신규 카드",
+          "🔒 [LINK:update_ep143_morocc_cards|신규 카드 EP 14.3 모로크 업데이트]"
+        ],
+        [
+          "일루전 던전",
+          "🔒 [LINK:content_illusion_labyrinth|일루전 오브 라비린스]"
+        ],
+        [
+          "메모리얼 던전",
+          "🔒 [LINK:content_edda_biolab|EDDA 생체연구소]"
+        ],
+        [
+          "메모리얼 던전",
+          "🔒 [LINK:content_old_gh_challenge|옛 글래스트 헤임 도전 모드]"
+        ],
+        [
+          "시스템",
+          "🔒 [LINK:system_level_expansion_200|200/70 레벨 확장]"
+        ],
+        [
+          "던전",
+          "🔒 [LINK:content_mine_dungeon_3f|아인베흐 광산던전 3층]"
+        ],
+        [
+          "던전",
+          "🔒 [LINK:content_old_odin|고대 오딘 신전]"
+        ],
+        [
+          "던전",
+          "🔒 [LINK:content_abyss_lake_4f|휘겔 어비스 호수 지하동굴 4층]"
+        ]
+      ]
+    }
+  ]
+}

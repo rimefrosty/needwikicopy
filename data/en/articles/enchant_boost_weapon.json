@@ -1,0 +1,185 @@
+{
+  "id": "enchant_boost_weapon",
+  "title": "Enhanced Weapon Enchant",
+  "summary": "A random enchant system for the Enhanced Weapon series.",
+  "keywords": [
+    "강화 무기",
+    "무기 인챈트",
+    "투지",
+    "첨예",
+    "명궁",
+    "마력"
+  ],
+  "tags": [
+    "인챈트",
+    "무기"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant Guide"
+    },
+    {
+      "text": "Enhanced Weapon Enchant"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Overview",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "Required Materials",
+      "target": "#materials"
+    },
+    {
+      "type": "link",
+      "text": "Effect",
+      "target": "#effect"
+    },
+    {
+      "type": "link",
+      "text": "Eligible Equipment",
+      "target": "#target"
+    },
+    {
+      "type": "link",
+      "text": "Location",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "References",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "anchor": "overview",
+      "text": "Overview"
+    },
+    {
+      "type": "text",
+      "text": "The Enhanced Weapon series can get extra options through its own enchant. Enchants are random, and you can repeat them until you get the option you want."
+    },
+    {
+      "type": "heading",
+      "anchor": "materials",
+      "text": "Required Materials"
+    },
+    {
+      "type": "text",
+      "text": "Enchant material: [ITEM:6484|Heroic Desocketing Book]"
+    },
+    {
+      "type": "text",
+      "text": "Enchant reset cost: 100,000 Zeny"
+    },
+    {
+      "type": "heading",
+      "anchor": "effect",
+      "text": "Effect"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Option",
+        "Range"
+      ],
+      "rows": [
+        [
+          "STR",
+          "1 ~ 10"
+        ],
+        [
+          "AGI",
+          "1 ~ 10"
+        ],
+        [
+          "VIT",
+          "1 ~ 10"
+        ],
+        [
+          "INT",
+          "1 ~ 10"
+        ],
+        [
+          "DEX",
+          "1 ~ 10"
+        ],
+        [
+          "LUK",
+          "1 ~ 10"
+        ],
+        [
+          "Fighting Spirit",
+          "Lv.1 ~ Lv.4"
+        ],
+        [
+          "Sharp",
+          "Lv.1 ~ Lv.5"
+        ],
+        [
+          "Expert Archer",
+          "Lv.1 ~ Lv.4"
+        ],
+        [
+          "Spell",
+          "Lv.1 ~ Lv.4"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "anchor": "target",
+      "text": "Eligible Equipment"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Upgrade Dagger [1]",
+        "Upgrade Two-Handed Sword [1]",
+        "Upgrade Two-Handed Spear [1]",
+        "Upgrade Two-Handed Axe [1]",
+        "Upgrade Two-Handed Staff [1]",
+        "Upgrade Book [1]",
+        "Upgrade Mace [1]",
+        "Upgrade Bow [1]",
+        "Upgrade Katar [1]",
+        "Upgrade Revolver [1]",
+        "Upgrade Huuma Shuriken [1]"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Location",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:itemmall,29,71,Enhanced Weapon Enchant NPC]"
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "Inven - Enhanced Weapon Enchant Info",
+          "url": "https://www.inven.co.kr/board/ro/5124/2886"
+        }
+      ]
+    }
+  ]
+}

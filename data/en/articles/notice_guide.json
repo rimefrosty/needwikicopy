@@ -1,0 +1,145 @@
+{
+  "id": "notice_guide",
+  "title": "Must Read",
+  "summary": "Essential notices and basic server information to check before playing on the NEED server.",
+  "category": "notice",
+  "keywords": [
+    "필독",
+    "서버 이용 규칙",
+    "캡차",
+    "매크로",
+    "오토",
+    "문의",
+    "신고",
+    "디스코드",
+    "서버 정보",
+    "NEED"
+  ],
+  "tags": [
+    "must_read",
+    "notice",
+    "rules",
+    "captcha",
+    "server_info"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Must Read"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Must Read",
+      "level": 1
+    },
+    {
+      "type": "text",
+      "text": "Read this before you start playing on the NEED server. It covers the server rules, the CAPTCHA verification system, how to contact us and other basics."
+    },
+    {
+      "type": "notice",
+      "style": "warning",
+      "title": "Please read before you play",
+      "text": "We cannot help with penalties caused by not knowing the rules. Please read these notices so that everyone can play in a pleasant and fair environment."
+    },
+    {
+      "type": "heading",
+      "text": "Quick Links",
+      "level": 2,
+      "anchor": "quick_links"
+    },
+    {
+      "type": "link",
+      "text": "Server Rules",
+      "target": "notice_server_rules"
+    },
+    {
+      "type": "text",
+      "text": "The basic rules every player must follow: no unauthorized programs, no bug abuse, no real-money trading, no abuse or slander, and more."
+    },
+    {
+      "type": "link",
+      "text": "CAPTCHA Verification System",
+      "target": "notice_captcha"
+    },
+    {
+      "type": "text",
+      "text": "The CAPTCHA check that can appear while hunting to prevent abnormal play, the reward for passing it and what happens when you fail."
+    },
+    {
+      "type": "heading",
+      "text": "Basic Server Information",
+      "level": 2,
+      "anchor": "server_info"
+    },
+    {
+      "type": "notice",
+      "style": "info",
+      "title": "About the NEED Server",
+      "text": "The NEED server aims for long-term operation and a wide range of content. Major notices are posted in the Discord announcements and the in-game wiki."
+    },
+    {
+      "type": "text",
+      "text": "If you have a question, check the in-game wiki first. Key information on equipment, enchants, content, costumes, Lucky Eggs and more is added to the wiki step by step."
+    },
+    {
+      "type": "notice",
+      "style": "info",
+      "title": "Using the In-Game Wiki",
+      "text": "Open the NEED Wiki in game to read server guides and content information. Wiki pages may be updated and expanded with each update."
+    },
+    {
+      "type": "heading",
+      "text": "Notices and Changes",
+      "level": 2,
+      "anchor": "notice"
+    },
+    {
+      "type": "text",
+      "text": "Server settings, rewards, events, balance and sanction criteria may change depending on the server situation. Important changes are announced in Discord or through wiki updates."
+    },
+    {
+      "type": "notice",
+      "style": "warning",
+      "title": "Check the notices regularly",
+      "text": "Some systems, rewards and rules may change after an update, so check the Discord announcements and the wiki regularly."
+    },
+    {
+      "type": "heading",
+      "text": "Inquiries and Reports",
+      "level": 2,
+      "anchor": "contact"
+    },
+    {
+      "type": "text",
+      "text": "For suspected unauthorized programs, bug reports, account inquiries and private inquiries that include personal information, use the Discord inquiry channel."
+    },
+    {
+      "type": "notice",
+      "style": "info",
+      "title": "Use the Discord inquiry channel",
+      "text": "Send reports and account inquiries through the Discord inquiry channel, not in a public channel. Including your character name, the time it happened, screenshots and the situation helps us check faster."
+    },
+    {
+      "type": "heading",
+      "text": "Discord Nickname",
+      "level": 2,
+      "anchor": "discord_name"
+    },
+    {
+      "type": "text",
+      "text": "Your Discord nickname must match your in-game character name. It is used to confirm your identity for inquiries, reports, event entries and reward checks."
+    },
+    {
+      "type": "notice",
+      "style": "success",
+      "title": "A server we build together",
+      "text": "The NEED server keeps improving based on player reports and feedback. If something goes wrong, let us know through the Discord inquiry channel."
+    }
+  ]
+}

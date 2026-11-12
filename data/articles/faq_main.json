@@ -1,0 +1,93 @@
+{
+    "id": "faq_main",
+    "title": "자주 묻는 질문",
+    "summary": "NEED 서버에서 자주 묻는 질문과 답변을 확인할 수 있습니다.",
+    "keywords": [
+        "FAQ",
+        "질문",
+        "도움말",
+        "가이드"
+    ],
+    "tags": [
+        "FAQ",
+        "도움말"
+    ],
+    "breadcrumb": [
+        {
+            "text": "홈",
+            "target": "home"
+        },
+        {
+            "text": "FAQ"
+        }
+    ],
+    "blocks": [
+        {
+            "type": "heading",
+            "text": "자주 묻는 질문"
+        },
+        {
+            "type": "text",
+            "text": "NEED 서버 이용 중 자주 문의되는 내용을 정리했습니다."
+        },
+        {
+            "type": "heading",
+            "text": "FAQ 분류"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "분류",
+                "설명"
+            ],
+            "widths": [
+                "35%",
+                "65%"
+            ],
+            "rows": [
+                [
+                    "[LINK:faq_beginner|신규/복귀 유저 FAQ]",
+                    "처음 시작하는 유저와 복귀 유저를 위한 안내"
+                ],
+                [
+                    "[LINK:faq_common|일반 FAQ]",
+                    "게임 이용 중 자주 묻는 질문 모음"
+                ]
+            ]
+        },
+        {
+            "type": "notice",
+            "title": "도움이 필요하신가요?",
+            "text": "FAQ에서 원하는 답변을 찾지 못했다면 서버 로드맵, 콘텐츠 가이드, 장비 가이드 및 의상 가이드를 확인해보세요."
+        },
+        {
+            "type": "table",
+            "headers": [
+                "추천 문서",
+                "설명"
+            ],
+            "widths": [
+                "40%",
+                "60%"
+            ],
+            "rows": [
+                [
+                    "[LINK:roadmap_main|서버 로드맵]",
+                    "현재 서버 단계 및 향후 업데이트 예정 콘텐츠 확인"
+                ],
+                [
+                    "[LINK:content_main|콘텐츠 가이드]",
+                    "주요 콘텐츠와 성장 방향 안내"
+                ],
+                [
+                    "[LINK:equipment_main|장비 가이드]",
+                    "콘텐츠별 장비와 성장 정보 확인"
+                ],
+                [
+                    "[LINK:costume_system|의상 시스템 소개]",
+                    "의상 컬렉션 및 의상룸 시스템 안내"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "notice_server_rules",
+  "title": "Server Rules",
+  "summary": "The basic rules to check before playing on the NEED server, and how to contact us.",
+  "category": "notice",
+  "keywords": [
+    "서버 이용 규칙",
+    "필독",
+    "제재",
+    "비인가 프로그램",
+    "버그 악용",
+    "현금 거래",
+    "욕설",
+    "비방",
+    "디스코드",
+    "문의하기",
+    "신고"
+  ],
+  "tags": [
+    "must_read",
+    "rules",
+    "notice",
+    "discord",
+    "report"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Must Read",
+      "target": "notice_guide"
+    },
+    {
+      "text": "Server Rules"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Server Rules",
+      "level": 1
+    },
+    {
+      "type": "text",
+      "text": "Every player on the NEED server must know the rules below. Breaking them may lead to sanctions at the staff's discretion."
+    },
+    {
+      "type": "notice",
+      "style": "warning",
+      "title": "Must Read",
+      "text": "These rules keep the server pleasant and play fair. We cannot help with penalties caused by not knowing the rules."
+    },
+    {
+      "type": "heading",
+      "text": "Contents",
+      "level": 2
+    },
+    {
+      "type": "link",
+      "text": "Basic Rules",
+      "target": "#rules"
+    },
+    {
+      "type": "link",
+      "text": "Discord Nickname",
+      "target": "#discord"
+    },
+    {
+      "type": "link",
+      "text": "Reports and Private Inquiries",
+      "target": "#contact"
+    },
+    {
+      "type": "heading",
+      "text": "Basic Rules",
+      "level": 2,
+      "anchor": "rules"
+    },
+    {
+      "type": "notice",
+      "style": "warning",
+      "title": "No unauthorized programs",
+      "text": "Macros, auto-hunting, modified clients, external helper programs and any other program not allowed by the staff are prohibited."
+    },
+    {
+      "type": "notice",
+      "style": "warning",
+      "title": "No bug abuse",
+      "text": "If you find an error, a bug or an abnormal way to obtain rewards, do not abuse it. Report it to the staff."
+    },
+    {
+      "type": "notice",
+      "style": "warning",
+      "title": "No real-money trading",
+      "text": "Trading accounts, items, Zeny or other currencies for real money or outside goods is prohibited."
+    },
+    {
+      "type": "notice",
+      "style": "warning",
+      "title": "No slander or abusive language",
+      "text": "Slandering others, abusive or hateful language, provoking disputes and persistent harassment are prohibited."
+    },
+    {
+      "type": "notice",
+      "style": "info",
+      "title": "Sanctions at the staff's discretion",
+      "text": "Even in situations not listed here, behavior that harms server order, fairness or stable operation may be sanctioned at the staff's discretion."
+    },
+    {
+      "type": "heading",
+      "text": "Discord Nickname",
+      "level": 2,
+      "anchor": "discord"
+    },
+    {
+      "type": "text",
+      "text": "Your Discord nickname must match your in-game character name. It is used to confirm your identity for inquiries, reports, event entries and reward checks."
+    },
+    {
+      "type": "notice",
+      "style": "info",
+      "title": "Nickname example",
+      "text": "If your in-game name is NEED, set your Discord nickname to NEED as well."
+    },
+    {
+      "type": "heading",
+      "text": "Reports and Private Inquiries",
+      "level": 2,
+      "anchor": "contact"
+    },
+    {
+      "type": "text",
+      "text": "For suspected unauthorized programs, bug reports, account inquiries and private inquiries that include personal information, use the Discord inquiry channel."
+    },
+    {
+      "type": "notice",
+      "style": "info",
+      "title": "Use the Discord inquiry channel",
+      "text": "Send reports and account inquiries through the Discord inquiry channel, not in a public channel. Including screenshots, your character name, the time it happened and the situation helps us check faster."
+    },
+    {
+      "type": "text",
+      "text": "The NEED server aims to be a place where everyone can play in a pleasant and fair environment. Please follow the rules, and report any problem through the Discord inquiry channel."
+    }
+  ]
+}

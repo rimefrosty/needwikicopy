@@ -1,0 +1,252 @@
+{
+  "id": "help",
+  "title": "NEED Wiki 도움말",
+  "summary": "NEED Wiki의 단축키, 버튼, 문서 기능, Badge 표시를 안내합니다.",
+  "keywords": [
+    "도움말",
+    "단축키",
+    "즐겨찾기",
+    "검색",
+    "캐시",
+    "제보",
+    "Badge"
+  ],
+  "tags": [
+    "도움말",
+    "위키",
+    "기능"
+  ],
+  "report_enabled": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "NEED Wiki 도움말"
+    },
+    {
+      "type": "text",
+      "text": "NEED Wiki에서 사용할 수 있는 단축키, 버튼, 문서 기능을 안내합니다."
+    },
+
+    {
+      "type": "heading",
+      "text": "목차"
+    },
+    {
+      "type": "link",
+      "text": "단축키",
+      "target": "#shortcut"
+    },
+    {
+      "type": "link",
+      "text": "버튼 설명",
+      "target": "#button"
+    },
+    {
+      "type": "link",
+      "text": "문서 기능",
+      "target": "#feature"
+    },
+    {
+      "type": "link",
+      "text": "표시 아이콘",
+      "target": "#badge"
+    },
+    {
+      "type": "link",
+      "text": "버전",
+      "target": "#version"
+    },
+
+    {
+      "type": "heading",
+      "text": "단축키",
+      "anchor": "shortcut"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "단축키",
+        "기능"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "F5",
+          "새로고침"
+        ],
+        [
+          "Ctrl + R",
+          "새로고침"
+        ],
+        [
+          "Ctrl + Shift + R",
+          "캐시 삭제 후 새로고침"
+        ],
+        [
+          "Backspace",
+          "뒤로가기"
+        ],
+        [
+          "Ctrl + F",
+          "검색창으로 이동"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Backspace 주의",
+      "text": "검색창이나 입력창에 포커스가 있을 때 Backspace는 글자 삭제로 동작합니다."
+    },
+
+    {
+      "type": "heading",
+      "text": "버튼 설명",
+      "anchor": "button"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "버튼",
+        "기능"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "?",
+          "도움말"
+        ],
+        [
+          "Home",
+          "메인 화면으로 이동"
+        ],
+        [
+          "☆ / ★ 즐겨찾기",
+          "현재 문서 즐겨찾기 추가/해제"
+        ],
+        [
+          "Clear Cache",
+          "이미지 캐시 삭제"
+        ],
+        [
+          "Refresh",
+          "위키 데이터 새로고침"
+        ],
+        [
+          "Back",
+          "이전 문서로 이동"
+        ]
+      ]
+    },
+
+    {
+      "type": "heading",
+      "text": "문서 기능",
+      "anchor": "feature"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "기능",
+        "설명"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "파란 링크",
+          "다른 문서로 이동"
+        ],
+        [
+          "아이템 링크",
+          "게임 채팅창에 아이템 링크 출력"
+        ],
+        [
+          "위치 링크",
+          "게임 내 위치 안내 요청"
+        ],
+        [
+          "외부 링크",
+          "기본 브라우저에서 열기"
+        ],
+        [
+          "이미지",
+          "클릭 시 확대"
+        ],
+        [
+          "목차",
+          "문서 내부 섹션으로 이동"
+        ],
+        [
+          "제보하기",
+          "문서 오류 또는 추가 내용 제보"
+        ],
+        [
+          "즐겨찾기",
+          "자주 보는 문서를 빠르게 다시 열기"
+        ]
+      ]
+    },
+
+    {
+      "type": "heading",
+      "text": "표시 아이콘",
+      "anchor": "badge"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "항목",
+        "의미"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "[BADGE:NEW]",
+          "신규 항목"
+        ],
+        [
+          "[BADGE:HOT]",
+          "인기 또는 추천 항목"
+        ],
+        [
+          "[BADGE:EVENT]",
+          "이벤트 한정 항목"
+        ]
+      ]
+    },
+
+    {
+      "type": "heading",
+      "text": "버전",
+      "anchor": "version"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "항목",
+        "내용"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "Wiki Version",
+          "NEED Wiki v1.0"
+        ]
+      ]
+    }
+  ]
+}

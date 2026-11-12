@@ -1,0 +1,84 @@
+{
+  "id": "content_main",
+  "title": "Content Guide",
+  "summary": "Guide hub for the main content of the NEED server, by type.",
+  "keywords": [
+    "콘텐츠",
+    "인스턴스 던전",
+    "파밍 지역",
+    "전장",
+    "공성전",
+    "이벤트"
+  ],
+  "tags": [
+    "콘텐츠",
+    "가이드"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Content Guide"
+    }
+  ],
+  "report_enabled": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Content Guide"
+    },
+    {
+      "type": "text",
+      "text": "Browse the main content of the NEED server by type."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Type",
+        "Description"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "[LINK:content_instance|Dungeons]",
+          "Memorial Dungeons and Illusion Dungeons."
+        ],
+        [
+          "[LINK:content_farming_area|Farming Areas]",
+          "Main hunting grounds and regional content."
+        ],
+        [
+          "[LINK:content_rebirth|Rebirth System]",
+          "Rebirth system content."
+        ],
+        [
+          "[LINK:content_battleground|Battlegrounds]",
+          "Battlegrounds content and rewards."
+        ],
+        [
+          "[LINK:content_woe|War of Emperium]",
+          "War of Emperium content and how to take part."
+        ],
+        [
+          "[LINK:content_event|Event Content]",
+          "Limited-time events and special content."
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Note",
+      "text": "Content is added in order, following the Server Roadmap."
+    },
+    {
+      "type": "link",
+      "text": "View the Server Roadmap",
+      "target": "roadmap_main"
+    }
+  ]
+}

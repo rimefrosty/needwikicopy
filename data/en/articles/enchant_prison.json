@@ -1,0 +1,387 @@
+{
+  "id": "enchant_prison",
+  "title": "Abusive Robe / Flattery Robe",
+  "summary": "A robe enchant system that uses Tokens of Honor to add Neev enchants to the Abusive Robe and the Flattery Robe.",
+  "keywords": [
+    "독설의 로브",
+    "아첨의 로브",
+    "Abusive Robe",
+    "Flattery Robe",
+    "왕실 연회",
+    "Royal Banquet",
+    "명예의 증표",
+    "니브",
+    "딜런",
+    "로브 인챈트",
+    "인챈트"
+  ],
+  "tags": [
+    "인챈트",
+    "왕실 연회",
+    "로브",
+    "16.1"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant"
+    },
+    {
+      "text": "Abusive Robe / Flattery Robe"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Abusive Robe / Flattery Robe"
+    },
+    {
+      "type": "text",
+      "text": "A system that adds Neev enchants to the [ITEM:15147|Abusive Robe] and the [ITEM:15146|Flattery Robe] with [ITEM:6919|Token of Honor]."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Overview",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "How It Works",
+      "target": "#process"
+    },
+    {
+      "type": "link",
+      "text": "Eligible Equipment",
+      "target": "#target"
+    },
+    {
+      "type": "link",
+      "text": "Enchant Options",
+      "target": "#options"
+    },
+    {
+      "type": "link",
+      "text": "Option Effects",
+      "target": "#effects"
+    },
+    {
+      "type": "link",
+      "text": "Reset",
+      "target": "#reset"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "link",
+      "text": "Location",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "References",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "Overview",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "Dylan adds Neev enchants to the Abusive Robe and the Flattery Robe."
+    },
+    {
+      "type": "text",
+      "text": "A robe can get up to 2 enchants, in the order slot 4 → slot 3."
+    },
+    {
+      "type": "notice",
+      "title": "Robes Only",
+      "text": "Dylan also handles the Prontera badges, but this page covers only the Abusive Robe and Flattery Robe enchants."
+    },
+    {
+      "type": "heading",
+      "text": "How It Works",
+      "anchor": "process"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "NPC",
+          "Dylan"
+        ],
+        [
+          "Location",
+          "[NAVI:lasa_in01,189,58,Dylan]"
+        ],
+        [
+          "Eligible Equipment",
+          "[ITEM:15147|Abusive Robe], [ITEM:15146|Flattery Robe]"
+        ],
+        [
+          "Enchant Materials",
+          "20 [ITEM:6919|Token of Honor] per slot"
+        ],
+        [
+          "Enchant Order",
+          "Slot order 4 → 3"
+        ],
+        [
+          "Max Enchants",
+          "Up to 2 per robe"
+        ],
+        [
+          "Enchant Failure / Destruction",
+          "None"
+        ],
+        [
+          "Reset Material",
+          "10 [ITEM:6919|Token of Honor]"
+        ],
+        [
+          "Reset Failure / Destruction",
+          "None"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Eligible Equipment",
+      "anchor": "target"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Equipment",
+        "Category",
+        "Enchants"
+      ],
+      "rows": [
+        [
+          "[ITEM:15147|Abusive Robe]",
+          "Armor",
+          "Up to 2"
+        ],
+        [
+          "[ITEM:15146|Flattery Robe]",
+          "Armor",
+          "Up to 2"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Must Be Equipped",
+      "text": "Enchanting and resetting require the robe to be equipped in the armor slot."
+    },
+    {
+      "type": "heading",
+      "text": "Enchant Options",
+      "anchor": "options"
+    },
+    {
+      "type": "text",
+      "text": "Robe enchants have no category choice: one of the Neev options below is given at random."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Category",
+        "Available Options",
+        "Individual Rate"
+      ],
+      "rows": [
+        [
+          "STR",
+          "[ITEM:4994|Neev of STR Lv 1], [ITEM:4995|Neev of STR Lv 2], [ITEM:4996|Neev of STR Lv 3]",
+          "1Lv 8.65% / 2Lv 5.94% / 3Lv 2.08%"
+        ],
+        [
+          "AGI",
+          "[ITEM:4997|Neev of AGI Lv 1], [ITEM:4998|Neev of AGI Lv 2], [ITEM:4999|Neev of AGI Lv 3]",
+          "1Lv 8.65% / 2Lv 5.94% / 3Lv 2.08%"
+        ],
+        [
+          "INT",
+          "[ITEM:29000|Neev of INT Lv 1], [ITEM:29001|Neev of INT Lv 2], [ITEM:29002|Neev of INT Lv 3]",
+          "1Lv 8.65% / 2Lv 5.94% / 3Lv 2.08%"
+        ],
+        [
+          "DEX",
+          "[ITEM:29003|Neev of DEX Lv 1], [ITEM:29004|Neev of DEX Lv 2], [ITEM:29005|Neev of DEX Lv 3]",
+          "1Lv 8.65% / 2Lv 5.94% / 3Lv 2.08%"
+        ],
+        [
+          "VIT",
+          "[ITEM:29009|Neev of VIT Lv 1], [ITEM:29010|Neev of VIT Lv 2], [ITEM:29011|Neev of VIT Lv 3]",
+          "1Lv 8.65% / 2Lv 5.94% / 3Lv 2.08%"
+        ],
+        [
+          "LUK",
+          "[ITEM:29006|Neev of LUK Lv 1], [ITEM:29007|Neev of LUK Lv 2], [ITEM:29008|Neev of LUK Lv 3]",
+          "1Lv 8.65% / 2Lv 5.94% / 3Lv 2.08%"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "About the Rates",
+      "text": "According to the script, every stat category has the same rate structure: overall, Lv 1 is about 8.65%, Lv 2 about 5.94% and Lv 3 about 2.08%."
+    },
+    {
+      "type": "heading",
+      "text": "Option Effects",
+      "anchor": "effects"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Category",
+        "Base Stat Effect",
+        "Extra Effect"
+      ],
+      "rows": [
+        [
+          "Neev of STR",
+          "STR up at refine +7 or higher",
+          "At high refine: physical damage up against all races"
+        ],
+        [
+          "Neev of AGI",
+          "AGI up at refine +7 or higher",
+          "At high refine: Perfect Dodge up"
+        ],
+        [
+          "Neev of VIT",
+          "VIT up at refine +7 or higher",
+          "At high refine: Max HP up"
+        ],
+        [
+          "Neev of INT",
+          "INT up at refine +7 or higher",
+          "At high refine: MATK up"
+        ],
+        [
+          "Neev of DEX",
+          "DEX up at refine +7 or higher",
+          "At high refine: ranged physical damage up"
+        ],
+        [
+          "Neev of LUK",
+          "LUK up at refine +7 or higher",
+          "At high refine: Critical damage up"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Effects by Level",
+      "text": "Neev Lv 1, Lv 2 and Lv 3 differ in the required refine level and the extra bonus. See the in-game item description for the exact values."
+    },
+    {
+      "type": "heading",
+      "text": "Reset",
+      "anchor": "reset"
+    },
+    {
+      "type": "text",
+      "text": "Dylan resets the enchants on the Abusive Robe or the Flattery Robe."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Reset Material",
+          "10 [ITEM:6919|Token of Honor]"
+        ],
+        [
+          "Reset Target",
+          "The equipped [ITEM:15147|Abusive Robe] or [ITEM:15146|Flattery Robe]"
+        ],
+        [
+          "Reset Requirement",
+          "Only robes with both slots enchanted"
+        ],
+        [
+          "Reset Scope",
+          "All enchants on it are reset"
+        ],
+        [
+          "Kept",
+          "Refine level and socketed cards are kept"
+        ],
+        [
+          "Failure / Destruction",
+          "None"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "No Partial Reset",
+      "text": "A robe can be reset only when both slots are enchanted, and you cannot reset only some of the slots."
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "Random Options",
+      "text": "Robe enchants have no category choice: one of the STR/AGI/INT/DEX/VIT/LUK Neevs is given at random."
+    },
+    {
+      "type": "notice",
+      "title": "Reset After Both Enchants",
+      "text": "A reset is only possible when both slots are enchanted."
+    },
+    {
+      "type": "notice",
+      "title": "Check Your Materials",
+      "text": "Enchanting needs 20 [ITEM:6919|Token of Honor] per slot, and a reset needs 10 [ITEM:6919|Token of Honor]."
+    },
+    {
+      "type": "heading",
+      "text": "Location",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:lasa_in01,189,58,Dylan]"
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "iRO Wiki - Royal Banquet Enchants",
+          "url": "https://irowiki.org/wiki/Royal_Banquet_Enchants"
+        }
+      ]
+    }
+  ]
+}

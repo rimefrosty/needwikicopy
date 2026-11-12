@@ -1,0 +1,101 @@
+{
+  "id": "costume_acquire",
+  "title": "How to Get Costumes",
+  "summary": "The many ways to get costumes on the NEED server.",
+  "keywords": [
+    "의상",
+    "의상 상자",
+    "니드서버 의상 상자",
+    "개다래 열매",
+    "의상 획득"
+  ],
+  "tags": [
+    "의상",
+    "획득"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Costume Guide"
+    },
+    {
+      "text": "How to Get Costumes"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "How to Get Costumes"
+    },
+    {
+      "type": "text",
+      "text": "On the NEED server, costumes come from many kinds of content."
+    },
+    {
+      "type": "heading",
+      "text": "NEED Costume Box"
+    },
+    {
+      "type": "text",
+      "text": "Field hunting and boss monsters have a chance to drop a NEED Costume Box."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Low drop chance from regular field monsters",
+        "An extra chance from boss monsters",
+        "Opening the box gives 1 of many costumes"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Event Rewards"
+    },
+    {
+      "type": "text",
+      "text": "Events can give costume boxes or limited costumes."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Seasonal events",
+        "Attendance events",
+        "Anniversary events",
+        "Community events"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Silvervine Fruit Exchange"
+    },
+    {
+      "type": "text",
+      "text": "Exchange Silvervine Fruit for new costumes."
+    },
+    {
+      "type": "notice",
+      "title": "Linked to the roadmap",
+      "text": "Silvervine Fruit exchange costumes will be added step by step as the server roadmap progresses."
+    },
+    {
+      "type": "heading",
+      "text": "Coming Later"
+    },
+    {
+      "type": "text",
+      "text": "More ways to get costumes from different content will keep being added."
+    },
+    {
+      "type": "list",
+      "items": [
+        "New event rewards",
+        "New exchange systems",
+        "Special content rewards",
+        "Seasonal limited costumes"
+      ]
+    }
+  ]
+}

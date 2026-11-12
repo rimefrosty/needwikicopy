@@ -1,0 +1,364 @@
+{
+  "id": "need_grace",
+  "title": "NEED Grace",
+  "summary": "A timed per-character buff that Gold Coins activate for 6 hours each, plus weekly convenience passes.",
+  "category": "content",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Event Content",
+      "target": "content_event"
+    },
+    {
+      "text": "NEED Grace"
+    }
+  ],
+  "keywords": [
+    "NEED의 은총",
+    "은총",
+    "VIP",
+    "골드코인",
+    "드랍률",
+    "버프",
+    "이벤트",
+    "유저 가이드",
+    "커뮤니티 활동",
+    "보상",
+    "거래 은총",
+    "속성 은총",
+    "보관 은총",
+    "종합 은총",
+    "오버챠지",
+    "디스카운트",
+    "속부",
+    "창고넣기",
+    "창고보관",
+    "이용권",
+    "임대 티켓"
+  ],
+  "tags": [
+    "시스템",
+    "버프",
+    "편의기능",
+    "보상",
+    "이용권",
+    "주간편의"
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "NEED Grace",
+      "level": 1,
+      "anchor": "top"
+    },
+    {
+      "type": "text",
+      "text": "NEED Grace is a timed per-character buff activated with Gold Coins. Each Gold Coin gives 6 hours, and it applies only to the current character, not the whole account."
+    },
+    {
+      "type": "notice",
+      "style": "info",
+      "title": "Applies per character",
+      "text": "NEED Grace applies per character, not per account. Other characters on the same account do not get it."
+    },
+    {
+      "type": "heading",
+      "text": "Contents",
+      "level": 2,
+      "anchor": "toc"
+    },
+    {
+      "type": "link",
+      "text": "1. How to Activate",
+      "target": "#activate"
+    },
+    {
+      "type": "link",
+      "text": "2. How to Get Gold Coins",
+      "target": "#obtain"
+    },
+    {
+      "type": "link",
+      "text": "3. Buff Effects",
+      "target": "#effect"
+    },
+    {
+      "type": "link",
+      "text": "4. Weekly Grace Passes",
+      "target": "#weekly_grace"
+    },
+    {
+      "type": "link",
+      "text": "5. Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "link",
+      "text": "6. Location",
+      "target": "#navigation"
+    },
+    {
+      "type": "heading",
+      "text": "How to Activate",
+      "level": 2,
+      "anchor": "activate"
+    },
+    {
+      "type": "text",
+      "text": "Use Gold Coins at the dedicated NPC to activate NEED Grace or extend it. Each Gold Coin gives 6 hours."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Item Used",
+        "Time Added",
+        "Description"
+      ],
+      "widths": [
+        "30%",
+        "25%",
+        "45%"
+      ],
+      "rows": [
+        [
+          "1 Gold Coin",
+          "6 hours",
+          "Adds 6 hours to the NEED Grace buff."
+        ],
+        [
+          "Several Gold Coins",
+          "Coins used × 6 hours",
+          "If Grace is already active, the time is added after the time left."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "How to Get Gold Coins",
+      "level": 2,
+      "anchor": "obtain"
+    },
+    {
+      "type": "text",
+      "text": "The Gold Coins that activate NEED Grace come from server events, writing player guides, community activity rewards and more."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Source",
+        "Description"
+      ],
+      "rows": [
+        [
+          "Server events",
+          "Rewards from events run on the server, such as official events, test participation, hunting efficiency measurements and Battlegrounds tests."
+        ],
+        [
+          "Writing player guides",
+          "May be given for writing walkthroughs, job guides or content guides that help new and returning players."
+        ],
+        [
+          "Community activity",
+          "May be given for useful activity that helps run the server, such as reports, sharing information and improving guides."
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "style": "info",
+      "title": "About rewards",
+      "text": "How many Gold Coins are given, and when, depends on the event, the quality of the guide and the server situation."
+    },
+    {
+      "type": "heading",
+      "text": "Buff Effects",
+      "level": 2,
+      "anchor": "effect"
+    },
+    {
+      "type": "text",
+      "text": "While NEED Grace is active, its own icon appears in the buff bar, showing the time left and the effects."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Effect",
+        "Value"
+      ],
+      "widths": [
+        "50%",
+        "50%"
+      ],
+      "rows": [
+        [
+          "All Stats",
+          "+1"
+        ],
+        [
+          "MaxHP",
+          "+3%"
+        ],
+        [
+          "MaxSP",
+          "+3%"
+        ],
+        [
+          "Item drop rate",
+          "+50%"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "style": "info",
+      "title": "Stacks with Bubble Gum",
+      "text": "The NEED Grace drop rate bonus applies together with Bubble Gum. The final drop rate may still be capped by the server's drop rate limit."
+    },
+    {
+      "type": "heading",
+      "text": "Weekly Grace Passes",
+      "level": 2,
+      "anchor": "weekly_grace"
+    },
+    {
+      "type": "text",
+      "text": "Besides the buff, the NEED Grace Manager sells rental tickets for weekly convenience features. A convenience pass is delivered to your inventory as a ticket; right-click it to see how long it has left."
+    },
+    {
+      "type": "notice",
+      "style": "info",
+      "title": "The buff and the passes are separate",
+      "text": "The NEED Grace buff gives stat, HP, SP and drop rate effects. The Trade, Elemental, Storage and All-in-One Grace Passes are a separate system that unlocks convenience features."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Pass",
+        "Main Feature",
+        "Conditions / Notes"
+      ],
+      "widths": [
+        "24%",
+        "34%",
+        "42%"
+      ],
+      "rows": [
+        [
+          "Trade Grace Pass",
+          "Overcharge / Discount convenience",
+          "Gives the Overcharge and Discount convenience effects while the pass lasts."
+        ],
+        [
+          "Elemental Grace Pass",
+          "Use the @element command",
+          "Enter @element to choose Water, Wind, Earth or Fire. The endowment lasts 30 minutes."
+        ],
+        [
+          "Storage Grace Pass",
+          "Use the @autostorage command",
+          "In town, automatically stores the Usable, Etc and Card items in your inventory that you already have in Storage. Equipment is left out."
+        ],
+        [
+          "All-in-One Grace Pass",
+          "All of Trade, Elemental and Storage Grace",
+          "One pass gives every Trade, Elemental and Storage Grace feature."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Convenience Commands",
+      "level": 3,
+      "anchor": "weekly_commands"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Command",
+        "Description"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "@element",
+          "With an Elemental or All-in-One Grace Pass active, choose a Water, Wind, Earth or Fire endowment in town."
+        ],
+        [
+          "@autostorage",
+          "With a Storage or All-in-One Grace Pass active, automatically puts matching items into Storage in town."
+        ],
+        [
+          "@storeexclude <item ID>",
+          "Adds the item to the auto-storage exclusion list."
+        ],
+        [
+          "@storeexcludelist",
+          "Shows the auto-storage exclusion list."
+        ],
+        [
+          "@storeexcludeoff <item ID>",
+          "Removes the item from the auto-storage exclusion list."
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "style": "warning",
+      "title": "Town-only convenience",
+      "text": "@autostorage works only in town, so it cannot be abused for weight management or convenience during combat."
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "level": 2,
+      "anchor": "notice"
+    },
+    {
+      "type": "text",
+      "text": "Weekly Grace Passes are per-character rental tickets. Their time is not shared with other characters on the same account."
+    },
+    {
+      "type": "text",
+      "text": "An active All-in-One Grace Pass gives every Trade, Elemental and Storage Grace feature."
+    },
+    {
+      "type": "text",
+      "text": "A rental ticket disappears when its time runs out. Check whether a feature is actually available in the in-game Grace status and the NPC's guidance."
+    },
+    {
+      "type": "text",
+      "text": "NEED Grace applies only to the current character. Logging in with another character on the same account does not share the effect."
+    },
+    {
+      "type": "text",
+      "text": "Using another pass while Grace is active adds the time after the time left."
+    },
+    {
+      "type": "text",
+      "text": "Grace effects end automatically when the buff time runs out."
+    },
+    {
+      "type": "heading",
+      "text": "Location",
+      "level": 2,
+      "anchor": "navigation"
+    },
+    {
+      "type": "text",
+      "text": "The NEED Grace Manager is at the location below."
+    },
+    {
+      "type": "navi",
+      "map": "lasagna",
+      "x": 164,
+      "y": 163,
+      "text": "NEED Grace Manager"
+    }
+  ]
+}

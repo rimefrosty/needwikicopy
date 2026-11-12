@@ -1,0 +1,146 @@
+{
+  "id": "enchant_mora",
+  "title": "⚒ 모라 마을",
+  "summary": "모라 주화를 이용하여 다양한 장비에 인챈트를 부여할 수 있는 시스템입니다.",
+  "keywords": [
+    "모라",
+    "모라 마을",
+    "모라 주화",
+    "모라 인챈트",
+    "우르의 인장",
+    "흰날개의 브로치"
+  ],
+  "tags": [
+    "인챈트",
+    "모라",
+    "모라주화"
+  ],
+  "breadcrumb": [
+    {
+      "text": "홈",
+      "target": "home"
+    },
+    {
+      "text": "인챈트 가이드"
+    },
+    {
+      "text": "모라 마을"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "모라 마을"
+    },
+    {
+      "type": "text",
+      "text": "모라 주화를 사용하여 다양한 장비에 인챈트를 부여할 수 있는 시스템입니다."
+    },
+    {
+      "type": "heading",
+      "text": "목차"
+    },
+    {
+      "type": "link",
+      "text": "콘텐츠 소개",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "필요 재료",
+      "target": "#need"
+    },
+    {
+      "type": "link",
+      "text": "대상 장비",
+      "target": "#equipment"
+    },
+    {
+      "type": "link",
+      "text": "이동",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "참고 자료",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "콘텐츠 소개",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "모라 마을에서는 모라 주화를 사용하여 장비를 구매하고 다양한 인챈트를 진행할 수 있습니다."
+    },
+    {
+      "type": "text",
+      "text": "직업별 장비, 우르 장비, 흰날개 장비 등을 강화하는 핵심 인챈트 콘텐츠입니다."
+    },
+    {
+      "type": "heading",
+      "text": "필요 재료",
+      "anchor": "need"
+    },
+    {
+      "type": "notice",
+      "title": "모라 장비 구매",
+      "text": "모라 마을 인챈트 가능 장비는 모라 주화 10개로 교환할 수 있습니다."
+    },
+    {
+      "type": "text",
+      "text": "비숍의 치유의 빛 세트 등 랜덤 획득이 필요했던 장비도 원하는 장비를 직접 선택하여 구매할 수 있습니다."
+    },
+    {
+      "type": "notice",
+      "title": "인챈트 실패 제거",
+      "text": "2~4번째 슬롯 인챈트 시 발생하던 장비 파괴 및 인챈트 초기화 패널티가 제거되었습니다."
+    },
+    {
+      "type": "notice",
+      "title": "인챈트 한계치 통일",
+      "text": "모든 슬롯의 최대 인챈트 수치가 동일하게 적용됩니다."
+    },
+    {
+      "type": "text",
+      "text": "기존에는 슬롯 위치에 따라 인챈트 가능한 최대 수치가 달랐지만, 이제는 가장 높은 수치의 인챈트를 모든 슬롯에서 획득할 수 있습니다."
+    },
+    {
+      "type": "text",
+      "text": "예를 들어 [ITEM:2883|우르의 인장], [ITEM:2890|흰날개의 브로치] 등은 SP 150 옵션을 여러 슬롯에 부여할 수 있습니다."
+    },
+    {
+      "type": "heading",
+      "text": "대상 장비",
+      "anchor": "equipment"
+    },
+    {
+      "type": "text",
+      "text": "모라 마을 인챈트 가능 장비는 모라 주화 10개로 교환할 수 있습니다."
+    },
+    {
+      "type": "heading",
+      "text": "이동",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:lasa_in01,167,48,모라 인챈트 NPC]"
+    },
+    {
+      "type": "heading",
+      "text": "참고 자료",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "iRO Wiki - Mora Enchants",
+          "url": "https://irowiki.org/wiki/Mora_Enchants"
+        }
+      ]
+    }
+  ]
+}

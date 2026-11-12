@@ -1,0 +1,36 @@
+{
+  "id": "enchant_rockridge",
+  "title": "🔒 Rock Ridge",
+  "summary": "An enchant system planned for a future update.",
+  "keywords": [
+    "락 릿지",
+    "인챈트"
+  ],
+  "tags": [
+    "planned",
+    "enchant"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant"
+    },
+    {
+      "text": "Rock Ridge"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Rock Ridge"
+    },
+    {
+      "type": "notice",
+      "title": "Planned Update",
+      "text": "It will be added with a future episode update."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "equipment_event",
+  "title": "Event Equipment",
+  "summary": "Equipment you can get from events.",
+  "keywords": [
+    "이벤트",
+    "이벤트 장비"
+  ],
+  "tags": [
+    "장비",
+    "이벤트"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Equipment Guide",
+      "target": "equipment_main"
+    },
+    {
+      "text": "Equipment by Content",
+      "target": "equipment_content"
+    },
+    {
+      "text": "Event Equipment"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Event Equipment"
+    },
+    {
+      "type": "notice",
+      "title": "Coming Soon",
+      "text": "Event equipment information will be added in a future update."
+    }
+  ]
+}

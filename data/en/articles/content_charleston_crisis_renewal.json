@@ -1,0 +1,76 @@
+{
+  "id": "content_charleston_crisis_renewal",
+  "title": "Memorial Dungeon - Charleston in Distress (Renewal)",
+  "summary": "Walkthrough and rewards for the Charleston in Distress (Renewal) Memorial Dungeon.",
+  "keywords": [
+    "위기의 찰스턴",
+    "찰스턴",
+    "찰스턴 리뉴얼",
+    "메모리얼 던전",
+    "공략"
+  ],
+  "tags": [
+    "콘텐츠",
+    "메모리얼 던전",
+    "공략"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Content Guide",
+      "target": "content_main"
+    },
+    {
+      "text": "Charleston in Distress (Renewal)"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Charleston in Distress (Renewal)"
+    },
+    {
+      "type": "image",
+      "path": "en/content/charleston_crisis_renewal1.66661f608eba.jpg",
+      "compact": true
+    },
+    {
+      "type": "image",
+      "path": "en/content/charleston_crisis_renewal2.4ba4d32a22d0.jpg",
+      "compact": true
+    },
+    {
+      "type": "image",
+      "path": "en/content/charleston_crisis_renewal3.ac94cc9ae79f.jpg",
+      "compact": true
+    },
+    {
+      "type": "image",
+      "path": "en/content/charleston_crisis_renewal4.12322252e3fa.jpg",
+      "compact": true
+    },
+    {
+      "type": "image",
+      "path": "en/content/charleston_crisis_renewal5.e4e16f05f2d5.jpg",
+      "compact": true
+    },
+    {
+      "type": "image",
+      "path": "en/content/charleston_crisis_renewal6.9e7cc322b68a.jpg",
+      "compact": true
+    },
+    {
+      "type": "image",
+      "path": "en/content/charleston_crisis_renewal7.b4a197a24da2.jpg",
+      "compact": true
+    },
+    {
+      "type": "image",
+      "path": "en/content/charleston_crisis_renewal8.d69d77bfbcbc.jpg",
+      "compact": true
+    }
+  ]
+}

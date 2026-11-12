@@ -1,0 +1,72 @@
+{
+  "id": "equipment_memorial",
+  "title": "메모리얼 던전 장비",
+  "summary": "메모리얼 던전에서 획득 가능한 주요 아이템과 장비 정보를 확인할 수 있습니다.",
+  "keywords": ["메모리얼 던전", "장비", "아이템", "카드", "인챈트"],
+  "tags": ["장비", "메모리얼 던전"],
+  "breadcrumb": [
+    { "text": "홈", "target": "home" },
+    { "text": "장비 가이드", "target": "equipment_main" },
+    { "text": "콘텐츠별 장비", "target": "equipment_content" },
+    { "text": "메모리얼 던전" }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "메모리얼 던전 장비"
+    },
+    {
+      "type": "text",
+      "text": "메모리얼 던전에서 획득 가능한 주요 아이템과 장비 정보를 에피소드 순서로 정리했습니다."
+    },
+    {
+      "type": "table",
+      "headers": ["메모리얼 이름", "EP", "입장 레벨", "주요 아이템", "문서"],
+      "widths": ["20%", "5%", "15%", "40%", "20%"],
+      "rows": [
+        ["바포메트 봉인 신전", "12", "75+", "[ITEM:4147|바포메트 카드]\n[ITEM:6004|마력이 깃든 바포메트 인형]\n[ITEM:1181|태구련]", "[LINK:content_baphomet_shrine|바로가기]"],
+        ["니드호그의 둥지", "13.2", "70+", "[ITEM:4456|니드호그의 그림자 카드]\n[ITEM:2554|대행자의 껍질 조각]", ""],
+        ["보르세브 연구실", "14.1", "80+", "[ITEMGROUP:Lhz_boss_card|생던 진보 카드]\n[ITEM:12623|고급 무기 상자]\n[ITEM:18570|고대의 금장식]", "[LINK:content_werner_lab|바로가기]"],
+        ["벙웅곳 병원 2층", "14.1", "100+", "[ITEM:6517|벙웅곳 인형]\n[ITEM:6524|벙웅곳의 영혼 조각]\n[ITEM:4590|벙웅곳 카드]", "[LINK:content_bangungot_2f|바로가기]"],
+        ["부여워 동굴", "14.1", "130+", "[ITEM:6518|부워여 인형]\n[ITEM:6525|부워여의 영혼 조각]\n[ITEM:4592|부워여 카드]", "[LINK:content_buwaya_cave|바로가기]"],
+        ["버코너워 호수", "14.1", "140+", "[ITEM:6516|버코너워 인형]\n[ITEM:6523|버코너워의 영혼 조각]\n[ITEM:4591|버코너워 카드]", "[LINK:content_bakonawa_lake|바로가기]"],
+
+        ["옛 글래스트 헤임(일반)", "14.2", "130+", "[ITEM:6608|응고된 마력]\n[ITEM:6607|시간의 결정]\n[ITEM:4603|타락한 뿌리 카드]\n[ITEM:4601|암다라이스 카드]\n[ITEMGROUP:Time_boots|시간의 부츠 시리즈]", "[LINK:content_old_glast_heim|바로가기]"],
+        ["게펜 마법 대회", "14.2", "90+", "[ITEM:6671|게펜 마법대회 주화]\n[ITEM:15074|게펜 매직 로브]\n[ITEM:15073|안티 매직 슈츠]\n[ITEM:4556|펜릴 카드]", "[LINK:content_geffen_magic_tournament|바로가기]"],
+        ["저주의 검사", "14.2", "120+", "[ITEMGROUP:Gray_of_equips|흙빛 시리즈]\n[ITEMGROUP:Tanos_weapons|타노스 시리즈]", "[LINK:content_cursed_swordsman|바로가기]"],
+        ["마신의 탑", "14.2", "130+", "[ITEMGROUP:Demon_equips|마신 시리즈]", "[LINK:content_demon_god_tower|바로가기]"],
+        ["페이스웜의 둥지", "14.2", "140+", "[ITEM:20717|거신뱀의 껍질[0]]\n[ITEM:20718|거신뱀의 껍질[1]]\n[ITEM:13090|페이스웜 퀸의 다리]\n[ITEM:27164|페이스웜 퀸 카드]", "[LINK:content_faceworm_nest|바로가기]"],
+        ["호러 장난감 공장", "14.2", "140+", "[ITEM:7642|피묻은 코인]\n[ITEM:2978|상냥한 마음]\n[ITEM:2977|상처받은 마음]\n[ITEM:450179|셀린느의 드레스]\n[ITEM:18849|셀린느의 리본]\n[ITEM:2980|악령의 실]\n[ITEM:32237|셀린느의 브로치]\n[ITEM:2976|붉은 랜턴]\n[ITEM:31023|셀린느 키미 카드]", "[LINK:horror_toy_factory|바로가기]"],
+        ["옛 글래스트 헤임(상급)", "14.2", "160+", "[ITEM:6755|오염된 마력]\n[ITEM:6607|시간의 결정]\n[ITEM:4604|각성 타락한 뿌리 카드]\n[ITEM:4602|각성 암다라이스 카드]\n[ITEMGROUP:Time_boots_|시간의 부츠 시리즈(슬롯)]", "[LINK:content_old_glast_heim|바로가기]"],
+
+        ["악몽의 지터벅", "14.3", "120+", "[ITEM:6719|지터벅의 이빨]\n[ITEM:18122|거궁]\n[ITEM:18123|폭풍의활]\n[ITEM:2992|펜던트 오브 마엘스트롬]\n[ITEM:2990|펜던트 오브 하모니]\n[ITEM:2991|펜던트 오브 카오스]\n[ITEM:27109|지터벅 카드]\n[ITEM:27106|각성한 페르 카드]", "[LINK:content_demon_god_temple_nightmare_jitterbug|바로가기]"],
+        ["비오스의 섬", "14.3", "160+", "[ITEM:6684|용사의 증표]\n[ITEMGROUP:Hero_equips|용사 시리즈]", "[LINK:content_bios_mors|바로가기]"],
+        ["모르스의 동굴", "14.3", "160+", "[ITEM:6684|용사의 증표]\n[ITEMGROUP:Hero_equips|용사 시리즈]", "[LINK:content_bios_mors|바로가기]"],
+        ["마신전", "14.3", "160+", "[ITEM:4908|마신의 정수]\n[ITEM:6715|마신의 영혼조각]\n[ITEM:27324|브리나라레아 카드]\n[ITEM:27325|무스펠스콜 카드]\n[ITEM:27321|절망의 신 모로크 카드]", "[LINK:content_demon_god_temple_nightmare_jitterbug|바로가기]"],
+
+        ["비공정 습격", "15.1", "125+", "[ITEMGROUP:Airship_equips|비공정 시리즈]\n[ITEMGROUP:Felock_equips|펠록 시리즈]", "[LINK:content_fenrir_and_airship|바로가기]"],
+        ["위기의 찰스턴", "15.1", "130+", "[ITEM:6752|찰스턴 부품]\n[ITEM:16033|로봇의 기계팔]", "[LINK:content_charleston_crisis|바로가기]"],
+        ["펜릴과 사라", "15.1", "145+", "[ITEM:4610|사라 카드]\n[ITEM:15121|사라의 전투로브]\n[ITEM:28310|사라의 귀걸이]\n[ITEM:6803|기간테스의 파편]", "[LINK:content_fenrir_and_airship|바로가기]"],
+
+        ["무한의 공간", "15.2", "100+", "[ITEM:6905|부서진 마법석]\n[ITEMGROUP:Goddess_equips|균열 시리즈 장비]\n[ITEMGROUP:Infinite_equips|무한 시리즈 장비]\n[ITEMGROUP:Infinite_cards|무한의 보스 카드]", "[LINK:content_infinite_space|바로가기]"],
+        ["중앙 실험실", "15.2", "140+", "보스 카드", "[LINK:content_verus_lab_lastroom|바로가기]"],
+        ["마지막 방", "15.2", "150+", "[ITEM:18997|폭주하는 칩]\n[ITEM:28326|부러진 칩 01]\n[ITEM:28327|부러진 칩 02]", "[LINK:content_verus_lab_lastroom|바로가기]"],
+
+        ["의식의 방", "16.1", "100+", "[ITEM:6919|명예의 증표]\n[ITEM:4636|비쥬 카드]", "[LINK:content_room_of_consciousness|바로가기]"],
+        ["공중요새 침공", "16.1", "145+", "[ITEM:28010|줄리엣 디 레이첼]\n[ITEM:21018|린디합]\n[ITEM:2027|해바라기 소년]\n[ITEMGROUP:Sinister_equips|사념 시리즈]", "[LINK:content_air_fortress_assault|바로가기]"],
+
+        ["금요일 던전", "16.2", "99+", "[ITEM:25235|세공용 원석]\n[ITEM:28483|왕의 수호 반지]", "[LINK:content_friday_dungeon|바로가기]"],
+        ["하트헌터 기지외곽", "16.2", "100+", "[ITEM:13460|봉인된 매직 소드]\n[ITEM:13461|봉인된 이블 소드]\n[ITEM:13462|봉인된 맥시멈 소드]\n[ITEM:27151|이블 카드]", "[LINK:content_hunter_base_outskirts|바로가기]"],
+        ["베르너 연구소 중추실", "16.2", "100+", "[ITEM:28913|초경량 매직 쉴드]", "[LINK:content_verner_core|바로가기]"],
+        ["위기의 찰스턴 리뉴얼", "16.2", "130+", "[ITEM:6752|찰스턴 부품]\n[ITEM:16033|로봇의 기계팔]", "[LINK:content_charleston_crisis_renewal|바로가기]"],
+
+        ["오스 2차 수색", "17.1", "110+", "[ITEMGROUP:Illusion_equips|일루시온 시리즈]\n[ITEM:27318|미구엘 카드]", "[LINK:content_os_cor_memorial|바로가기]"],
+        ["코르 메모리얼", "17.1", "110+", "[ITEMGROUP:OS_equips|OS 무기 시리즈]\n[ITEM:27305|EL-A17T 카드]", "[LINK:content_os_cor_memorial|바로가기]"],
+        ["EDDA 글래스트 헤임(일반)", "17.1", "130+", "[ITEM:25739|저주에 잠식 원석]\n[ITEM:15388|국왕 슈미츠의 제복]\n[ITEM:15389|국왕 슈미츠의 망토]\n[ITEMGROUP:Temporal_M|시간의 망토 시리즈]\n[ITEM:27329|저주를 삼킨 왕 카드]", "[LINK:content_edda_gh|바로가기]"],
+        ["EDDA 글래스트 헤임(상급)", "17.1", "170+", "[ITEM:25740|저주에 침식된 원석]\n[ITEM:15388|국왕 슈미츠의 제복]\n[ITEM:15389|국왕 슈미츠의 망토]\n[ITEMGROUP:Schmidt_Insignia_equips|국왕 슈미츠 휘장 시리즈]\n[ITEM:27329|저주를 삼킨 왕 카드]", "[LINK:content_edda_gh|바로가기]"],
+        ["EDDA 생체연구소", "17.1", "170+", "[ITEM:25786|생체 연구 서류]\n[ITEM:25787|생체 실험 파편]\n[ITEM:19439|사념의 오오라]\n[ITEMGROUP:Bio_W_equips|EDDA 생체연구소 무기 시리즈]\n[ITEM:300266|무명의 검사 카드]", "[LINK:content_edda_biolab|바로가기]"],
+        ["옛 글래스트 헤임(도전)", "17.1", "170+", "[ITEM:25867|시간의 파편]\n[ITEM:25865|시간의 보석 원석]\n[ITEM:25866|시간의 마력]\n[ITEMGROUP:Circlet_Of_Time_equips|시간의 서클릿 시리즈]\n[ITEMGROUP:R_Weapons|로얄 무기]\n[ITEMGROUP:G_Weapons|가디언 무기]\n[ITEM:27381|히멜메즈의 환영 카드]\n[ITEM:27383|암다라이스의 환영 카드]\n[ITEM:27382|타락중인 뿌리 카드]", "[LINK:content_old_gh_challenge|바로가기]"]
+      ]
+    }
+  ]
+}

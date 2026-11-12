@@ -1,0 +1,93 @@
+{
+  "id": "faq_main",
+  "title": "Frequently Asked Questions",
+  "summary": "Frequently asked questions and answers about the NEED server.",
+  "keywords": [
+    "FAQ",
+    "질문",
+    "도움말",
+    "가이드"
+  ],
+  "tags": [
+    "FAQ",
+    "도움말"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "FAQ"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "type": "text",
+      "text": "Common questions from players on the NEED server."
+    },
+    {
+      "type": "heading",
+      "text": "FAQ Sections"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Section",
+        "Description"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "[LINK:faq_beginner|FAQ for New and Returning Players]",
+          "For players who are new or coming back"
+        ],
+        [
+          "[LINK:faq_common|General FAQ]",
+          "Common questions about playing the game"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Need help?",
+      "text": "If the FAQ does not answer your question, check the Server Roadmap, Content Guide, Equipment Guide and Costume Guide."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Recommended Page",
+        "Description"
+      ],
+      "widths": [
+        "40%",
+        "60%"
+      ],
+      "rows": [
+        [
+          "[LINK:roadmap_main|Server Roadmap]",
+          "The current server stage and upcoming content"
+        ],
+        [
+          "[LINK:content_main|Content Guide]",
+          "Main content and how to progress"
+        ],
+        [
+          "[LINK:equipment_main|Equipment Guide]",
+          "Equipment by content and progression"
+        ],
+        [
+          "[LINK:costume_system|Costume System]",
+          "The Costume Album and Wardrobe systems"
+        ]
+      ]
+    }
+  ]
+}

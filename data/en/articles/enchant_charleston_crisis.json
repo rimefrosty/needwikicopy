@@ -1,0 +1,409 @@
+{
+  "id": "enchant_charleston_crisis",
+  "title": "Charleston in Distress",
+  "summary": "An equipment enchant system that uses Charleston Components and Zeny to add special enchants to Charleston equipment.",
+  "keywords": [
+    "위기의 찰스턴",
+    "찰스턴",
+    "찰스턴 인챈트",
+    "베루스 인챈트",
+    "Verus Enchants",
+    "찰스턴 부품",
+    "양산형 찰스턴",
+    "인챈트"
+  ],
+  "tags": [
+    "인챈트",
+    "찰스턴",
+    "베루스",
+    "장비"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant"
+    },
+    {
+      "text": "Charleston in Distress"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Charleston in Distress"
+    },
+    {
+      "type": "text",
+      "text": "A system that uses [ITEM:6752|Charleston Component] and Zeny to add special enchants to the equipment produced by the Charleston Factory."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Overview",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "How It Works",
+      "target": "#process"
+    },
+    {
+      "type": "link",
+      "text": "Enchant Targets",
+      "target": "#target"
+    },
+    {
+      "type": "link",
+      "text": "Categories by Equipment",
+      "target": "#type"
+    },
+    {
+      "type": "link",
+      "text": "Enchants by Category",
+      "target": "#enchant-list"
+    },
+    {
+      "type": "link",
+      "text": "Reset",
+      "target": "#reset"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "link",
+      "text": "Location",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "References",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "Overview",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "Charleston in Distress equipment enchants apply to the Charleston Factory equipment."
+    },
+    {
+      "type": "text",
+      "text": "The selectable enchant categories depend on the equipment type, and some equipment refined to +9 or higher can choose between the basic and the advanced category."
+    },
+    {
+      "type": "heading",
+      "text": "How It Works",
+      "anchor": "process"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "NPC",
+          "Mass Charleston"
+        ],
+        [
+          "Location",
+          "[NAVI:lasa_in01,187,47,Mass Charleston]"
+        ],
+        [
+          "Materials Used",
+          "1 [ITEM:6752|Charleston Component] + 100,000 Zeny per attempt"
+        ],
+        [
+          "Reset Cost",
+          "1 [ITEM:6752|Charleston Component] + 100,000 Zeny"
+        ],
+        [
+          "Enchant Order",
+          "Slot order 4 → 3 → 2"
+        ],
+        [
+          "Enchants (Normal Equipment)",
+          "Up to 3"
+        ],
+        [
+          "Enchants (Accessories)",
+          "Up to 2"
+        ],
+        [
+          "Refine Level / Cards",
+          "Enchanting and resetting keep the equipment's refine level and normal cards"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "+9 Equipment Bonus",
+      "text": "Charleston equipment refined to +9 or higher can choose an advanced enchant category, depending on the equipment."
+    },
+    {
+      "type": "heading",
+      "text": "Enchant Targets",
+      "anchor": "target"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Category",
+        "Eligible Equipment",
+        "Enchants"
+      ],
+      "rows": [
+        [
+          "Armor",
+          "[ITEM:15111|Upgrade Part - Plate], [ITEM:15110|Supplement Part STR]",
+          "Up to 3"
+        ],
+        [
+          "Garment",
+          "[ITEM:20733|Upgrade Part - Engine], [ITEM:20732|Supplement Part VIT]",
+          "Up to 3"
+        ],
+        [
+          "Shoes",
+          "[ITEM:22044|Upgrade Part - Booster], [ITEM:22043|Supplement Part AGI]",
+          "Up to 3"
+        ],
+        [
+          "Accessory",
+          "[ITEM:2996|Upgrade Part - Gun Barrel], [ITEM:2995|Supplement Part DEX]",
+          "Up to 2"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Categories by Equipment",
+      "anchor": "type"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Equipment",
+        "Basic Category",
+        "Selectable at +9 or Higher"
+      ],
+      "rows": [
+        [
+          "[ITEM:15111|Upgrade Part - Plate]",
+          "Acceleration Enhancement",
+          "Attack Enhancement"
+        ],
+        [
+          "[ITEM:15110|Supplement Part STR]",
+          "Acceleration Enhancement",
+          "Defense Enhancement"
+        ],
+        [
+          "[ITEM:20733|Upgrade Part - Engine]",
+          "Garment Upgrade",
+          "Advanced Garment Upgrade"
+        ],
+        [
+          "[ITEM:20732|Supplement Part VIT]",
+          "Garment Upgrade",
+          "Advanced Garment Upgrade"
+        ],
+        [
+          "[ITEM:22044|Upgrade Part - Booster]",
+          "Shoes Upgrade",
+          "Advanced Shoes Upgrade"
+        ],
+        [
+          "[ITEM:22043|Supplement Part AGI]",
+          "Shoes Upgrade",
+          "Advanced Shoes Upgrade"
+        ],
+        [
+          "[ITEM:2996|Upgrade Part - Gun Barrel]",
+          "Accessory Upgrade",
+          "Same"
+        ],
+        [
+          "[ITEM:2995|Supplement Part DEX]",
+          "Accessory Upgrade",
+          "Same"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Enchants by Category",
+      "anchor": "enchant-list"
+    },
+    {
+      "type": "notice",
+      "title": "About the List",
+      "text": "The list below only shows the options the actual enchant roll code can give as a successful result. Failure and equipment destruction results are left out."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Category",
+        "Available Options"
+      ],
+      "rows": [
+        [
+          "Attack Enhancement",
+          "STR 1~3, DEX 1~3, Expert Archer 1~3, Fighting Spirit 1~3"
+        ],
+        [
+          "Defense Enhancement",
+          "VIT 1~3, DEF 3/6/9, Neutral Resistance 1~3, Max HP 1~3%"
+        ],
+        [
+          "Acceleration Enhancement",
+          "Evasion, LUK 1~3, After Attack Delay reduction, AGI 1~3"
+        ],
+        [
+          "Garment Upgrade",
+          "STR 1~2, DEX 1~2, AGI 1~2, VIT 1~2, LUK 1~2, INT 1~2, Expert Archer 1"
+        ],
+        [
+          "Advanced Garment Upgrade",
+          "STR 2~3, DEX 2~3, AGI 2~3, VIT 2~3, LUK 2~3, INT 2~3, Expert Archer 2~3"
+        ],
+        [
+          "Shoes Upgrade",
+          "STR 1~2, AGI 1~2, VIT 1~2, DEX 1~2, LUK 1~2, Spell 1, ASPD 1"
+        ],
+        [
+          "Advanced Shoes Upgrade",
+          "STR 2~3, AGI 2~3, VIT 2~3, DEX 2~3, LUK 2~3, Spell 2, ASPD 2"
+        ],
+        [
+          "Accessory Upgrade",
+          "STR 1~2, AGI 1~2, VIT 1~2, INT 1~2, DEX 1~2, Spell 1~2, ASPD 1"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Risk by Slot",
+      "anchor": "risk"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Step",
+        "Slot",
+        "Result"
+      ],
+      "rows": [
+        [
+          "1st",
+          "Slot 4",
+          "An enchant is added on success"
+        ],
+        [
+          "2nd",
+          "Slot 3",
+          "On failure, this slot may get no enchant"
+        ],
+        [
+          "3rd",
+          "Slot 2",
+          "Failure or equipment destruction possible"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Accessory Limit",
+      "text": "Upgrade Part - Gun Barrel and Supplement Part DEX are accessories, so they can get at most 2 enchants."
+    },
+    {
+      "type": "heading",
+      "text": "Reset",
+      "anchor": "reset"
+    },
+    {
+      "type": "text",
+      "text": "Enchants on Charleston equipment are reset by the same NPC."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Reset Cost",
+          "1 [ITEM:6752|Charleston Component] + 100,000 Zeny"
+        ],
+        [
+          "Reset Target",
+          "The equipped Charleston equipment"
+        ],
+        [
+          "Reset Scope",
+          "The enchant options on the equipment are removed"
+        ],
+        [
+          "Kept",
+          "Refine level and normal cards are kept"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "Equip the Item First",
+      "text": "Enchanting and resetting are done on equipment you are wearing. The target equipment must be equipped in the chosen slot."
+    },
+    {
+      "type": "notice",
+      "title": "3rd Enchant Can Destroy",
+      "text": "The 3rd enchant on normal equipment can destroy it, so proceed carefully."
+    },
+    {
+      "type": "notice",
+      "title": "Check Materials First",
+      "text": "Both enchanting and resetting need 1 [ITEM:6752|Charleston Component] and 100,000 Zeny."
+    },
+    {
+      "type": "heading",
+      "text": "Location",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:lasa_in01,187,47,Mass Charleston]"
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "iRO Wiki - Verus Enchants",
+          "url": "https://irowiki.org/wiki/Verus_Enchants"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+    "id": "content_os_cor_memorial",
+    "title": "메모리얼 던전 - 오스 2차 수색 | 코르 메모리얼",
+    "summary": "오스 2차 수색, 코르 메모리얼과 신규 장비 정보를 확인할 수 있습니다.",
+    "keywords": [
+        "오스 2차 수색",
+        "코르 메모리얼",
+        "일루시온",
+        "신규 장비",
+        "신규 인챈트"
+    ],
+    "tags": [
+        "콘텐츠",
+        "메모리얼 던전",
+        "일루시온"
+    ],
+    "breadcrumb": [
+        {
+            "text": "홈",
+            "target": "home"
+        },
+        {
+            "text": "콘텐츠 가이드",
+            "target": "content_main"
+        },
+        {
+            "text": "오스 2차 수색 | 코르 메모리얼"
+        }
+    ],
+    "blocks": [
+        {
+            "type": "heading",
+            "text": "오스 2차 수색 | 코르 메모리얼"
+        },
+        {
+            "type": "tabs",
+            "items": [
+                {
+                    "title": "오스 2차 수색",
+                    "blocks": [
+                        {
+                            "type": "image",
+                            "path": "content/os_second_search.jpg",
+                            "compact": true
+                        }
+                    ]
+                },
+                {
+                    "title": "코르 메모리얼",
+                    "blocks": [
+                        {
+                            "type": "image",
+                            "path": "content/cor_memorial1.jpg",
+                            "compact": true
+                        }
+                    ]
+                },
+                {
+                    "title": "신규 아이템",
+                    "blocks": [
+                        {
+                            "type": "image",
+                            "path": "content/os_item1.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/os_item2.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/os_item3.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/os_item4.jpg",
+                            "compact": true
+                        }
+                    ]
+                },
+                {
+                    "title": "신규 장비 인챈트 및 랜덤 옵션 안내",
+                    "blocks": [
+                        {
+                            "type": "image",
+                            "path": "content/os_enchant1.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/os_enchant2.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/os_enchant3.jpg",
+                            "compact": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

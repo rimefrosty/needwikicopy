@@ -1,0 +1,197 @@
+{
+  "id": "egg_2026_06_WOLFKING_SCROLL",
+  "title": "King Wolf Scroll",
+  "summary": "Contents and drop rates of the King Wolf Scroll",
+  "keywords": [
+    "행운의 알",
+    "캐시",
+    "확률",
+    "의상",
+    "인챈트 스톤"
+  ],
+  "tags": [
+    "행운의알",
+    "캐시",
+    "확률"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Lucky Egg"
+    },
+    {
+      "text": "King Wolf Scroll"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "King Wolf Scroll"
+    },
+    {
+      "type": "text",
+      "text": "The contents and drop rates of the King Wolf Scroll."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Sale Information",
+      "target": "#info"
+    },
+    {
+      "type": "link",
+      "text": "Box Contents",
+      "target": "#items"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "heading",
+      "text": "Sale Information",
+      "anchor": "info"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Sales Period",
+          "2026-07-18 ~ 2026-08-01"
+        ],
+        [
+          "Price",
+          "1,000 Cash each"
+        ],
+        [
+          "Item Used",
+          "[ITEM:22510|King Wolf Scroll]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Box Contents",
+      "anchor": "items"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Item",
+        "Rate"
+      ],
+      "rows": [
+        [
+          "[BADGE:HOT][ITEM:6238|Safe to 11 Weapon Certificate]",
+          "0.01%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6239|Safe to 11 Armor Certificate]",
+          "0.01%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:12246|Mystical Card Album]",
+          "0.05%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:5498|Wandering Wolf King Helmet]",
+          "0.75%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:5658|Imp Hat]",
+          "0.75%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6635|Blacksmith's Blessing]",
+          "5.00%"
+        ],
+        [
+          "[ITEM:6230|Safe to 7 Weapon Certificate]",
+          "0.34%"
+        ],
+        [
+          "[ITEM:6234|Safe to 7 Armor Certificate]",
+          "0.34%"
+        ],
+        [
+          "[ITEM:6396|Spiritual Auger]",
+          "1.00%"
+        ],
+        [
+          "[ITEM:19598|Costume Wandering Wolf King Helmet]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:19599|Costume Imp Hat]",
+          "1.50%"
+        ],
+        [
+          "[ITEM:399992|NEED Rebirth Ticket]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:12691|Armor Card Album]",
+          "2.50%"
+        ],
+        [
+          "[ITEM:12692|Shield Card Album]",
+          "2.50%"
+        ],
+        [
+          "[ITEM:604|Dead Branch]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:12609|Old Ore Box]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:12550|Poison Bottle Box]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:7444|Treasure Box]",
+          "10.00%"
+        ],
+        [
+          "[ITEM:12549|White Slim Potion Box(100)]",
+          "11.75%"
+        ],
+        [
+          "[ITEM:12263|[NotForSale] Battle Manual]",
+          "15.00%"
+        ],
+        [
+          "[ITEM:12264|[NotForSale] Bubble Gum]",
+          "15.00%"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "About the Rates",
+      "text": "Rates are shown with decimals and may change with updates."
+    },
+    {
+      "type": "notice",
+      "title": "Badges",
+      "text": "[BADGE:NEW] marks a new item, [BADGE:HOT] a popular item and [BADGE:EVENT] an event-only reward."
+    }
+  ]
+}

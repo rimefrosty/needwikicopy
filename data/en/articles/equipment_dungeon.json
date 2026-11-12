@@ -1,0 +1,131 @@
+{
+  "id": "equipment_dungeon",
+  "title": "Regular Dungeon Equipment",
+  "summary": "The main items and equipment from regular dungeons.",
+  "keywords": [
+    "일반 던전",
+    "장비",
+    "카드",
+    "파밍"
+  ],
+  "tags": [
+    "장비",
+    "일반 던전"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Equipment Guide",
+      "target": "equipment_main"
+    },
+    {
+      "text": "Equipment by Content",
+      "target": "equipment_content"
+    },
+    {
+      "text": "Regular Dungeons"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Regular Dungeon Equipment"
+    },
+    {
+      "type": "text",
+      "text": "The main equipment, materials and cards from regular dungeons, in episode order."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Content",
+        "EP",
+        "Entry Level",
+        "Key Items",
+        "Page"
+      ],
+      "widths": [
+        "20%",
+        "8%",
+        "10%",
+        "47%",
+        "15%"
+      ],
+      "rows": [
+        [
+          "Tomb of the Fallen",
+          "15.1",
+          "175+",
+          "[ITEM:20748|Fallen Warrior Manteau [0]]\n[ITEM:20749|Fallen Warrior Manteau [1]]\n[ITEM:18971|Old Rune Circlet [1]]\n[ITEM:18972|Old Mitra]\n[ITEM:18973|Old Driver Band]\n[ITEM:18974|Old Driver Band(Yellow)]\n[ITEM:18975|Old Shadow Handicraft [1]]\n[ITEM:18976|Old Minstrel Song's Hat [1]]\n[ITEM:18977|Old Midas Whisper [1]]\n[ITEM:18978|Old Magic Stone Hat [1]]\n[ITEM:18979|Old Blazing Soul [1]]\n[ITEM:18980|Old Wind Whisper [1]]\n[ITEM:18981|Old Dying Swan [1]]\n[ITEM:18982|Old Bone Circlet [1]]\n[ITEM:18983|Old Crown of Guardian [1]]\n[ITEM:18984|Old Camouflage Rabbit Hood [1]]",
+          "[LINK:content_bio5|Open]"
+        ],
+        [
+          "Underground Bunker",
+          "15.2",
+          "160+",
+          "[ITEM:6962|Old Fuel Tank]\n[ITEM:27015|Repair Robot Turbo Card]\n[ITEM:27016|Exploration Rover Turbo Card]\n[ITEM:27017|Scrap Robot Card]",
+          ""
+        ],
+        [
+          "Prontera Prison Cell",
+          "16.1",
+          "140+",
+          "[ITEM:4638|Watcher Card]\n[ITEM:4639|Taffy Card]\n[ITEM:4640|Frozen Wolf Card]",
+          ""
+        ],
+        [
+          "Invaded Prontera",
+          "16.1",
+          "160+",
+          "[ITEM:4637|Immortal Corps Card]",
+          ""
+        ],
+        [
+          "Tomb of the Fallen (Renewal)",
+          "16.1",
+          "175+",
+          "[ITEM:0|Fallen Warrior Headgear Enchants]\n[ITEM:0|Tomb of the Fallen Monster Cards]",
+          "[LINK:content_bio5_rework|Open]"
+        ],
+        [
+          "Werner Research Institute",
+          "16.2",
+          "100+",
+          "[ITEM:1447|Poisonous Violence Spear]\n[ITEM:27150|Venom Enchanted Chimera Card]\n[ITEM:12246|Mystical Card Album]",
+          ""
+        ],
+        [
+          "Rock Ridge Mine",
+          "16.2",
+          "150+",
+          "[ITEM:0|Rock Ridge Equipment]\n[ITEM:27170|Shotgun Buffalo Bandit Card]\n[ITEM:27171|Revolver Buffalo Bandit Card]\n[ITEM:27172|Scimitar Buffalo Bandit Card]\n[ITEM:27173|Elite Shotgun Buffalo Bandit Card]\n[ITEM:27174|Elite Revolver Buffalo Bandit Card]\n[ITEM:27175|Elite Scimitar Buffalo Bandit Card]\n[ITEM:27180|Spider Tank Card]",
+          "[LINK:content_rock_ridge|Open]"
+        ],
+        [
+          "Einbech Mine F3",
+          "17.1",
+          "190+",
+          "[ITEM:0|Einbech Mine Equipment]\n[ITEM:25814|Dynite]\n[ITEM:9514|Physical Modification Permit]\n[ITEM:9529|Magical Modification Permit]\n[ITEM:300005|Abyssman Card]\n[ITEM:300002|Toxious Card]\n[ITEM:300001|Poisonous Card]\n[ITEM:300003|White Porcellio Card]\n[ITEM:300007|Jeweled Ungoliant Card]\n[ITEM:300006|Jewelry Ant Card]\n[ITEM:300004|Neo Mineral Card]",
+          "[LINK:content_mine_dungeon_3f|Open]"
+        ],
+        [
+          "Ancient Odin Temple",
+          "17.1",
+          "200+",
+          "[ITEM:0|Ancient Odin Temple Equipment]\n[ITEM:23986|Odin Relics]\n[ITEM:300013|Reginleif Card]\n[ITEM:300014|Ingrid Card]\n[ITEM:300009|Spectrum Plasma Card]\n[ITEM:300010|Arch Plasma Card]\n[ITEM:300008|Angelgolt Card]\n[ITEM:300012|Holy Skogul Card]\n[ITEM:300011|Holy Frus Card]",
+          "[LINK:content_old_odin|Open]"
+        ],
+        [
+          "Abyss Lake Underground Cave F4",
+          "17.1",
+          "200+",
+          "[ITEM:0|Abyss Lake Equipment]\n[ITEM:300021|Bone Detardeurus Card]\n[ITEM:300020|Bone Acidus Card]\n[ITEM:300019|Bone Ferus Card]\n[ITEM:300018|Silver Acidus Card]\n[ITEM:300017|Black Acidus Card]\n[ITEM:300015|Purple Ferus Card]\n[ITEM:300016|Treasure Mimic Card]\n",
+          "[LINK:content_abyss_lake_4f|Open]"
+        ]
+      ]
+    }
+  ]
+}

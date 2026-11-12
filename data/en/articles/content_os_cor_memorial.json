@@ -1,0 +1,106 @@
+{
+  "id": "content_os_cor_memorial",
+  "title": "Memorial Dungeon - 2nd OS Search | Cor Memorial",
+  "summary": "2nd OS Search, Cor Memorial and their new equipment.",
+  "keywords": [
+    "오스 2차 수색",
+    "코르 메모리얼",
+    "일루시온",
+    "신규 장비",
+    "신규 인챈트"
+  ],
+  "tags": [
+    "콘텐츠",
+    "메모리얼 던전",
+    "일루시온"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Content Guide",
+      "target": "content_main"
+    },
+    {
+      "text": "2nd OS Search | Cor Memorial"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "2nd OS Search | Cor Memorial"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "title": "2nd OS Search",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/os_second_search.2d26117264ae.jpg",
+              "compact": true
+            }
+          ]
+        },
+        {
+          "title": "Cor Memorial",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/cor_memorial1.f3b0db00a817.jpg",
+              "compact": true
+            }
+          ]
+        },
+        {
+          "title": "New Items",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/os_item1.dce380abc1cf.png",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/os_item2.ac1b547031ce.png",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/os_item3.fc9ef91089a8.png",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/os_item4.e6dca524ee24.png",
+              "compact": true
+            }
+          ]
+        },
+        {
+          "title": "New Equipment Enchants and Random Options",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/os_enchant1.675862718ed3.png",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/os_enchant2.1dc6a44bb871.png",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/os_enchant3.10c5d0616460.jpg",
+              "compact": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

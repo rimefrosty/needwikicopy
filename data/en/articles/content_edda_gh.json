@@ -1,0 +1,41 @@
+{
+  "id": "content_edda_gh",
+  "title": "Memorial Dungeon - EDDA: Fall of Glast Heim",
+  "summary": "Walkthrough images of the EDDA: Fall of Glast Heim Memorial Dungeon.",
+  "keywords": [
+    "EDDA 글래스트 헤임",
+    "EDDA",
+    "글래스트 헤임",
+    "메모리얼 던전",
+    "공략"
+  ],
+  "tags": [
+    "콘텐츠",
+    "메모리얼 던전",
+    "EDDA"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Content Guide",
+      "target": "content_main"
+    },
+    {
+      "text": "EDDA: Fall of Glast Heim"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "EDDA: Fall of Glast Heim"
+    },
+    {
+      "type": "image",
+      "path": "en/content/edda_gh1.da848961b45a.jpg",
+      "compact": true
+    }
+  ]
+}

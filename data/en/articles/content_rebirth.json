@@ -1,0 +1,291 @@
+{
+  "id": "content_rebirth",
+  "title": "NEED Rebirth System",
+  "summary": "An introduction to the NEED server's Rebirth System, built for long-term progression and collecting.",
+  "keywords": [
+    "환생",
+    "환생 시스템",
+    "환생 티켓",
+    "환생 보상",
+    "환생 의상"
+  ],
+  "tags": [
+    "콘텐츠",
+    "환생"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Content Guide",
+      "target": "content_main"
+    },
+    {
+      "text": "Rebirth System"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "NEED Rebirth System"
+    },
+    {
+      "type": "text",
+      "text": "The Rebirth System is long-term progression and collection content."
+    },
+    {
+      "type": "notice",
+      "title": "Goal of Rebirth",
+      "text": "Rebirth again and again to collect rare cosmetic rewards such as exclusive costumes, auras, titles and effects."
+    },
+    {
+      "type": "heading",
+      "text": "How It Works"
+    },
+    {
+      "type": "text",
+      "text": "Earn Cash by hunting or in Battlegrounds, spend it on Lucky Eggs and get Rebirth Tickets from them."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Step",
+        "Description"
+      ],
+      "widths": [
+        "50%",
+        "50%"
+      ],
+      "rows": [
+        [
+          "1",
+          "Earn Cash by hunting or in Battlegrounds"
+        ],
+        [
+          "2",
+          "Buy Lucky Eggs"
+        ],
+        [
+          "3",
+          "Get a Rebirth Ticket"
+        ],
+        [
+          "4",
+          "Rebirth"
+        ],
+        [
+          "5",
+          "Receive the rebirth rewards"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Base Rewards"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Condition",
+        "Rewards"
+      ],
+      "widths": [
+        "50%",
+        "50%"
+      ],
+      "rows": [
+        [
+          "Every rebirth",
+          "NEED Costume Box x10, Battle Manual X3 x1, Lucky Gold Coin Pouch x5 + (1 ~ 5)"
+        ],
+        [
+          "Extra bonus every 5 rebirths",
+          "HE Bubble Gum x1"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Cumulative Rebirth Rewards"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Rebirths",
+        "Rewards"
+      ],
+      "widths": [
+        "50%",
+        "50%"
+      ],
+      "rows": [
+        [
+          "50",
+          "Rebirth Effect Stone"
+        ],
+        [
+          "100",
+          "Rebirth Rare Costume (Upper)"
+        ],
+        [
+          "150",
+          "Rebirth Footprint Effect Stone"
+        ],
+        [
+          "200",
+          "Rebirth Rare Costume (Middle)"
+        ],
+        [
+          "250",
+          "Effect Stone Voucher"
+        ],
+        [
+          "300",
+          "Rebirth Rare Costume (Lower)"
+        ],
+        [
+          "350",
+          "Footprint Effect Stone Voucher"
+        ],
+        [
+          "400",
+          "Rebirth Rare Costume (Garment)"
+        ],
+        [
+          "500",
+          "Rebirth Aura"
+        ],
+        [
+          "750",
+          "Rebirth Title"
+        ],
+        [
+          "1000",
+          "Rebirth Effect"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Rebirth Effect Set"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Piece",
+        "Description"
+      ],
+      "widths": [
+        "50%",
+        "50%"
+      ],
+      "rows": [
+        [
+          "50-rebirth reward",
+          "Rebirth Effect Stone"
+        ],
+        [
+          "150-rebirth reward",
+          "Rebirth Footprint Effect Stone"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "text": "Wearing the full set activates the Rebirth Effect Set bonus."
+    },
+    {
+      "type": "heading",
+      "text": "Rebirth Rare Costume Set"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Piece",
+        "Description"
+      ],
+      "widths": [
+        "50%",
+        "50%"
+      ],
+      "rows": [
+        [
+          "100 rebirths",
+          "Upper"
+        ],
+        [
+          "200 rebirths",
+          "Middle"
+        ],
+        [
+          "300 rebirths",
+          "Lower"
+        ],
+        [
+          "400 rebirths",
+          "Garment"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "text": "Wearing the full set activates the Rebirth Rare Costume Set bonus."
+    },
+    {
+      "type": "heading",
+      "text": "Rebirth Master Set"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Piece",
+        "Description"
+      ],
+      "widths": [
+        "50%",
+        "50%"
+      ],
+      "rows": [
+        [
+          "500 rebirths",
+          "Aura"
+        ],
+        [
+          "750 rebirths",
+          "Title"
+        ],
+        [
+          "1000 rebirths",
+          "Effect"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "text": "Wearing the full set activates the Rebirth Master Set bonus."
+    },
+    {
+      "type": "heading",
+      "text": "Design Principles"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Rebirth rewards never include Cash.",
+        "Rebirth rewards never include Lucky Eggs.",
+        "The cycle stays Cash → Lucky Egg → Rebirth Ticket → Rebirth.",
+        "Major rewards are untradable or account-bound.",
+        "The more rebirths, the rarer and more eye-catching the cosmetic rewards.",
+        "Set bonuses favor looks, prestige and convenience over combat balance.",
+        "More rewards are planned beyond 1000 rebirths."
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Long-term content",
+      "text": "The Rebirth System is not meant to be finished quickly: it gives you a long-term progression goal."
+    }
+  ]
+}

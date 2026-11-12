@@ -1,0 +1,173 @@
+{
+  "id": "enchant_fallen_angel_wing",
+  "title": "⚒ 타락천사의 날개",
+  "summary": "타락천사의 날개에 다양한 능력치를 부여할 수 있는 인챈트 시스템입니다.",
+  "keywords": [
+    "타락천사의 날개",
+    "타천",
+    "타천 인챈트",
+    "히든 인챈트",
+    "제련도"
+  ],
+  "tags": [
+    "인챈트",
+    "타락천사의날개",
+    "걸칠것"
+  ],
+  "breadcrumb": [
+    {
+      "text": "홈",
+      "target": "home"
+    },
+    {
+      "text": "인챈트"
+    },
+    {
+      "text": "타락천사의 날개"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "타락천사의 날개"
+    },
+    {
+      "type": "text",
+      "text": "타락천사의 날개에 추가 능력치를 부여할 수 있는 인챈트 시스템입니다."
+    },
+    {
+      "type": "heading",
+      "text": "목차"
+    },
+    {
+      "type": "link",
+      "text": "콘텐츠 소개",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "인챈트 특징",
+      "target": "#feature"
+    },
+    {
+      "type": "link",
+      "text": "인챈트 옵션",
+      "target": "#option"
+    },
+    {
+      "type": "link",
+      "text": "주의사항",
+      "target": "#notice"
+    },
+    {
+      "type": "link",
+      "text": "이동",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "참고 자료",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "콘텐츠 소개",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "타락천사의 날개는 제련도에 따라 추가 히든 인챈트를 부여할 수 있는 대표적인 걸칠것 장비입니다."
+    },
+    {
+      "type": "text",
+      "text": "높은 제련도를 달성할수록 더 많은 히든 인챈트를 부여할 수 있습니다."
+    },
+    {
+      "type": "heading",
+      "text": "인챈트 특징",
+      "anchor": "feature"
+    },
+    {
+      "type": "notice",
+      "title": "제련도에 따른 인챈트 개수",
+      "text": "제련도에 따라 최대 3개의 히든 인챈트를 부여할 수 있습니다."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "제련도",
+        "가능한 히든 인챈트"
+      ],
+      "rows": [
+        [
+          "+0 ~ +6",
+          "1개"
+        ],
+        [
+          "+7 ~ +8",
+          "2개"
+        ],
+        [
+          "+9 이상",
+          "3개"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "text": "각각의 히든 인챈트는 13가지 옵션 중 원하는 옵션을 선택하여 부여할 수 있습니다."
+    },
+    {
+      "type": "text",
+      "text": "옵션의 레벨과 수치는 랜덤하게 결정됩니다."
+    },
+    {
+      "type": "heading",
+      "text": "인챈트 옵션",
+      "anchor": "option"
+    },
+    {
+      "type": "image",
+      "path": "enchant/fallen_angel_wing_options.png",
+      "caption": "타락천사의 날개 인챈트 옵션 목록"
+    },
+    {
+      "type": "heading",
+      "text": "주의사항",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "초기화 불가",
+      "text": "한 번 적용된 인챈트는 초기화할 수 없습니다."
+    },
+    {
+      "type": "notice",
+      "title": "인챈트 실패 없음",
+      "text": "인챈트 실패는 존재하지 않으며 선택한 옵션 중 랜덤한 수치가 부여됩니다."
+    },
+    {
+      "type": "heading",
+      "text": "이동",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:itemmall,29,66,타락천사의 날개 인챈트 NPC]"
+    },
+    {
+      "type": "heading",
+      "text": "참고 자료",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "iRO Wiki - Fallen Angel Wing Enchants",
+          "url": "https://irowiki.org/wiki/Fallen_Angel_Wing_Enchants"
+        }
+      ]
+    }
+  ]
+}

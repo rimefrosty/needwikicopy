@@ -1,0 +1,147 @@
+{
+  "id": "content_old_gh_challenge",
+  "title": "Memorial Dungeon - Old Glast Heim (Challenge Mode)",
+  "summary": "Old Glast Heim (Challenge Mode) walkthrough, new equipment and enchants.",
+  "keywords": [
+    "옛 글래스트 헤임 도전 모드",
+    "글래스트 헤임",
+    "서클릿",
+    "신규 인챈트",
+    "신규 카드",
+    "신규 무기"
+  ],
+  "tags": [
+    "콘텐츠",
+    "메모리얼 던전",
+    "글래스트 헤임"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Content Guide",
+      "target": "content_main"
+    },
+    {
+      "text": "Old Glast Heim (Challenge Mode)"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Old Glast Heim (Challenge Mode)"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "title": "Old Glast Heim (Challenge Mode)",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/old_gh_challenge0.85ea2194c087.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/old_gh_challenge1.156601b85562.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/old_gh_challenge2.1866cb91677d.jpg",
+              "compact": true
+            }
+          ]
+        },
+        {
+          "title": "Circlet",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/old_gh_challenge5.7ff93d6644a1.jpg",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/old_gh_challenge6.2e8e54aba9b0.png",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/old_gh_challenge7.f9a583594736.png",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/old_gh_challenge8.5139f4f2e8dd.png",
+              "compact": true
+            }
+          ]
+        },
+        {
+          "title": "Circlet Enchants",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/old_gh_challenge3.f56a68b651cd.png",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/old_gh_challenge4.7a9298271dbb.png",
+              "compact": true
+            }
+          ]
+        },
+        {
+          "title": "New Enchants",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/old_gh_challenge9.901e4b582cce.png",
+              "compact": true
+            }
+          ]
+        },
+        {
+          "title": "New Cards",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/old_gh_challenge10.5f07a7c8f45f.png",
+              "compact": true
+            }
+          ]
+        },
+        {
+          "title": "New Weapons",
+          "blocks": [
+            {
+              "type": "image",
+              "path": "en/content/old_gh_challenge11.ffc545a4ac11.png",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/old_gh_challenge12.a00cb73653d2.png",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/old_gh_challenge13.fb79d3e75d55.png",
+              "compact": true
+            },
+            {
+              "type": "image",
+              "path": "en/content/old_gh_challenge14.15498363de44.png",
+              "compact": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

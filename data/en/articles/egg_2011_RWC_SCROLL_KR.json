@@ -1,0 +1,185 @@
+{
+  "id": "egg_2011_RWC_SCROLL_KR",
+  "title": "2011 RWC Scroll",
+  "summary": "Contents and drop rates of the 2011 RWC Scroll",
+  "keywords": [
+    "행운의 알",
+    "캐시",
+    "확률",
+    "의상",
+    "인챈트 스톤"
+  ],
+  "tags": [
+    "행운의알",
+    "캐시",
+    "확률"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Lucky Egg"
+    },
+    {
+      "text": "2011 RWC Scroll"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "2011 RWC Scroll"
+    },
+    {
+      "type": "text",
+      "text": "The contents and drop rates of the 2011 RWC Scroll."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Sale Information",
+      "target": "#info"
+    },
+    {
+      "type": "link",
+      "text": "Box Contents",
+      "target": "#items"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "heading",
+      "text": "Sale Information",
+      "anchor": "info"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Sales Period",
+          "2026-07-04 ~ 2026-07-18"
+        ],
+        [
+          "Price",
+          "1,000 Cash each"
+        ],
+        [
+          "Item Used",
+          "[ITEM:12795|2011 RWC Scroll]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Box Contents",
+      "anchor": "items"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Item",
+        "Rate"
+      ],
+      "rows": [
+        [
+          "[BADGE:HOT][ITEM:12246|Mystical Card Album]",
+          "0.05%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6229|Safe to 8 Weapon Certificate]",
+          "0.15%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6233|Safe to 8 Armor Certificate]",
+          "0.15%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:18600|Cat Ear Beret]",
+          "1.50%"
+        ],
+        [
+          "[BADGE:NEW][ITEM:18601|Red Pom Band]",
+          "1.50%"
+        ],
+        [
+          "[BADGE:HOT][ITEM:6396|Spiritual Auger]",
+          "12.40%"
+        ],
+        [
+          "[ITEM:12103|Bloody Branch]",
+          "1.55%"
+        ],
+        [
+          "[ITEM:12692|Shield Card Album]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:399992|NEED Rebirth Ticket]",
+          "2.00%"
+        ],
+        [
+          "[ITEM:12690|Headgear Card Album]",
+          "4.00%"
+        ],
+        [
+          "[ITEM:2286|Elven Ears]",
+          "4.00%"
+        ],
+        [
+          "[ITEM:12263|[NotForSale] Battle Manual]",
+          "5.00%"
+        ],
+        [
+          "[ITEM:12264|[NotForSale] Bubble Gum]",
+          "5.00%"
+        ],
+        [
+          "[ITEM:12550|Poison Bottle Box]",
+          "7.50%"
+        ],
+        [
+          "[ITEM:12549|White Slim Potion Box(100)]",
+          "7.50%"
+        ],
+        [
+          "[ITEM:7444|Treasure Box]",
+          "12.00%"
+        ],
+        [
+          "[ITEM:604|Dead Branch]",
+          "15.00%"
+        ],
+        [
+          "[ITEM:6484|Heroic Desocketing Book]",
+          "18.70%"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "About the Rates",
+      "text": "Rates are shown with decimals and may change with updates."
+    },
+    {
+      "type": "notice",
+      "title": "Badges",
+      "text": "[BADGE:NEW] marks a new item, [BADGE:HOT] a popular item and [BADGE:EVENT] an event-only reward."
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "id": "shadow_current",
+  "title": "Shadow Gear Available Now",
+  "summary": "The Shadow Gear you can get on the NEED server now.",
+  "keywords": [
+    "쉐도우",
+    "쉐도우 장비",
+    "행운의 알",
+    "현재 획득 가능",
+    "봉인된 스크롤",
+    "쉐도우 획득처",
+    "아이템 링크",
+    "ITEM",
+    "2013 RWC 스크롤",
+    "봉인된 타락한 대신관 스크롤",
+    "봉인된 이프리트 스크롤",
+    "봉인된 그룸언더나이트 스크롤",
+    "봉인된 보스이그니젬 스크롤",
+    "봉인된 베스퍼 스크롤",
+    "봉인된 드라큐라 스크롤",
+    "봉인된 스나이퍼 스크롤"
+  ],
+  "tags": [
+    "장비",
+    "쉐도우"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Equipment Guide",
+      "target": "equipment_main"
+    },
+    {
+      "text": "Shadow Gear",
+      "target": "equipment_shadow"
+    },
+    {
+      "text": "Shadow Gear Available Now"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Shadow Gear Available Now"
+    },
+    {
+      "type": "text",
+      "text": "The Shadow Gear you can get on the NEED server now."
+    },
+    {
+      "type": "notice",
+      "title": "Note",
+      "text": "Shadow Gear is added step by step through Lucky Egg updates. New Shadow Gear may be added as the server progresses."
+    },
+    {
+      "type": "notice",
+      "title": "About the Sources",
+      "text": "The source in the table below is the scroll that gives that Shadow Gear."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Shadow Gear",
+        "Category",
+        "Source"
+      ],
+      "widths": [
+        "45%",
+        "20%",
+        "35%"
+      ],
+      "rows": [
+        [
+          "[ITEM:24027|Immune Shadow Armor]",
+          "Armor",
+          "Sealed Dark Lord Scroll"
+        ],
+        [
+          "[ITEM:24028|Hard Shadow Armor]",
+          "Armor",
+          "Sealed Dark Lord Scroll"
+        ],
+        [
+          "[ITEM:24029|Ancient Shadow Armor]",
+          "Armor",
+          "Sealed Dark Lord Scroll"
+        ],
+        [
+          "[ITEM:24030|Critical Shadow Armor]",
+          "Armor",
+          "Sealed Dark Lord Scroll"
+        ],
+        [
+          "[ITEM:24031|Kingbird Shadow Weapon]",
+          "Weapon",
+          "Sealed Dark Lord Scroll"
+        ],
+        [
+          "[ITEM:24032|Critical Hit Shadow Weapon]",
+          "Weapon",
+          "Sealed Dark Lord Scroll"
+        ],
+        [
+          "[ITEM:24033|Healing Shadow Weapon]",
+          "Weapon",
+          "Sealed Dark Lord Scroll"
+        ],
+        [
+          "[ITEM:24052|Cranial Shadow Shield]",
+          "Shield",
+          "Sealed Beelzebub Scroll"
+        ],
+        [
+          "[ITEM:24053|Safeguard Shadow Shield]",
+          "Shield",
+          "Sealed Beelzebub Scroll"
+        ],
+        [
+          "[ITEM:24054|Brutal Shadow Shield]",
+          "Shield",
+          "Sealed Beelzebub Scroll"
+        ],
+        [
+          "[ITEM:24055|Gargantua Shadow Shield]",
+          "Shield",
+          "Sealed Beelzebub Scroll"
+        ],
+        [
+          "[ITEM:24056|Homer's Shadow Shield]",
+          "Shield",
+          "Sealed Beelzebub Scroll"
+        ],
+        [
+          "[ITEM:24057|Dragoon Shadow Shield]",
+          "Shield",
+          "Sealed Beelzebub Scroll"
+        ],
+        [
+          "[ITEM:24058|Satanic Shadow Shield]",
+          "Shield",
+          "Sealed Beelzebub Scroll"
+        ],
+        [
+          "[ITEM:24059|Frame Guard Shadow Shield]",
+          "Shield",
+          "Sealed Beelzebub Scroll"
+        ],
+        [
+          "[ITEM:24060|Requiem Shadow Shield]",
+          "Shield",
+          "Sealed Beelzebub Scroll"
+        ],
+        [
+          "[ITEM:24061|Cadi Shadow Shield]",
+          "Shield",
+          "Sealed Beelzebub Scroll"
+        ],
+        [
+          "[ITEM:24047|Rapid Shadow Pendant]",
+          "Pendant",
+          "Article Sealed Storm Scroll"
+        ],
+        [
+          "[ITEM:24048|Caster Shadow Pendant]",
+          "Pendant",
+          "Article Sealed Storm Scroll"
+        ],
+        [
+          "[ITEM:24049|Hard Shadow Earring]",
+          "Earring",
+          "Article Sealed Storm Scroll"
+        ],
+        [
+          "[ITEM:24050|Wise Shadow Earring]",
+          "Earring",
+          "Article Sealed Storm Scroll"
+        ],
+        [
+          "[ITEM:24051|Athena Shadow Earring]",
+          "Earring",
+          "Article Sealed Storm Scroll"
+        ],
+        [
+          "[ITEM:24046|Resist Spell Power Shadow Pendant]",
+          "Pendant",
+          "Article Sealed Storm Scroll"
+        ],
+        [
+          "[ITEM:24062|Bloody Shadow Shoes]",
+          "Shoes",
+          "Sealed Kiel-D-01 Scroll"
+        ],
+        [
+          "[ITEM:24063|Liberation Shadow Shoes]",
+          "Shoes",
+          "Sealed Kiel-D-01 Scroll"
+        ],
+        [
+          "[ITEM:24064|Chemical Shadow Shoes]",
+          "Shoes",
+          "Sealed Kiel-D-01 Scroll"
+        ],
+        [
+          "[ITEM:24065|Clamorous Shadow Shoes]",
+          "Shoes",
+          "Sealed Kiel-D-01 Scroll"
+        ],
+        [
+          "[ITEM:24066|Insecticide Shadow Shoes]",
+          "Shoes",
+          "Sealed Kiel-D-01 Scroll"
+        ],
+        [
+          "[ITEM:24067|Fisher Shadow Shoes]",
+          "Shoes",
+          "Sealed Kiel-D-01 Scroll"
+        ],
+        [
+          "[ITEM:24068|Seraphim Shadow Shoes]",
+          "Shoes",
+          "Sealed Kiel-D-01 Scroll"
+        ],
+        [
+          "[ITEM:24069|Beholder Shadow Shoes]",
+          "Shoes",
+          "Sealed Kiel-D-01 Scroll"
+        ],
+        [
+          "[ITEM:24070|Divine Shadow Shoes]",
+          "Shoes",
+          "Sealed Kiel-D-01 Scroll"
+        ],
+        [
+          "[ITEM:24071|Dragoon Shadow Shoes]",
+          "Shoes",
+          "Sealed Kiel-D-01 Scroll"
+        ],
+        [
+          "[ITEM:24104|Neutral Shadow Weapon]",
+          "Weapon",
+          "2013 RWC Scroll"
+        ],
+        [
+          "[ITEM:24105|Neutral Shadow Earring]",
+          "Earring",
+          "2013 RWC Scroll"
+        ],
+        [
+          "[ITEM:24106|Neutral Shadow Pendant]",
+          "Pendant",
+          "2013 RWC Scroll"
+        ],
+        [
+          "[ITEM:24107|Uncurse Shadow Earring]",
+          "Earring",
+          "2013 RWC Scroll"
+        ],
+        [
+          "[ITEM:24108|Uncurse Shadow Pendant]",
+          "Pendant",
+          "2013 RWC Scroll"
+        ],
+        [
+          "[ITEM:24090|Stability Shadow Shield]",
+          "Shield",
+          "2013 RWC Scroll"
+        ],
+        [
+          "Gemstone Shadow Box",
+          "Box",
+          "Sealed Fallen Bishop Hibram Scroll"
+        ],
+        [
+          "[ITEM:24090|Stability Shadow Shield]",
+          "Shield",
+          "Sealed Fallen Bishop Hibram Scroll"
+        ],
+        [
+          "[ITEM:24091|Plasterus Shadow Armor]",
+          "Armor",
+          "Sealed Fallen Bishop Hibram Scroll"
+        ],
+        [
+          "[ITEM:24092|Plasterus Shadow Shoes]",
+          "Shoes",
+          "Sealed Fallen Bishop Hibram Scroll"
+        ],
+        [
+          "[ITEM:24093|Insomnia Shadow Armor]",
+          "Armor",
+          "Sealed Fallen Bishop Hibram Scroll"
+        ],
+        [
+          "[ITEM:24094|Insomnia Shadow Shoes]",
+          "Shoes",
+          "Sealed Fallen Bishop Hibram Scroll"
+        ],
+        [
+          "[ITEM:24095|Peerless Shadow Armor]",
+          "Armor",
+          "Sealed Fallen Bishop Hibram Scroll"
+        ],
+        [
+          "[ITEM:24096|Peerless Shadow Shoes]",
+          "Shoes",
+          "Sealed Fallen Bishop Hibram Scroll"
+        ],
+        [
+          "[ITEM:24097|Adurate Shadow Armor]",
+          "Armor",
+          "Sealed Fallen Bishop Hibram Scroll"
+        ],
+        [
+          "[ITEM:24098|Adurate Shadow Shoes]",
+          "Shoes",
+          "Sealed Fallen Bishop Hibram Scroll"
+        ],
+        [
+          "[ITEM:24090|Stability Shadow Shield]",
+          "Shield",
+          "Sealed Ifrit Scroll"
+        ],
+        [
+          "[ITEM:24099|Unfreezing Shadow Weapon]",
+          "Weapon",
+          "Sealed Ifrit Scroll"
+        ],
+        [
+          "[ITEM:24100|Unfreezing Shadow Earring]",
+          "Earring",
+          "Sealed Ifrit Scroll"
+        ],
+        [
+          "[ITEM:24101|Unfreezing Shadow Pendant]",
+          "Pendant",
+          "Sealed Ifrit Scroll"
+        ],
+        [
+          "[ITEM:24102|Vitality Shadow Earring]",
+          "Earring",
+          "Sealed Ifrit Scroll"
+        ],
+        [
+          "[ITEM:24103|Vitality Shadow Pendant]",
+          "Pendant",
+          "Sealed Ifrit Scroll"
+        ],
+        [
+          "[ITEM:24072|Large Shadow Armor]",
+          "Armor",
+          "Sealed Gloom Under Night Scroll"
+        ],
+        [
+          "[ITEM:24073|Medium Shadow Armor]",
+          "Armor",
+          "Sealed Gloom Under Night Scroll"
+        ],
+        [
+          "[ITEM:24074|Small Shadow Armor]",
+          "Armor",
+          "Sealed Gloom Under Night Scroll"
+        ],
+        [
+          "[ITEM:24075|Large Shadow Weapon]",
+          "Weapon",
+          "Sealed Gloom Under Night Scroll"
+        ],
+        [
+          "[ITEM:24076|Medium Shadow Weapon]",
+          "Weapon",
+          "Sealed Gloom Under Night Scroll"
+        ],
+        [
+          "[ITEM:24077|Small Shadow Weapon]",
+          "Weapon",
+          "Sealed Gloom Under Night Scroll"
+        ],
+        [
+          "[ITEM:24166|Penetration Shadow Earring]",
+          "Earring",
+          "Sealed General Egnigem Cenia Scroll"
+        ],
+        [
+          "[ITEM:24167|Penetration Shadow Pendant]",
+          "Pendant",
+          "Sealed General Egnigem Cenia Scroll"
+        ],
+        [
+          "[ITEM:24156|Executioner Shadow Weapon]",
+          "Weapon",
+          "Sealed General Egnigem Cenia Scroll"
+        ],
+        [
+          "[ITEM:24157|Exorcist Shadow Weapon]",
+          "Weapon",
+          "Sealed General Egnigem Cenia Scroll"
+        ],
+        [
+          "[ITEM:24158|Hunting Shadow Weapon]",
+          "Weapon",
+          "Sealed General Egnigem Cenia Scroll"
+        ],
+        [
+          "[ITEM:24159|Insect Net Shadow Weapon]",
+          "Weapon",
+          "Sealed General Egnigem Cenia Scroll"
+        ],
+        [
+          "[ITEM:24160|Fishing Shadow Weapon]",
+          "Weapon",
+          "Sealed General Egnigem Cenia Scroll"
+        ],
+        [
+          "[ITEM:24161|Dragon Killer Shadow Weapon]",
+          "Weapon",
+          "Sealed General Egnigem Cenia Scroll"
+        ],
+        [
+          "[ITEM:24162|Corrupted Shadow Weapon]",
+          "Weapon",
+          "Sealed General Egnigem Cenia Scroll"
+        ],
+        [
+          "[ITEM:24163|Vibration Shadow Weapon]",
+          "Weapon",
+          "Sealed General Egnigem Cenia Scroll"
+        ],
+        [
+          "[ITEM:24164|Holy Water Shadow Weapon]",
+          "Weapon",
+          "Sealed General Egnigem Cenia Scroll"
+        ],
+        [
+          "[ITEM:24165|Scissor Shadow Weapon]",
+          "Weapon",
+          "Sealed General Egnigem Cenia Scroll"
+        ],
+        [
+          "[ITEM:24168|Tempest Shadow Earring]",
+          "Earring",
+          "Sealed Vesper Scroll"
+        ],
+        [
+          "[ITEM:24169|Tempest Shadow Pendant]",
+          "Pendant",
+          "Sealed Vesper Scroll"
+        ],
+        [
+          "[ITEM:24170|Magic Executioner Shadow Weapon]",
+          "Weapon",
+          "Sealed Vesper Scroll"
+        ],
+        [
+          "[ITEM:24171|Magic Exorcist Shadow Weapon]",
+          "Weapon",
+          "Sealed Vesper Scroll"
+        ],
+        [
+          "[ITEM:24172|Magic Hunting Shadow Weapon]",
+          "Weapon",
+          "Sealed Vesper Scroll"
+        ],
+        [
+          "[ITEM:24173|Magic Insect Net Shadow Weapon]",
+          "Weapon",
+          "Sealed Vesper Scroll"
+        ],
+        [
+          "[ITEM:24174|Magic Fishing Shadow Weapon]",
+          "Weapon",
+          "Sealed Vesper Scroll"
+        ],
+        [
+          "[ITEM:24175|Magic Dragon Killer Shadow Weapon]",
+          "Weapon",
+          "Sealed Vesper Scroll"
+        ],
+        [
+          "[ITEM:24176|Magic Corrupted Shadow Weapon]",
+          "Weapon",
+          "Sealed Vesper Scroll"
+        ],
+        [
+          "[ITEM:24177|Magic Vibration Shadow Weapon]",
+          "Weapon",
+          "Sealed Vesper Scroll"
+        ],
+        [
+          "[ITEM:24178|Magic Holy Water Shadow Weapon]",
+          "Weapon",
+          "Sealed Vesper Scroll"
+        ],
+        [
+          "[ITEM:24179|Magic Scissor Shadow Weapon]",
+          "Weapon",
+          "Sealed Vesper Scroll"
+        ],
+        [
+          "[ITEM:24186|Basis Shadow Armor]",
+          "Armor",
+          "Sealed Dracula Scroll"
+        ],
+        [
+          "[ITEM:24187|Hallowed Shadow Armor]",
+          "Armor",
+          "Sealed Dracula Scroll"
+        ],
+        [
+          "[ITEM:24188|Saharic Shadow Armor]",
+          "Armor",
+          "Sealed Dracula Scroll"
+        ],
+        [
+          "[ITEM:24189|Underneath Shadow Armor]",
+          "Armor",
+          "Sealed Dracula Scroll"
+        ],
+        [
+          "[ITEM:24190|Flame Shadow Armor]",
+          "Armor",
+          "Sealed Dracula Scroll"
+        ],
+        [
+          "[ITEM:24191|Windy Shadow Armor]",
+          "Armor",
+          "Sealed Dracula Scroll"
+        ],
+        [
+          "[ITEM:24192|Envenom Shadow Armor]",
+          "Armor",
+          "Sealed Dracula Scroll"
+        ],
+        [
+          "[ITEM:24193|Damned Shadow Armor]",
+          "Armor",
+          "Sealed Dracula Scroll"
+        ],
+        [
+          "[ITEM:24194|Geist Shadow Armor]",
+          "Armor",
+          "Sealed Dracula Scroll"
+        ],
+        [
+          "[ITEM:24195|Divine Shadow Armor]",
+          "Armor",
+          "Sealed Dracula Scroll"
+        ],
+        [
+          "[ITEM:24197|Hasty Shadow Armor]",
+          "Armor",
+          "Sealed Sniper Scroll"
+        ],
+        [
+          "[ITEM:24198|Basis Shadow Shield]",
+          "Shield",
+          "Sealed Sniper Scroll"
+        ],
+        [
+          "[ITEM:24199|Hallowed Shadow Shield]",
+          "Shield",
+          "Sealed Sniper Scroll"
+        ],
+        [
+          "[ITEM:24200|Saharic Shadow Shield]",
+          "Shield",
+          "Sealed Sniper Scroll"
+        ],
+        [
+          "[ITEM:24201|Underneath Shadow Shield]",
+          "Shield",
+          "Sealed Sniper Scroll"
+        ],
+        [
+          "[ITEM:24202|Flame Shadow Shield]",
+          "Shield",
+          "Sealed Sniper Scroll"
+        ],
+        [
+          "[ITEM:24203|Windy Shadow Shield]",
+          "Shield",
+          "Sealed Sniper Scroll"
+        ],
+        [
+          "[ITEM:24204|Envenom Shadow Shield]",
+          "Shield",
+          "Sealed Sniper Scroll"
+        ],
+        [
+          "[ITEM:24205|Damned Shadow Shield]",
+          "Shield",
+          "Sealed Sniper Scroll"
+        ],
+        [
+          "[ITEM:24206|Geist Shadow Shield]",
+          "Shield",
+          "Sealed Sniper Scroll"
+        ],
+        [
+          "[ITEM:24207|Divine Shadow Shield]",
+          "Shield",
+          "Sealed Sniper Scroll"
+        ]
+      ]
+    }
+  ]
+}

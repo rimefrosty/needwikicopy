@@ -1,0 +1,77 @@
+{
+  "id": "content_farming_area",
+  "title": "Farming Areas",
+  "summary": "The main hunting grounds and farming areas.",
+  "keywords": [
+    "파밍",
+    "사냥터",
+    "노그로드",
+    "타나토스",
+    "유페로스"
+  ],
+  "tags": [
+    "콘텐츠",
+    "사냥터"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Content Guide",
+      "target": "content_main"
+    },
+    {
+      "text": "Farming Areas"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Farming Areas"
+    },
+    {
+      "type": "text",
+      "text": "The main farming areas and hunting grounds."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Region",
+        "Status"
+      ],
+      "widths": [
+        "70%",
+        "30%"
+      ],
+      "rows": [
+        [
+          "Nogg Road Dungeon F3",
+          "Coming soon"
+        ],
+        [
+          "Thanatos Tower F10",
+          "Coming soon"
+        ],
+        [
+          "Thanatos Tower F11",
+          "Coming soon"
+        ],
+        [
+          "Thanatos Tower F12",
+          "Coming soon"
+        ],
+        [
+          "Juperos F2",
+          "Coming soon"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Note",
+      "text": "Farming area guides and drop information will be added later."
+    }
+  ]
+}

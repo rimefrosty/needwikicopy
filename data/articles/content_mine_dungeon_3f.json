@@ -1,0 +1,96 @@
+{
+    "id": "content_mine_dungeon_3f",
+    "title": "던전 - 아인베흐 광산던전 3층",
+    "summary": "아인베흐 광산던전 3층과 신규 장비, 개조 허가증 정보를 확인할 수 있습니다.",
+    "keywords": [
+        "아인베흐 광산던전 3층",
+        "광산 던전",
+        "신규 무기",
+        "신규 악세서리",
+        "개조 허가증"
+    ],
+    "tags": [
+        "콘텐츠",
+        "던전",
+        "아인베흐"
+    ],
+    "breadcrumb": [
+        {
+            "text": "홈",
+            "target": "home"
+        },
+        {
+            "text": "콘텐츠 가이드",
+            "target": "content_main"
+        },
+        {
+            "text": "아인베흐 광산던전 3층"
+        }
+    ],
+    "blocks": [
+        {
+            "type": "heading",
+            "text": "아인베흐 광산던전 3층"
+        },
+        {
+            "type": "tabs",
+            "items": [
+                {
+                    "title": "아인베흐 광산던전 3층",
+                    "blocks": [
+                        {
+                            "type": "image",
+                            "path": "content/mine_dungeon_3f1.jpg",
+                            "compact": true
+                        }
+                    ]
+                },
+                {
+                    "title": "신규 무기 / 신규 악세 / 신규 카드",
+                    "blocks": [
+                        {
+                            "type": "image",
+                            "path": "content/mine_dungeon_3f2.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/mine_dungeon_3f3.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/mine_dungeon_3f4.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/mine_dungeon_3f5.jpg",
+                            "compact": true
+                        }
+                    ]
+                },
+                {
+                    "title": "개조 허가증",
+                    "blocks": [
+                        {
+                            "type": "image",
+                            "path": "content/mine_dungeon_3f6.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/mine_dungeon_3f7.jpg",
+                            "compact": true
+                        },
+                        {
+                            "type": "image",
+                            "path": "content/mine_dungeon_3f8.jpg",
+                            "compact": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

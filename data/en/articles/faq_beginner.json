@@ -1,0 +1,115 @@
+{
+  "id": "faq_beginner",
+  "title": "FAQ for New and Returning Players",
+  "summary": "Questions new and returning players often ask.",
+  "keywords": [
+    "FAQ",
+    "신규 유저",
+    "복귀 유저",
+    "질문"
+  ],
+  "tags": [
+    "FAQ",
+    "신규 유저"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "FAQ",
+      "target": "faq_main"
+    },
+    {
+      "text": "FAQ for New and Returning Players"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Q. Which episode is the server on?"
+    },
+    {
+      "type": "text",
+      "text": "A. See the [LINK:roadmap_current|Current Server Stage] page for the NEED server's current progress."
+    },
+    {
+      "type": "heading",
+      "text": "Q. What should I do first?"
+    },
+    {
+      "type": "text",
+      "text": "A. Check the Server Roadmap first, then use the Content Guide and the Equipment Guide to plan how to progress."
+    },
+    {
+      "type": "heading",
+      "text": "Q. Where do I get equipment?"
+    },
+    {
+      "type": "text",
+      "text": "A. Equipment drops from many kinds of content, such as Memorial Dungeons, regular dungeons and Illusion Dungeons. See [LINK:equipment_content|Equipment by Content] for details."
+    },
+    {
+      "type": "heading",
+      "text": "Q. Where do I enter Memorial Dungeons?"
+    },
+    {
+      "type": "text",
+      "text": "A. The Warp Helper takes you to most Memorial Dungeons. See the Content Guide for details."
+    },
+    {
+      "type": "heading",
+      "text": "Q. Are costumes shared across my account?"
+    },
+    {
+      "type": "text",
+      "text": "A. Register a costume in the Costume Album and unlock the account wardrobe, and every character on the same account can use it."
+    },
+    {
+      "type": "heading",
+      "text": "Q. What is the account unlock?"
+    },
+    {
+      "type": "text",
+      "text": "A. It opens your registered costumes to the other characters on your account. Unlocking the account costs Zeny."
+    },
+    {
+      "type": "heading",
+      "text": "Q. How do I get costumes?"
+    },
+    {
+      "type": "text",
+      "text": "A. From field hunting, boss monsters, events, Silvervine Fruit exchanges and more."
+    },
+    {
+      "type": "heading",
+      "text": "Q. Where do I get Shadow Gear?"
+    },
+    {
+      "type": "text",
+      "text": "A. Shadow Gear is added step by step through Lucky Egg updates."
+    },
+    {
+      "type": "heading",
+      "text": "Q. Are Enchant Stones shared across my account?"
+    },
+    {
+      "type": "text",
+      "text": "A. No. Enchant Stones are registered and managed per character."
+    },
+    {
+      "type": "heading",
+      "text": "Q. Can I get a specific costume directly?"
+    },
+    {
+      "type": "text",
+      "text": "A. Yes. Spend 300 Costume Coins to choose the costume with the album number you want."
+    },
+    {
+      "type": "notice",
+      "title": "More questions",
+      "text": "If your question is not here, see the related guide pages or contact the staff."
+    }
+  ]
+}

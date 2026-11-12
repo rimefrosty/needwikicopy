@@ -1,0 +1,141 @@
+{
+  "id": "roadmap_current",
+  "title": "Current Server Stage",
+  "summary": "The NEED server's current stage and the main content open now.",
+  "keywords": [
+    "현재 서버 단계",
+    "서버 단계",
+    "로드맵",
+    "현재 에피소드",
+    "개방 콘텐츠"
+  ],
+  "tags": [
+    "로드맵",
+    "현재 단계"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Server Roadmap",
+      "target": "roadmap_main"
+    },
+    {
+      "text": "Current Server Stage"
+    }
+  ],
+  "report_enabled": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Current Server Stage"
+    },
+    {
+      "type": "notice",
+      "title": "Current stage",
+      "text": "The NEED server currently has content open up to EPISODE 16.1 Banquet for Heroes."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Type",
+        "Details"
+      ],
+      "widths": [
+        "20%",
+        "80%"
+      ],
+      "rows": [
+        [
+          "Current episode",
+          "EPISODE 16.1 Banquet for Heroes"
+        ],
+        [
+          "Max level",
+          "175/60"
+        ],
+        [
+          "Main content",
+          "Old Glast Heim (Normal, Hard), Sara's Memories, Faceworm's Nest, Geffen Magic Tournament, Cursed Swordsman, Devil's Tower, Horror Toy Factory, Charleston in Distress, Temple of the Demon God, Nightmarish Jitterbug, Fenrir and Sarah, Assault on the Airship, Central Laboratory, Last Room, Room of Consciousness, Sky Fortress Invasion, Infinite Space"
+        ],
+        [
+          "Main equipment",
+          "Bakonawa Agimat Tattoo, Temporal Boots, Gigant Snake Skin, Geffen Magic Tournament equipment, Heroic equipment, Charleston in Distress equipment, Demon's Essence, Gigantic Bow, Sarah's Earrings, Ferlock equipment, Abusive / Flattery Robes"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Recommended Pages Now"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Page",
+        "Description"
+      ],
+      "widths": [
+        "50%",
+        "50%"
+      ],
+      "rows": [
+        [
+          "[LINK:roadmap_main|Server Roadmap]",
+          "The full episode order and future content"
+        ],
+        [
+          "[LINK:content_main|Content Guide]",
+          "The content open now"
+        ],
+        [
+          "[LINK:equipment_main|Equipment Guide]",
+          "Equipment by content and how to progress"
+        ],
+        [
+          "[LINK:equipment_memorial|Memorial Dungeon Equipment]",
+          "Key equipment from instance dungeons"
+        ],
+        [
+          "[LINK:equipment_illusion|Illusion Dungeon Equipment]",
+          "Key equipment from Illusion Dungeons"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "16.1 Banquet for Heroes Main Content"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Content",
+        "Open"
+      ],
+      "widths": [
+        "50%",
+        "50%"
+      ],
+      "rows": [
+        [
+          "Room of Consciousness",
+          "[LINK:content_room_of_consciousness|Open]"
+        ],
+        [
+          "Sky Fortress Invasion",
+          "[LINK:content_air_fortress_assault|Open]"
+        ],
+        [
+          "Tomb of the Fallen Overhaul",
+          "[LINK:content_bio5_rework|Open]"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Note",
+      "text": "The server stage may change depending on operations, and new content is added step by step according to the server roadmap."
+    }
+  ]
+}

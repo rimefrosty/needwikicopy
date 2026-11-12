@@ -1,0 +1,307 @@
+{
+  "id": "equipment_memorial",
+  "title": "Memorial Dungeon Equipment",
+  "summary": "Main items and equipment you can get from Memorial Dungeons.",
+  "keywords": [
+    "메모리얼 던전",
+    "장비",
+    "아이템",
+    "카드",
+    "인챈트"
+  ],
+  "tags": [
+    "장비",
+    "메모리얼 던전"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Equipment Guide",
+      "target": "equipment_main"
+    },
+    {
+      "text": "Equipment by Content",
+      "target": "equipment_content"
+    },
+    {
+      "text": "Memorial Dungeons"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Memorial Dungeon Equipment"
+    },
+    {
+      "type": "text",
+      "text": "Main items and equipment from Memorial Dungeons, in episode order."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Memorial",
+        "EP",
+        "Entry Level",
+        "Key Items",
+        "Page"
+      ],
+      "widths": [
+        "20%",
+        "5%",
+        "15%",
+        "40%",
+        "20%"
+      ],
+      "rows": [
+        [
+          "Sealed Shrine",
+          "12",
+          "75+",
+          "[ITEM:4147|Baphomet Card]\n[ITEM:6004|Cursed Baphomet Doll]\n[ITEM:1181|Tae Goo Lyeon]",
+          "[LINK:content_baphomet_shrine|Open]"
+        ],
+        [
+          "Nidhoggur's Nest",
+          "13.2",
+          "70+",
+          "[ITEM:4456|Nidhoggur Shadow Card]\n[ITEM:2554|Nidhoggur's Shadow Garb]",
+          ""
+        ],
+        [
+          "Wolfchev's Laboratory",
+          "14.1",
+          "80+",
+          "[ITEMGROUP:Lhz_boss_card|Bio Lab Transcendent Boss Cards]\n[ITEM:12623|High Weapon Box]\n[ITEM:18570|Ancient Gold Ornament]",
+          "[LINK:content_werner_lab|Open]"
+        ],
+        [
+          "Bangungot Hospital 2F",
+          "14.1",
+          "100+",
+          "[ITEM:6517|Bangungot Doll]\n[ITEM:6524|Piece of Bangungot's Spirit]\n[ITEM:4590|Bangungot Card]",
+          "[LINK:content_bangungot_2f|Open]"
+        ],
+        [
+          "Buwaya Cave",
+          "14.1",
+          "130+",
+          "[ITEM:6518|Buwaya Doll]\n[ITEM:6525|Piece of Buwaya's Spirit]\n[ITEM:4592|Buwaya Card]",
+          "[LINK:content_buwaya_cave|Open]"
+        ],
+        [
+          "Bakonawa Lake",
+          "14.1",
+          "140+",
+          "[ITEM:6516|Bakonawa Doll]\n[ITEM:6523|Piece of Bakonawa's Spirit]\n[ITEM:4591|Bakonawa Card]",
+          "[LINK:content_bakonawa_lake|Open]"
+        ],
+        [
+          "Old Glast Heim (Normal)",
+          "14.2",
+          "130+",
+          "[ITEM:6608|Coagulated Spell]\n[ITEM:6607|Temporal Crystal]\n[ITEM:4603|Corruption Root Card]\n[ITEM:4601|Amdarais Card]\n[ITEMGROUP:Time_boots|Temporal Boots Series]",
+          "[LINK:content_old_glast_heim|Open]"
+        ],
+        [
+          "Geffen Magic Tournament",
+          "14.2",
+          "90+",
+          "[ITEM:6671|Geffen Magic Tournament Coin]\n[ITEM:15074|Geffen Magic Robe]\n[ITEM:15073|Anti-Magic Suit]\n[ITEM:4556|Fenrir Card]",
+          "[LINK:content_geffen_magic_tournament|Open]"
+        ],
+        [
+          "Cursed Swordsman",
+          "14.2",
+          "120+",
+          "[ITEMGROUP:Gray_of_equips|Gray Series]\n[ITEMGROUP:Tanos_weapons|Thanos Series]",
+          "[LINK:content_cursed_swordsman|Open]"
+        ],
+        [
+          "Devil's Tower",
+          "14.2",
+          "130+",
+          "[ITEMGROUP:Demon_equips|Evil Slayer Series]",
+          "[LINK:content_demon_god_tower|Open]"
+        ],
+        [
+          "Faceworm's Nest",
+          "14.2",
+          "140+",
+          "[ITEM:20717|Gigant Snake Skin [0]]\n[ITEM:20718|Gigant Snake Skin [1]]\n[ITEM:13090|Faceworm Queen Leg]\n[ITEM:27164|Faceworm Queen Card]",
+          "[LINK:content_faceworm_nest|Open]"
+        ],
+        [
+          "Horror Toy Factory",
+          "14.2",
+          "140+",
+          "[ITEM:7642|Bloody Coin]\n[ITEM:2978|Gentle Heart]\n[ITEM:2977|Wounded Heart]\n[ITEM:450179|Celine's Dress]\n[ITEM:18849|Celine's Ribbon]\n[ITEM:2980|Evil Thread Glove]\n[ITEM:32237|Celine's Brooch]\n[ITEM:2976|Red Lantern]\n[ITEM:31023|Celine Kimi Card]",
+          "[LINK:horror_toy_factory|Open]"
+        ],
+        [
+          "Old Glast Heim (Hard)",
+          "14.2",
+          "160+",
+          "[ITEM:6755|Contaminated Magic]\n[ITEM:6607|Temporal Crystal]\n[ITEM:4604|Realized Corruption Root Card]\n[ITEM:4602|Realized Amdarais Card]\n[ITEMGROUP:Time_boots_|Temporal Boots Series (Slotted)]",
+          "[LINK:content_old_glast_heim|Open]"
+        ],
+        [
+          "Nightmarish Jitterbug",
+          "14.3",
+          "120+",
+          "[ITEM:6719|Tooth of Jitterbug]\n[ITEM:18122|Gigantic Bow]\n[ITEM:18123|Bow of Storm]\n[ITEM:2992|Pendant of Maelstrom]\n[ITEM:2990|Pendant of Harmony]\n[ITEM:2991|Pendant of Chaos]\n[ITEM:27109|Jitterbug Card]\n[ITEM:27106|Awaken Pere Card]",
+          "[LINK:content_demon_god_temple_nightmare_jitterbug|Open]"
+        ],
+        [
+          "Isle of Bios",
+          "14.3",
+          "160+",
+          "[ITEM:6684|Heroic Token]\n[ITEMGROUP:Hero_equips|Heroic Series]",
+          "[LINK:content_bios_mors|Open]"
+        ],
+        [
+          "Morse's Cave",
+          "14.3",
+          "160+",
+          "[ITEM:6684|Heroic Token]\n[ITEMGROUP:Hero_equips|Heroic Series]",
+          "[LINK:content_bios_mors|Open]"
+        ],
+        [
+          "Temple of the Demon God",
+          "14.3",
+          "160+",
+          "[ITEM:4908|Demon's Essence]\n[ITEM:6715|Darklord Soulpiece]\n[ITEM:27324|Brinaranea Card]\n[ITEM:27325|Muspellskoll Card]\n[ITEM:27321|Despair God Morocc Card]",
+          "[LINK:content_demon_god_temple_nightmare_jitterbug|Open]"
+        ],
+        [
+          "Assault on the Airship",
+          "15.1",
+          "125+",
+          "[ITEMGROUP:Airship_equips|Airship Series]\n[ITEMGROUP:Felock_equips|Ferlock Series]",
+          "[LINK:content_fenrir_and_airship|Open]"
+        ],
+        [
+          "Charleston in Distress",
+          "15.1",
+          "130+",
+          "[ITEM:6752|Charleston Component]\n[ITEM:16033|Robot's Arm]",
+          "[LINK:content_charleston_crisis|Open]"
+        ],
+        [
+          "Fenrir and Sarah",
+          "15.1",
+          "145+",
+          "[ITEM:4610|Sarah Card]\n[ITEM:15121|Sarah's Battle Robe]\n[ITEM:28310|Sarah's Left Earring]\n[ITEM:6803|Fragment of Gigantes]",
+          "[LINK:content_fenrir_and_airship|Open]"
+        ],
+        [
+          "Infinite Space",
+          "15.2",
+          "100+",
+          "[ITEM:6905|Shattered Magic Stone]\n[ITEMGROUP:Goddess_equips|Rift Series Equipment]\n[ITEMGROUP:Infinite_equips|Infinity Series Equipment]\n[ITEMGROUP:Infinite_cards|Infinite Boss Cards]",
+          "[LINK:content_infinite_space|Open]"
+        ],
+        [
+          "Central Laboratory",
+          "15.2",
+          "140+",
+          "Boss Cards",
+          "[LINK:content_verus_lab_lastroom|Open]"
+        ],
+        [
+          "Last Room",
+          "15.2",
+          "150+",
+          "[ITEM:18997|Riot Chip]\n[ITEM:28326|Broken Chip 01]\n[ITEM:28327|Broken Chip 02]",
+          "[LINK:content_verus_lab_lastroom|Open]"
+        ],
+        [
+          "Room of Consciousness",
+          "16.1",
+          "100+",
+          "[ITEM:6919|Token of Honor]\n[ITEM:4636|Bijou Card]",
+          "[LINK:content_room_of_consciousness|Open]"
+        ],
+        [
+          "Sky Fortress Invasion",
+          "16.1",
+          "145+",
+          "[ITEM:28010|Juliette de Rachel]\n[ITEM:21018|Lindy Hop]\n[ITEM:2027|Sunflower Boy]\n[ITEMGROUP:Sinister_equips|Vicious Mind Series]",
+          "[LINK:content_air_fortress_assault|Open]"
+        ],
+        [
+          "Friday Dungeon",
+          "16.2",
+          "99+",
+          "[ITEM:25235|Crafted Stone]\n[ITEM:28483|Guardian Ring of King]",
+          "[LINK:content_friday_dungeon|Open]"
+        ],
+        [
+          "Heart Hunter War Base",
+          "16.2",
+          "100+",
+          "[ITEM:13460|Sealed Magic Sword]\n[ITEM:13461|Sealed Evil Sword]\n[ITEM:13462|Sealed Maximum Sword]\n[ITEM:27151|Evil Card]",
+          "[LINK:content_hunter_base_outskirts|Open]"
+        ],
+        [
+          "Werner Laboratory Central Room",
+          "16.2",
+          "100+",
+          "[ITEM:28913|Ultralight Magic Shield]",
+          "[LINK:content_verner_core|Open]"
+        ],
+        [
+          "Charleston in Distress (Renewal)",
+          "16.2",
+          "130+",
+          "[ITEM:6752|Charleston Component]\n[ITEM:16033|Robot's Arm]",
+          "[LINK:content_charleston_crisis_renewal|Open]"
+        ],
+        [
+          "2nd OS Search",
+          "17.1",
+          "110+",
+          "[ITEMGROUP:Illusion_equips|Illusion Series]\n[ITEM:27318|Miguel Card]",
+          "[LINK:content_os_cor_memorial|Open]"
+        ],
+        [
+          "Cor Memorial",
+          "17.1",
+          "110+",
+          "[ITEMGROUP:OS_equips|OS Weapon Series]\n[ITEM:27305|EL A17T Card]",
+          "[LINK:content_os_cor_memorial|Open]"
+        ],
+        [
+          "EDDA: Fall of Glast Heim (Normal)",
+          "17.1",
+          "130+",
+          "[ITEM:25739|Curse Eroded Crystal]\n[ITEM:15388|King Schmidt's Suit]\n[ITEM:15389|King Schmidt's Manteau]\n[ITEMGROUP:Temporal_M|Temporal Manteau Series]\n[ITEM:27329|Curse Eater King Card]",
+          "[LINK:content_edda_gh|Open]"
+        ],
+        [
+          "EDDA: Fall of Glast Heim (Hard)",
+          "17.1",
+          "170+",
+          "[ITEM:25740|Curse Eroded Gemstone]\n[ITEM:15388|King Schmidt's Suit]\n[ITEM:15389|King Schmidt's Manteau]\n[ITEMGROUP:Schmidt_Insignia_equips|King Schmidt's Insignia Series]\n[ITEM:27329|Curse Eater King Card]",
+          "[LINK:content_edda_gh|Open]"
+        ],
+        [
+          "EDDA Biolab",
+          "17.1",
+          "170+",
+          "[ITEM:25786|Somatology Research Document]\n[ITEM:25787|Somatology Experimental Fragment]\n[ITEM:19439|Vicious Mind Aura]\n[ITEMGROUP:Bio_W_equips|EDDA Biolab Weapon Series]\n[ITEM:300266|Unknown Swordsman Card]",
+          "[LINK:content_edda_biolab|Open]"
+        ],
+        [
+          "Old Glast Heim (Challenge Mode)",
+          "17.1",
+          "170+",
+          "[ITEM:25867|Temporal Fragment]\n[ITEM:25865|Temperal Gemstone]\n[ITEM:25866|Temporal Spell]\n[ITEMGROUP:Circlet_Of_Time_equips|Temporal Circlet Series]\n[ITEMGROUP:R_Weapons|Royal Weapons]\n[ITEMGROUP:G_Weapons|Guardian Weapons]\n[ITEM:27381|Himelmez's Phantom Card]\n[ITEM:27383|Amdarais's Phantom Card]\n[ITEM:27382|Prime Corruption Root Card]",
+          "[LINK:content_old_gh_challenge|Open]"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "id": "enchant_temporal_boots",
+  "title": "⚒ Temporal Boots",
+  "summary": "The standard enchantable gear most jobs wear after level 99, with a wide range of normal and hidden enchants.",
+  "keywords": [
+    "시간의 부츠",
+    "시간의 결정",
+    "응고된 마력",
+    "오염된 마력",
+    "곰의 힘",
+    "매의 눈",
+    "폭주하는 마력",
+    "빛의 속도"
+  ],
+  "tags": [
+    "인챈트",
+    "시간의 부츠",
+    "글래스트 헤임"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant"
+    },
+    {
+      "text": "Temporal Boots"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Temporal Boots"
+    },
+    {
+      "type": "text",
+      "text": "The standard enchantable gear most jobs wear after level 99."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Overview",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "Temporal Boots Types",
+      "target": "#boots"
+    },
+    {
+      "type": "link",
+      "text": "Crafting",
+      "target": "#craft"
+    },
+    {
+      "type": "link",
+      "text": "Normal Enchant",
+      "target": "#normal"
+    },
+    {
+      "type": "link",
+      "text": "Hidden Enchant",
+      "target": "#hidden"
+    },
+    {
+      "type": "link",
+      "text": "Socketed Boots",
+      "target": "#slot"
+    },
+    {
+      "type": "link",
+      "text": "Enchant Materials",
+      "target": "#material"
+    },
+    {
+      "type": "link",
+      "text": "Location",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "References",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "Overview",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "Temporal Boots are the standard enchantable gear obtained in the Glast Heim Memorial Dungeon."
+    },
+    {
+      "type": "text",
+      "text": "The level 130 and level 160 Glast Heim instances drop the Temporal Boots crafting materials and enchant materials."
+    },
+    {
+      "type": "heading",
+      "text": "Temporal Boots Types",
+      "anchor": "boots"
+    },
+    {
+      "type": "image",
+      "path": "en/enchant/temporal_boots_types.cd3e7eeb5d32.jpg",
+      "caption": "Temporal STR·INT·AGI·VIT·DEX·LUK Boots"
+    },
+    {
+      "type": "text",
+      "text": "There are 6 Temporal Boots, one per stat, so each job can pick the one that suits it."
+    },
+    {
+      "type": "heading",
+      "text": "Crafting",
+      "anchor": "craft"
+    },
+    {
+      "type": "text",
+      "text": "1 [ITEM:6607|Temporal Crystal] crafts the basic Temporal Boots."
+    },
+    {
+      "type": "text",
+      "text": "Crafted Temporal Boots plus 5 [ITEM:6607|Temporal Crystal] let you craft the Temporal Boots type of your choice."
+    },
+    {
+      "type": "heading",
+      "text": "Normal Enchant",
+      "anchor": "normal"
+    },
+    {
+      "type": "text",
+      "text": "Slotless Temporal Boots can get 4 normal enchants in total."
+    },
+    {
+      "type": "text",
+      "text": "For a normal enchant you choose the option type yourself, and the success rate is 100%."
+    },
+    {
+      "type": "image",
+      "path": "en/enchant/temporal_boots_normal_enchant.dcbc5bb0811f.png",
+      "caption": "Temporal Boots normal enchant options"
+    },
+    {
+      "type": "heading",
+      "text": "Hidden Enchant",
+      "anchor": "hidden"
+    },
+    {
+      "type": "text",
+      "text": "Temporal Boots with all 4 enchants done can get the final hidden enchant."
+    },
+    {
+      "type": "text",
+      "text": "The hidden enchant success rate of slotless Temporal Boots is 100%."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Hidden Enchant"
+      ],
+      "rows": [
+        [
+          "Bear's Power"
+        ],
+        [
+          "Muscle Fool"
+        ],
+        [
+          "Hawk Eye"
+        ],
+        [
+          "Speed of Light"
+        ],
+        [
+          "Runaway Magic"
+        ],
+        [
+          "Lucky Day"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Option Details",
+      "text": "For the detailed effects of the hidden enchants, see the in-game item info or the server database."
+    },
+    {
+      "type": "heading",
+      "text": "Socketed Boots",
+      "anchor": "slot"
+    },
+    {
+      "type": "text",
+      "text": "Slotless Temporal Boots plus 5 Temporal Crystals craft socketed Temporal Boots."
+    },
+    {
+      "type": "notice",
+      "title": "Adding a Socket",
+      "text": "The slotless → socketed conversion succeeds 50% of the time; on failure the equipment is destroyed."
+    },
+    {
+      "type": "text",
+      "text": "Socketed Temporal Boots can likewise get 4 normal enchants and 1 hidden enchant."
+    },
+    {
+      "type": "text",
+      "text": "On socketed Temporal Boots, a failed enchant destroys the equipment, and enchants cannot be reset."
+    },
+    {
+      "type": "heading",
+      "text": "Enchant Materials",
+      "anchor": "material"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Step",
+        "Contaminated Magic",
+        "Coagulated Spell",
+        "Zeny"
+      ],
+      "rows": [
+        [
+          "1st",
+          "1",
+          "3",
+          "100,000"
+        ],
+        [
+          "2nd",
+          "2",
+          "10",
+          "100,000"
+        ],
+        [
+          "3rd",
+          "4",
+          "20",
+          "100,000"
+        ],
+        [
+          "4th",
+          "7",
+          "40",
+          "100,000"
+        ],
+        [
+          "Hidden",
+          "10",
+          "50",
+          "100,000"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Location",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:lasa_in01,181,45,Temporal Boots Enchant NPC]"
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "Ragnarok Online official site - Temporal Boots",
+          "url": "https://ro.gnjoy.com/news/update/View.asp?seq=122&curpage=9"
+        }
+      ]
+    }
+  ]
+}

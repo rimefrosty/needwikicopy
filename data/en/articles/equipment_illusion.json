@@ -1,0 +1,115 @@
+{
+  "id": "equipment_illusion",
+  "title": "Illusion Dungeon Equipment",
+  "summary": "The main equipment and cards from Illusion Dungeons.",
+  "keywords": [
+    "일루전",
+    "일루전 던전",
+    "일루전 장비",
+    "카드"
+  ],
+  "tags": [
+    "장비",
+    "일루전 던전"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Equipment Guide",
+      "target": "equipment_main"
+    },
+    {
+      "text": "Equipment by Content",
+      "target": "equipment_content"
+    },
+    {
+      "text": "Illusion Dungeon"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Illusion Dungeon Equipment"
+    },
+    {
+      "type": "text",
+      "text": "The main equipment and cards from Illusion Dungeons."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Content",
+        "EP",
+        "Entry Level",
+        "Key Items",
+        "Page"
+      ],
+      "widths": [
+        "25%",
+        "8%",
+        "10%",
+        "42%",
+        "15%"
+      ],
+      "rows": [
+        [
+          "Illusion of Moonlight",
+          "16.2",
+          "100+",
+          "[ITEM:0|Illusion of Moonlight Equipment]\n[ITEM:0|Illusion of Moonlight Cards]\n[ITEM:27081|Furious Moonlight Flower Card]",
+          "[LINK:content_illusion_moonlight|Open]"
+        ],
+        [
+          "Illusion of Frozen",
+          "16.2",
+          "120+",
+          "[ITEM:0|Illusion of Frozen Equipment]\n[ITEM:0|Illusion of Frozen Cards]\n[ITEM:27113|Awaken Ktullanux Card]",
+          "[LINK:content_illusion_frozen|Open]"
+        ],
+        [
+          "Illusion of Vampire",
+          "16.2",
+          "130+",
+          "[ITEM:0|Illusion of Vampire Equipment]\n[ITEM:0|Illusion of Vampire Cards]\n[ITEM:27104|Furious Dracula Card]",
+          "[LINK:content_illusion_vampire|Open]"
+        ],
+        [
+          "Illusion of Turtle Palace",
+          "16.2",
+          "150+",
+          "[ITEM:0|Illusion of Turtle Palace Equipment]\n[ITEM:0|Illusion of Turtle Palace Cards]\n[ITEM:27119|Ominous Turtle General Card]",
+          "[LINK:content_illusion_turtle|Open]"
+        ],
+        [
+          "Illusion of Teddy Bear",
+          "16.2",
+          "150+",
+          "[ITEM:0|Illusion of Teddy Bear Equipment]\n[ITEM:0|Illusion of Teddy Bear Cards]\n[ITEM:27287|Shiny Teddy Bear Card]",
+          "[LINK:content_illusion_teddy|Open]"
+        ],
+        [
+          "Illusion of Luanda",
+          "16.2",
+          "160+",
+          "[ITEM:0|Illusion of Luanda Equipment]\n[ITEM:0|Illusion of Luanda Cards]\n[ITEM:27294|Ancient Tao Gunka Card]\n[ITEM:27298|Ancient Wootan Defender Card]",
+          "[LINK:content_illusion_luanda|Open]"
+        ],
+        [
+          "Illusion of Labyrinth",
+          "17.1",
+          "170+",
+          "[ITEM:0|Illusion of Labyrinth Equipment]\n[ITEM:0|Illusion of Labyrinth Cards]\n[ITEM:0|Tae Goo Lyeon]\n[ITEM:27334|Chaos Baphomet Card]",
+          "[LINK:content_illusion_labyrinth|Open]"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "About item links",
+      "text": "Entries whose item ID is not confirmed yet are written as [ITEM:0|item name] for now."
+    }
+  ]
+}

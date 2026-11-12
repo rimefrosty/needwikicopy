@@ -1,0 +1,176 @@
+{
+  "id": "enchant_biolab",
+  "title": "⚒ 생체던전",
+  "summary": "생체 연구소 장비에 특수 인챈트를 부여할 수 있는 시스템입니다.",
+  "keywords": [
+    "생체던전",
+    "생체 연구소",
+    "용사의 의지",
+    "피의 갈증",
+    "망자의 한기",
+    "생체 인챈트"
+  ],
+  "tags": [
+    "인챈트",
+    "생체던전",
+    "생체연구소"
+  ],
+  "breadcrumb": [
+    {
+      "text": "홈",
+      "target": "home"
+    },
+    {
+      "text": "인챈트"
+    },
+    {
+      "text": "생체던전"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "생체던전"
+    },
+    {
+      "type": "text",
+      "text": "생체 연구소 장비에 특수 능력치를 부여할 수 있는 인챈트 시스템입니다."
+    },
+    {
+      "type": "heading",
+      "text": "목차"
+    },
+    {
+      "type": "link",
+      "text": "콘텐츠 소개",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "필요 재료",
+      "target": "#material"
+    },
+    {
+      "type": "link",
+      "text": "인챈트 옵션",
+      "target": "#option"
+    },
+    {
+      "type": "link",
+      "text": "대상 장비",
+      "target": "#target"
+    },
+    {
+      "type": "link",
+      "text": "주의사항",
+      "target": "#notice"
+    },
+    {
+      "type": "link",
+      "text": "이동",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "참고 자료",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "콘텐츠 소개",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "생체 연구소 장비에 추가 옵션을 부여할 수 있는 인챈트 시스템입니다."
+    },
+    {
+      "type": "text",
+      "text": "무기와 방어구 모두 인챈트가 가능하며, 재료에 따라 슬롯별 인챈트가 진행됩니다."
+    },
+    {
+      "type": "heading",
+      "text": "필요 재료",
+      "anchor": "material"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "재료",
+        "용도"
+      ],
+      "rows": [
+        [
+          "[ITEM:6469|용사의 의지]",
+          "4번째 슬롯 인챈트"
+        ],
+        [
+          "[ITEM:6470|피의 갈증]",
+          "3번째 슬롯 인챈트"
+        ],
+        [
+          "[ITEM:6471|망자의 한기]",
+          "인챈트 초기화"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "인챈트 옵션",
+      "anchor": "option"
+    },
+    {
+      "type": "image",
+      "path": "enchant/biolab_enchant_options.png",
+      "caption": "생체던전 인챈트 옵션 목록"
+    },
+    {
+      "type": "heading",
+      "text": "대상 장비",
+      "anchor": "target"
+    },
+    {
+      "type": "image",
+      "path": "enchant/biolab_equipment.png",
+      "caption": "생체던전 인챈트 가능 장비 목록"
+    },
+    {
+      "type": "heading",
+      "text": "주의사항",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "인챈트 실패",
+      "text": "생체던전 인챈트는 실패 시 장비가 파괴됩니다."
+    },
+    {
+      "type": "notice",
+      "title": "낮은 성공 확률",
+      "text": "인챈트 성공 확률이 매우 낮으므로 충분한 재료를 준비하는 것을 권장합니다."
+    },
+    {
+      "type": "heading",
+      "text": "이동",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:lasa_in01,161,75,생체 인챈트 NPC]"
+    },
+    {
+      "type": "heading",
+      "text": "참고 자료",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "iRO Wiki - Biolab Enchants",
+          "url": "https://irowiki.org/wiki/Biolab_Enchants"
+        }
+      ]
+    }
+  ]
+}

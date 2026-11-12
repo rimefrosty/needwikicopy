@@ -1,0 +1,176 @@
+{
+  "id": "enchant_biolab",
+  "title": "⚒ Bio Lab",
+  "summary": "A system that adds special enchants to Bio Lab equipment.",
+  "keywords": [
+    "생체던전",
+    "생체 연구소",
+    "용사의 의지",
+    "피의 갈증",
+    "망자의 한기",
+    "생체 인챈트"
+  ],
+  "tags": [
+    "인챈트",
+    "생체던전",
+    "생체연구소"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Enchant"
+    },
+    {
+      "text": "Bio Lab"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Bio Lab"
+    },
+    {
+      "type": "text",
+      "text": "An enchant system that adds special stats to Bio Lab equipment."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "Overview",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "Required Materials",
+      "target": "#material"
+    },
+    {
+      "type": "link",
+      "text": "Enchant Options",
+      "target": "#option"
+    },
+    {
+      "type": "link",
+      "text": "Eligible Equipment",
+      "target": "#target"
+    },
+    {
+      "type": "link",
+      "text": "Notes",
+      "target": "#notice"
+    },
+    {
+      "type": "link",
+      "text": "Location",
+      "target": "#navi"
+    },
+    {
+      "type": "link",
+      "text": "References",
+      "target": "#reference"
+    },
+    {
+      "type": "heading",
+      "text": "Overview",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "An enchant system that adds extra options to Bio Lab equipment."
+    },
+    {
+      "type": "text",
+      "text": "Both weapons and armor can be enchanted; the material decides which slot is enchanted."
+    },
+    {
+      "type": "heading",
+      "text": "Required Materials",
+      "anchor": "material"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Material",
+        "Use"
+      ],
+      "rows": [
+        [
+          "[ITEM:6469|Will of Warrior]",
+          "4th slot enchant"
+        ],
+        [
+          "[ITEM:6470|Blood Thirst]",
+          "3rd slot enchant"
+        ],
+        [
+          "[ITEM:6471|Ghost Chill]",
+          "Enchant reset"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Enchant Options",
+      "anchor": "option"
+    },
+    {
+      "type": "image",
+      "path": "en/enchant/biolab_enchant_options.01456238bc9b.jpg",
+      "caption": "Bio Lab enchant options"
+    },
+    {
+      "type": "heading",
+      "text": "Eligible Equipment",
+      "anchor": "target"
+    },
+    {
+      "type": "image",
+      "path": "en/enchant/biolab_equipment.af804d71bccb.png",
+      "caption": "Equipment eligible for the Bio Lab enchant"
+    },
+    {
+      "type": "heading",
+      "text": "Notes",
+      "anchor": "notice"
+    },
+    {
+      "type": "notice",
+      "title": "Enchant Failure",
+      "text": "If a Bio Lab enchant fails, the equipment is destroyed."
+    },
+    {
+      "type": "notice",
+      "title": "Low Success Rate",
+      "text": "The enchant success rate is very low, so prepare plenty of materials."
+    },
+    {
+      "type": "heading",
+      "text": "Location",
+      "anchor": "navi"
+    },
+    {
+      "type": "text",
+      "text": "[NAVI:lasa_in01,161,75,Bio Lab Enchant NPC]"
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "anchor": "reference"
+    },
+    {
+      "type": "references",
+      "items": [
+        {
+          "text": "iRO Wiki - Biolab Enchants",
+          "url": "https://irowiki.org/wiki/Biolab_Enchants"
+        }
+      ]
+    }
+  ]
+}

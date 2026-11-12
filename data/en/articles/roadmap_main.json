@@ -1,0 +1,483 @@
+{
+  "id": "roadmap_main",
+  "title": "🗺 Server Roadmap",
+  "summary": "The NEED server's episode order and main content.",
+  "keywords": [
+    "로드맵",
+    "에피소드",
+    "판타스마고리카",
+    "테라 글로리아",
+    "일루시온"
+  ],
+  "tags": [
+    "로드맵"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Server Roadmap"
+    }
+  ],
+  "report_enabled": true,
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Server Roadmap"
+    },
+    {
+      "type": "text",
+      "text": "On the NEED server, content and systems open in order as the episodes progress."
+    },
+    {
+      "type": "heading",
+      "text": "Contents"
+    },
+    {
+      "type": "link",
+      "text": "14.2 Eclage",
+      "target": "#ep_14_2"
+    },
+    {
+      "type": "link",
+      "text": "14.3 Decisive Battle Part 1",
+      "target": "#ep_14_3_1"
+    },
+    {
+      "type": "link",
+      "text": "14.3 Decisive Battle Part 2",
+      "target": "#ep_14_3_2"
+    },
+    {
+      "type": "link",
+      "text": "15.1 Phantasmagorika",
+      "target": "#ep_15_1"
+    },
+    {
+      "type": "link",
+      "text": "15.2 Phantasmagorika Part 2 [Memory Record]",
+      "target": "#ep_15_2"
+    },
+    {
+      "type": "link",
+      "text": "16.1 Banquet for Heroes",
+      "target": "#ep_16_1"
+    },
+    {
+      "type": "link",
+      "text": "16.2 Terra Gloria",
+      "target": "#ep_16_2"
+    },
+    {
+      "type": "link",
+      "text": "17.1 Illusion",
+      "target": "#ep_17_1"
+    },
+    {
+      "type": "heading",
+      "text": "14.2 Eclage",
+      "anchor": "ep_14_2"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Type",
+        "Content"
+      ],
+      "widths": [
+        "30%",
+        "70%"
+      ],
+      "rows": [
+        [
+          "Memorial Dungeon",
+          "[LINK:content_faceworm_nest|Faceworm's Nest]"
+        ],
+        [
+          "Memorial Dungeon",
+          "[LINK:content_sara_memories|Sara's Memories]"
+        ],
+        [
+          "System",
+          "Level expansion to 160"
+        ],
+        [
+          "Memorial Dungeon",
+          "[LINK:content_geffen_magic_tournament|Geffen Magic Tournament]"
+        ],
+        [
+          "Memorial Dungeon",
+          "[LINK:content_cursed_swordsman|Cursed Swordsman]"
+        ],
+        [
+          "Memorial Dungeon",
+          "[LINK:content_demon_god_tower|Devil's Tower]"
+        ],
+        [
+          "Memorial Dungeon",
+          "[LINK:horror_toy_factory|Horror Toy Factory]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "14.3 Decisive Battle Part 1",
+      "anchor": "ep_14_3_1"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Type",
+        "Content"
+      ],
+      "widths": [
+        "30%",
+        "70%"
+      ],
+      "rows": [
+        [
+          "Memorial Dungeon",
+          "[LINK:content_bios_mors|Isle of Bios]"
+        ],
+        [
+          "Memorial Dungeon",
+          "[LINK:content_bios_mors|Morse's Cave]"
+        ],
+        [
+          "Memorial Dungeon",
+          "[LINK:content_charleston_crisis|Charleston in Distress]"
+        ],
+        [
+          "Dungeon",
+          "Twisted Clock Tower"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "14.3 Decisive Battle Part 2",
+      "anchor": "ep_14_3_2"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Type",
+        "Content"
+      ],
+      "widths": [
+        "30%",
+        "70%"
+      ],
+      "rows": [
+        [
+          "Memorial Dungeon",
+          "[LINK:content_demon_god_temple_nightmare_jitterbug|Temple of the Demon God]"
+        ],
+        [
+          "Memorial Dungeon",
+          "[LINK:content_demon_god_temple_nightmare_jitterbug|Nightmarish Jitterbug]"
+        ],
+        [
+          "System",
+          "Level expansion to 175/60"
+        ],
+        [
+          "Memorial Dungeon",
+          "Old Glast Heim (Hard)"
+        ],
+        [
+          "New Cards",
+          "[LINK:update_new_cards_48|48 New Cards Update]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "15.1 Phantasmagorika",
+      "anchor": "ep_15_1"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Type",
+        "Content"
+      ],
+      "widths": [
+        "30%",
+        "70%"
+      ],
+      "rows": [
+        [
+          "Memorial Dungeon",
+          "[LINK:content_fenrir_and_airship|Fenrir and Sarah]"
+        ],
+        [
+          "Memorial Dungeon",
+          "[LINK:content_fenrir_and_airship|Assault on the Airship]"
+        ],
+        [
+          "Dungeon",
+          "[LINK:content_bio5|Tomb of the Fallen]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "15.2 Phantasmagorika Part 2 [Memory Record]",
+      "anchor": "ep_15_2"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Type",
+        "Content"
+      ],
+      "widths": [
+        "30%",
+        "70%"
+      ],
+      "rows": [
+        [
+          "Region",
+          "[LINK:content_verus_lab_lastroom|Verus]"
+        ],
+        [
+          "Memorial Dungeon",
+          "[LINK:content_verus_lab_lastroom|Central Laboratory]"
+        ],
+        [
+          "Memorial Dungeon",
+          "[LINK:content_verus_lab_lastroom|Last Room]"
+        ],
+        [
+          "New Cards",
+          "[LINK:update_twisted_clocktower_cards|New Cards: Twisted Clock Tower Update]"
+        ],
+        [
+          "System",
+          "[LINK:enchant_stone|Enchant Stone]"
+        ],
+        [
+          "Memorial Dungeon",
+          "[LINK:content_infinite_space|Infinite Space]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "16.1 Banquet for Heroes",
+      "anchor": "ep_16_1"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Type",
+        "Content"
+      ],
+      "widths": [
+        "30%",
+        "70%"
+      ],
+      "rows": [
+        [
+          "Memorial Dungeon",
+          "[LINK:content_room_of_consciousness|Room of Consciousness]"
+        ],
+        [
+          "Memorial Dungeon",
+          "[LINK:content_air_fortress_assault|Sky Fortress Invasion]"
+        ],
+        [
+          "Item",
+          "[LINK:enchant_soul_destroyer|Soul Plunger]"
+        ],
+        [
+          "New Cards",
+          "[LINK:update_pyramid_nightmare_cards|New Cards: Pyramid Nightmare Update]"
+        ],
+        [
+          "Dungeon",
+          "🔒 [LINK:content_bio5_rework|Tomb of the Fallen Overhaul]"
+        ],
+        [
+          "New Cards",
+          "🔒 [LINK:update_horror_toy_factory_cards|New Cards: Horror Toy Factory Update]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "16.2 Terra Gloria",
+      "anchor": "ep_16_2"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Type",
+        "Content"
+      ],
+      "widths": [
+        "30%",
+        "70%"
+      ],
+      "rows": [
+        [
+          "Memorial Dungeon",
+          "🔒 [LINK:content_hunter_base_outskirts|Heart Hunter War Base]"
+        ],
+        [
+          "Dungeon",
+          "🔒 [LINK:content_verner_lab|Werner Research Institute]"
+        ],
+        [
+          "Memorial Dungeon",
+          "🔒 [LINK:content_verner_core|Werner Laboratory Central Room]"
+        ],
+        [
+          "Equipment",
+          "🔒 3rd Job Shadow Set"
+        ],
+        [
+          "System",
+          "🔒 [LINK:system_rapine_tool_box|Lapine's Thump Box]"
+        ],
+        [
+          "New Cards",
+          "🔒 [LINK:update_phantasmagorika_cards|New Cards: Phantasmagorika Update]"
+        ],
+        [
+          "Memorial Dungeon",
+          "🔒 [LINK:content_friday_dungeon|Friday Dungeon]"
+        ],
+        [
+          "Region",
+          "🔒 [LINK:content_rock_ridge|Rock Ridge]"
+        ],
+        [
+          "Illusion Dungeon",
+          "🔒 [LINK:content_illusion_moonlight|Illusion of Moonlight]"
+        ],
+        [
+          "Illusion Dungeon",
+          "🔒 [LINK:content_illusion_vampire|Illusion of Vampire]"
+        ],
+        [
+          "Illusion Dungeon",
+          "🔒 [LINK:content_illusion_frozen|Illusion of Frozen]"
+        ],
+        [
+          "Illusion Dungeon",
+          "🔒 [LINK:content_illusion_turtle|Illusion of Turtle Palace]"
+        ],
+        [
+          "New Cards",
+          "🔒 [LINK:update_brasilis_cards|New Cards: Brasilis Update]"
+        ],
+        [
+          "Equipment",
+          "🔒 [LINK:racing_cap|Racing Cap]"
+        ],
+        [
+          "New Cards",
+          "🔒 [LINK:update_terra_gloria_cards|New Cards: EP 16.2 Terra Gloria Update]"
+        ],
+        [
+          "Item",
+          "🔒 [LINK:enchant_job_stone|Job Enchant Stone]"
+        ],
+        [
+          "New Cards",
+          "🔒 [LINK:update_moscovia_cards|New Cards: Moscovia Update]"
+        ],
+        [
+          "New Cards",
+          "🔒 [LINK:update_hero_traces_part1_cards|New Cards: Hero's Trail Part.1 Update]"
+        ],
+        [
+          "Illusion Dungeon",
+          "🔒 [LINK:content_illusion_teddy|Illusion of Teddy Bear]"
+        ],
+        [
+          "Memorial Dungeon",
+          "🔒 [LINK:content_charleston_crisis_renewal|Charleston in Distress (Renewal)]"
+        ],
+        [
+          "Illusion Dungeon",
+          "🔒 [LINK:content_illusion_luanda|Illusion of Luanda]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "17.1 Illusion",
+      "anchor": "ep_17_1"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Type",
+        "Content"
+      ],
+      "widths": [
+        "30%",
+        "70%"
+      ],
+      "rows": [
+        [
+          "Memorial Dungeon",
+          "🔒 [LINK:content_os_cor_memorial|2nd OS Search]"
+        ],
+        [
+          "Memorial Dungeon",
+          "🔒 [LINK:content_os_cor_memorial|Cor Memorial]"
+        ],
+        [
+          "System",
+          "🔒 [LINK:system_level_expansion_185|Level expansion to 185/65]"
+        ],
+        [
+          "New Cards",
+          "🔒 [LINK:update_ep171_illusion_cards|New Cards: EP 17.1 Illusion Update]"
+        ],
+        [
+          "Memorial Dungeon",
+          "🔒 [LINK:content_edda_gh|EDDA: Fall of Glast Heim]"
+        ],
+        [
+          "New Cards",
+          "🔒 [LINK:update_ep143_morocc_cards|New Cards: EP 14.3 Morroc Update]"
+        ],
+        [
+          "Illusion Dungeon",
+          "🔒 [LINK:content_illusion_labyrinth|Illusion of Labyrinth]"
+        ],
+        [
+          "Memorial Dungeon",
+          "🔒 [LINK:content_edda_biolab|EDDA Biolab]"
+        ],
+        [
+          "Memorial Dungeon",
+          "🔒 [LINK:content_old_gh_challenge|Old Glast Heim (Challenge Mode)]"
+        ],
+        [
+          "System",
+          "🔒 [LINK:system_level_expansion_200|Level expansion to 200/70]"
+        ],
+        [
+          "Dungeon",
+          "🔒 [LINK:content_mine_dungeon_3f|Einbech Mine F3]"
+        ],
+        [
+          "Dungeon",
+          "🔒 [LINK:content_old_odin|Ancient Odin Temple]"
+        ],
+        [
+          "Dungeon",
+          "🔒 [LINK:content_abyss_lake_4f|Abyss Lake Underground Cave F4]"
+        ]
+      ]
+    }
+  ]
+}

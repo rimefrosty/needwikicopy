@@ -71,9 +71,9 @@
 
 <script>
 // ---- Configuration -------------------------------------------------------
-// Where the wiki data comes from. Set this to your proxy (see worker.js and README.md).
-// It must end with a slash.
-const DATA = "https://YOUR-PROXY.example.workers.dev/wiki/";
+// Where the wiki data comes from: the data folder next to this file, made by build-static.ps1.
+// Relative paths keep everything on the same site, so no proxy is needed. It must end with a slash.
+const DATA = "./data/";
 
 // ---- State ---------------------------------------------------------------
 let lang = localStorage.getItem("wikiLang") || "en";

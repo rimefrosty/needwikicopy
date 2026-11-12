@@ -1,0 +1,211 @@
+{
+  "id": "costume_system",
+  "title": "About the Costume System",
+  "summary": "An introduction to the NEED server's Costume Album, Wardrobe and Enchant Stone systems.",
+  "keywords": [
+    "의상",
+    "의상룸",
+    "의상 도감",
+    "의상 컬렉션",
+    "인챈트 스톤"
+  ],
+  "tags": [
+    "의상",
+    "시스템"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Costume Guide"
+    },
+    {
+      "text": "About the Costume System"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Costume System"
+    },
+    {
+      "type": "notice",
+      "title": "Costume Collection",
+      "text": "Over 2,000 costumes are registered so far, and new costumes will keep being added."
+    },
+    {
+      "type": "heading",
+      "text": "Registering Costumes"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Obtain a costume.",
+        "Register it in the Costume Album.",
+        "Each registration gives 1 Costume Coin (character-bound).",
+        "A registered costume is stored permanently in the Costume Album.",
+        "The original costume item is used up when you register it.",
+        "To wear it later, you receive it as a rental, and it becomes a character-bound costume.",
+        "The character that registered it first can use the costume right away."
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Note",
+      "text": "If you register several costumes for the same slot, only the last one registered is delivered to your inventory. The earlier ones are still saved in the album: store them in the Wardrobe and take them out when you need them."
+    },
+    {
+      "type": "heading",
+      "text": "Costume Unlock"
+    },
+    {
+      "type": "text",
+      "text": "Registered costumes can be unlocked for your account so that your other characters can use them too."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "widths": [
+        "50%",
+        "50%"
+      ],
+      "rows": [
+        [
+          "First registering character",
+          "Usable right after registering"
+        ],
+        [
+          "Account unlock cost",
+          "100,000,000 Zeny"
+        ],
+        [
+          "Account unlock effect",
+          "Usable by every character on the same account"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Wardrobe Slots"
+    },
+    {
+      "type": "text",
+      "text": "Expand the Wardrobe's slots to store more costumes."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entry",
+        "Details"
+      ],
+      "widths": [
+        "50%",
+        "50%"
+      ],
+      "rows": [
+        [
+          "Base slots",
+          "4 slots"
+        ],
+        [
+          "Expansion step",
+          "+4 slots"
+        ],
+        [
+          "Maximum slots",
+          "80 slots"
+        ],
+        [
+          "Expansion cost",
+          "1,000,000 Zeny for the first, rising with each expansion"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Album Registration Rewards"
+    },
+    {
+      "type": "text",
+      "text": "Keep collecting costumes to earn extra rewards: 100 costumes registered = 30 Costume Coins."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Condition",
+        "Rewards"
+      ],
+      "widths": [
+        "50%",
+        "50%"
+      ],
+      "rows": [
+        [
+          "100 costumes registered",
+          "30 Costume Coins"
+        ],
+        [
+          "200 costumes registered",
+          "30 Costume Coins"
+        ],
+        [
+          "300 costumes registered",
+          "30 Costume Coins"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Registering Enchant Stones"
+    },
+    {
+      "type": "text",
+      "text": "Enchant Stones can also be registered for permanent use."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Enchant Stones are registered per character.",
+        "A registered stone applies permanently to that character.",
+        "A registered costume you take out comes with the enchant already applied.",
+        "Registered enchants stay even if you change the costume or take it out again.",
+        "Enchant Stones are not shared with other characters on the same account."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Costume Exchange"
+    },
+    {
+      "type": "text",
+      "text": "The collection exchange lets you get the costume you want directly."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Currency",
+        "Details"
+      ],
+      "widths": [
+        "50%",
+        "50%"
+      ],
+      "rows": [
+        [
+          "300 Costume Coins",
+          "Choose 1 costume by its album number"
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "Note",
+      "text": "New costumes and Enchant Stones will be added step by step with server updates and the roadmap."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "home",
+  "title": "NEED Wiki",
+  "summary": "Main page of the NEED server wiki",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "NEED Wiki"
+    },
+    {
+      "type": "text",
+      "text": "Welcome to the NEED server. Find server information, content, equipment, the costume system and more."
+    },
+    {
+      "type": "notice",
+      "title": "🚀 Current Server Stage",
+      "text": "See the current server progress and upcoming content.\n[LINK:roadmap_current|Go to Current Server Stage]"
+    },
+    {
+      "type": "heading",
+      "text": "[COLOR:#45ff7e]📖 New here?[/COLOR]"
+    },
+    {
+      "type": "list",
+      "items": [
+        "[LINK:roadmap_main|Check the Server Roadmap]",
+        "[LINK:content_main|Check the Content Guide]",
+        "[LINK:equipment_main|Check the Equipment Guide]",
+        "[LINK:costume_system|Check the Costume System]"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "⚔ Main Guides"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Category",
+        "Description"
+      ],
+      "rows": [
+        [
+          "[LINK:content_main|Content Guide]",
+          "Memorial Dungeons, Illusion Dungeons, Farming Areas and other content"
+        ],
+        [
+          "[LINK:equipment_main|Equipment Guide]",
+          "Equipment by content and character growth"
+        ],
+        [
+          "[LINK:shadow_current|Shadow Gear]",
+          "Shadow Gear you can get now"
+        ],
+        [
+          "[LINK:equipment_refine|Refining Guide]",
+          "How equipment refining works"
+        ],
+        [
+          "[LINK:costume_system|Costume Guide]",
+          "The costume collection system with over 2,000 costumes"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "🔥 NEED Server Features"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Follows the official server's content with fewer inconveniences",
+        "Skill damage formulas set to the 2017 official version (before 4th jobs)",
+        "Content opens episode by episode",
+        "Costume collection system with over 2,000 costumes",
+        "Costumes and Enchant Stones keep being added",
+        "Updates follow the roadmap",
+        "Many Memorial Dungeons and Illusion Dungeons"
+      ]
+    },
+    {
+      "type": "recent_articles",
+      "mode": "created",
+      "title": "Recently added",
+      "limit": 5
+    },
+    {
+      "type": "recent_articles",
+      "mode": "updated",
+      "title": "Recently updated",
+      "limit": 5
+    }
+  ]
+}

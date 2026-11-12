@@ -1,0 +1,148 @@
+{
+  "id": "enchant_gigantic_snake_skin",
+  "title": "⚒ 거신뱀의 껍질",
+  "summary": "메모리얼 던전 타임어택 보상으로 획득 가능한 대표적인 중후반 장비 인챈트 시스템입니다.",
+  "keywords": [
+    "거신뱀의 껍질",
+    "시간의 망토",
+    "타임어택",
+    "메모리얼 던전",
+    "제련도",
+    "추가 슬롯"
+  ],
+  "tags": [
+    "인챈트",
+    "거신뱀의 껍질",
+    "메모리얼 던전",
+    "페이스웜의 둥지"
+  ],
+  "breadcrumb": [
+    {
+      "text": "홈",
+      "target": "home"
+    },
+    {
+      "text": "인챈트"
+    },
+    {
+      "text": "거신뱀의 껍질"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "거신뱀의 껍질(페이스웜의 둥지)"
+    },
+    {
+      "type": "text",
+      "text": "메모리얼 던전 타임어택 보상을 통해 획득 가능한 대표적인 중후반 장비 인챈트 시스템입니다."
+    },
+    {
+      "type": "heading",
+      "text": "목차"
+    },
+    {
+      "type": "link",
+      "text": "페이스웜의 둥지",
+      "target": "content_faceworm_nest"
+    },
+    {
+      "type": "link",
+      "text": "콘텐츠 소개",
+      "target": "#overview"
+    },
+    {
+      "type": "link",
+      "text": "획득 방법",
+      "target": "#obtain"
+    },
+    {
+      "type": "link",
+      "text": "타임어택 보상",
+      "target": "#reward"
+    },
+    {
+      "type": "link",
+      "text": "추가 옵션",
+      "target": "#bonus"
+    },
+    {
+      "type": "heading",
+      "text": "페이스웜의 둥지",
+      "target": "faceworm_nest"
+    },
+    {
+      "type": "text",
+      "text": "거신뱀의 껍질은 페이스웜의 둥지 타임어택 보상으로 획득 가능한 장비입니다."
+    },
+    {
+      "type": "image",
+      "path": "enchant/faceworm_nest.png",
+      "caption": "입장 조건"
+    },
+    {
+      "type": "heading",
+      "text": "콘텐츠 소개",
+      "anchor": "overview"
+    },
+    {
+      "type": "text",
+      "text": "던전 클리어 시간에 따라 추가 옵션과 슬롯, 제련도가 결정되는 것이 특징입니다."
+    },
+    {
+      "type": "image",
+      "path": "enchant/gigantic_snake_skin_overview.png",
+      "caption": "메모리얼 던전 타임어택 시스템"
+    },
+    {
+      "type": "heading",
+      "text": "획득 방법",
+      "anchor": "obtain"
+    },
+    {
+      "type": "text",
+      "text": "메모리얼 던전을 클리어하면 보상 상자를 획득할 수 있습니다."
+    },
+    {
+      "type": "text",
+      "text": "타임어택 결과에 따라 거신뱀의 껍질과 시간의 망토에 추가 옵션이 부여됩니다."
+    },
+    {
+      "type": "image",
+      "path": "enchant/gigantic_snake_skin_hunt.png",
+      "caption": "빠른 클리어가 중요합니다"
+    },
+    {
+      "type": "heading",
+      "text": "타임어택 보상",
+      "anchor": "reward"
+    },
+    {
+      "type": "notice",
+      "title": "핵심 포인트",
+      "text": "클리어 시간이 빠를수록 더 높은 단계의 추가 옵션을 획득할 수 있습니다."
+    },
+    {
+      "type": "text",
+      "text": "던전 내 함정을 피하고 보스를 빠르게 처치하는 것이 중요합니다."
+    },
+    {
+      "type": "heading",
+      "text": "추가 옵션",
+      "anchor": "bonus"
+    },
+    {
+      "type": "image",
+      "path": "enchant/gigantic_snake_skin_bonus.png",
+      "caption": "타임어택 보상으로 부여되는 추가 옵션"
+    },
+    {
+      "type": "text",
+      "text": "타임어택 결과에 따라 제련도, 슬롯 수, 추가 능력치가 결정됩니다."
+    },
+    {
+      "type": "text",
+      "text": "추가 능력치는 STR, AGI, VIT, INT, DEX, LUK 중 랜덤하게 부여됩니다."
+    }
+  ]
+}

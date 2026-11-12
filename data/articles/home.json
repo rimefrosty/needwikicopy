@@ -1,0 +1,94 @@
+{
+  "id": "home",
+  "title": "NEED Wiki",
+  "summary": "NEED 서버 위키 메인 페이지",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "NEED Wiki"
+    },
+    {
+      "type": "text",
+      "text": "NEED 서버에 오신 것을 환영합니다. 서버 정보, 콘텐츠, 장비, 의상 시스템 등 다양한 정보를 확인할 수 있습니다."
+    },
+    {
+      "type": "notice",
+      "title": "🚀 현재 서버 단계",
+      "text": "현재 서버 진행 상황과 향후 업데이트 예정 콘텐츠를 확인해보세요.\n[LINK:roadmap_current|현재 서버 단계 바로가기]"
+    },
+    {
+      "type": "heading",
+      "text": "[COLOR:#45ff7e]📖 처음 오셨나요?[/COLOR]"
+    },
+    {
+      "type": "list",
+      "items": [
+        "[LINK:roadmap_main|서버 로드맵 확인]",
+        "[LINK:content_main|콘텐츠 가이드 확인]",
+        "[LINK:equipment_main|장비 가이드 확인]",
+        "[LINK:costume_system|의상 시스템 확인]"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "⚔ 주요 가이드"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "분류",
+        "설명"
+      ],
+      "rows": [
+        [
+          "[LINK:content_main|콘텐츠 가이드]",
+          "메모리얼 던전, 일루전 던전, 파밍 지역 등 콘텐츠 정보"
+        ],
+        [
+          "[LINK:equipment_main|장비 가이드]",
+          "콘텐츠별 장비 및 성장 정보"
+        ],
+        [
+          "[LINK:shadow_current|쉐도우 장비]",
+          "현재 획득 가능한 쉐도우 장비 정보"
+        ],
+        [
+          "[LINK:equipment_refine|제련 가이드]",
+          "장비 제련 시스템 안내"
+        ],
+        [
+          "[LINK:costume_system|의상 가이드]",
+          "2,000종 이상의 의상 컬렉션 시스템 안내"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "🔥 NEED 서버 특징"
+    },
+    {
+      "type": "list",
+      "items": [
+        "본서버 콘텐츠를 지향하지만 불편함을 최소화",
+        "스킬 데미지 계산식을 2017년 기준 공식으로 조정(4차 출시 전)",
+        "에피소드 기반 순차 콘텐츠 개방",
+        "2,000종 이상의 의상 컬렉션 시스템",
+        "계속 확장되는 의상 및 인챈트 스톤",
+        "로드맵 기반 업데이트 진행",
+        "다양한 메모리얼 및 일루전 던전 콘텐츠"
+      ]
+    },
+    {
+      "type": "recent_articles",
+      "mode": "created",
+      "title": "최근 추가된 문서",
+      "limit": 5
+    },
+    {
+      "type": "recent_articles",
+      "mode": "updated",
+      "title": "최근 수정된 문서",
+      "limit": 5
+    }
+  ]
+}

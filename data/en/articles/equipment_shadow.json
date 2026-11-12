@@ -1,0 +1,65 @@
+{
+  "id": "equipment_shadow",
+  "title": "Shadow Gear",
+  "summary": "Shadow Gear types, features and recommended gear.",
+  "keywords": [
+    "쉐도우",
+    "쉐도우 장비",
+    "관통",
+    "직업 쉐도우",
+    "유틸리티 쉐도우"
+  ],
+  "tags": [
+    "장비",
+    "쉐도우"
+  ],
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "target": "home"
+    },
+    {
+      "text": "Equipment Guide",
+      "target": "equipment_main"
+    },
+    {
+      "text": "Shadow Gear"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Shadow Gear"
+    },
+    {
+      "type": "text",
+      "text": "Shadow Gear is special equipment that raises your character's stats or strengthens specific skills. Choose the Shadow Gear that fits your goal."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Section",
+        "Description"
+      ],
+      "widths": [
+        "35%",
+        "65%"
+      ],
+      "rows": [
+        [
+          "[LINK:shadow_current|Shadow Gear Available Now]",
+          "The Shadow Gear you can get on the server."
+        ],
+        [
+          "[LINK:shadow_guide|Shadow Gear Guide]",
+          "The basics of Shadow Gear: slots, how to get it and more."
+        ]
+      ]
+    },
+    {
+      "type": "notice",
+      "title": "What is Shadow Gear?",
+      "text": "Shadow Gear uses its own equipment slots, separate from regular equipment, and makes your character stronger through set effects and skill bonuses."
+    }
+  ]
+}
