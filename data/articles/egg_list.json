@@ -49,12 +49,20 @@
       ],
       "rows": [
         [
-          "[LINK:egg_2026_06_SPIRIT_SCROLL|영혼의 스크롤]",
+          "[LINK:egg_2026_06_GUNSLINGER_SCROLL|건슬링거 스크롤]",
           "판매 중"
         ],
         [
-          "[LINK:egg_2026_06_BALLOON_SCROLL|풍선 스크롤]",
+          "[LINK:egg_2026_06_GREEN_SCROLL_K|7월의 그린 스크롤]",
           "판매 중"
+        ],
+        [
+          "[LINK:egg_2026_06_SPIRIT_SCROLL|영혼의 스크롤]",
+          "판매 종료"
+        ],
+        [
+          "[LINK:egg_2026_06_BALLOON_SCROLL|풍선 스크롤]",
+          "판매 종료"
         ],
         [
           "[LINK:egg_2026_06_PORING_SCROLL|포링 스크롤]",
